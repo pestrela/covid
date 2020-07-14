@@ -1,5 +1,20 @@
 
+# TOC
 
+* [O que 'e o Evidentia Medica](#o-que-e-o-evidentia-medica)
+* [Jargão estatístico: sensibilidade e especificidade](#jargão-estatístico-sensibilidade-e-especificidade)
+* [Exemplos de FPs e FNs](#exemplos-de-fps-e-fns)
+* [Como posso calcular FPs, FNs e probabilidade pre-teste?](#como-posso-calcular-fps-fns-e-probabilidade-pre-teste)
+* [Sobre Tomas Pueyo](#sobre-tomas-pueyo)
+* [Os testes sao fiaveis?](#os-testes-sao-fiaveis)
+* [Qual 'e a utilidade de testes sistematicos em massa?](#qual-e-a-utilidade-de-testes-sistematicos-em-massa)
+* [Entrevista a um Rastreador na Amadora](#entrevista-a-um-rastreador-na-amadora)
+* [Velocidade de Rastreamento](#velocidade-de-rastreamento)
+* [Reunioes secretas do infarmed](#reunioes-secretas-do-infarmed)
+* [App e privacidade](#app-e-privacidade)
+* [Comentario paulo portas, 21 junho](#comentario-paulo-portas-21-junho)
+* [Humor](#humor)
+* [Links recomendados](#links-recomendados)
 
 
 ## O que 'e o Evidentia Medica 
@@ -93,20 +108,6 @@ https://medium.com/tomas-pueyo/coronavirus-articles-endorsements-fdc68614f8e3
 
 
 
-Os testes PCR sao muito fracos, dao demasiados FP e FN.
-https://evidentiamedica.com/testar-testar-ou-deixa-te-estar/
-Os unicos testes realmente fiaveis para COVID sao os TAC, que nao sao praticos, nem rapidos, nem portateis.
-----
-Por isso os testes PCR actuais sao apenas SUGESTOES que complementam um diagnostico clinico (sintomas, envolvente, outros testes de pessoas proximas).
-Exemplo #1 deste artigo: se eu estiver num Lar, com alguns sintomas mas onde ja' esta' muitos infectados, populacao de risco, espaco fechados, etc, posso ter uma probabilidade subjectiva de 90% de estar infectado.
-Faco o teste e da' positivo => probabilidade sobe para 99%;
-se der negativo, desce para 74%. Se o segundo teste der negativo de novo, desce para 47%; terceiro negativo, desce para 22%, etc.
-Exemplo #2: pessoas aleatorias no aeroporto que vieram de areas
-"ok", sem sintomas, etc => probabilidade 5%; teste positivo = 45%; segundo teste negativo => 20%. etc
-https://www.bmj.com/content/369/bmj.m1808
-
-
-
 ## Os testes sao fiaveis?
 
 Os testes COVID PCR são muito fracos. São demasiados Falsos Positivos e Falsos Negativos.
@@ -127,7 +128,7 @@ Exemplo #2: pessoas aleatórias no aeroporto que vieram de áreas com poucas cad
 
 fonte: https://www.bmj.com/content/369/bmj.m1808
 
-![](img/covid_leaf_plot.jpg)
+![ ](img/covid_leaf_plot.jpg)
 
 ---
 
