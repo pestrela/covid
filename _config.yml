@@ -1,4 +1,10 @@
-#theme: jekyll-theme-cayman
-theme: jekyll-theme-minimal
+
+# https://assemble.io/docs/YAML-front-matter.html
+
+theme: jekyll-theme-cayman
 
 
+#theme: jekyll-theme-minimal
+
+title: Comentario do COVID-19
+description: Este site agrupa os meus comentarios sobre o CVID-19 que publico no Facebook.
