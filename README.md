@@ -308,17 +308,17 @@ https://www.bbc.com/news/52311014
 
 A rubrica de Paulo Portas na TVI deste domingo focou, de novo, que a LENTIDÃO e o DESLEIXO da resposta ao covid em LVT 'e sem dúvida a causa do planalto sem fim em que estamos.
 
-A parte que interessa começa aos 9m45s do video.
+A parte que interessa começa aos 9m45s do vídeo.
 
-Os numeros abaixo veem duma apresentação crucial das das reuniões do infarmed que foi tornada  publica:
-"gabinete resposta intervenção supressão COVID-19 em LVT", 8 julho:
+Os números abaixo veem duma apresentação crucial das das reuniões do infarmed que foi tornada  publica:\\
+"gabinete resposta intervenção supressão COVID-19 em LVT", 8 julho:\\
 <https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Rui_Portugal.pdf>
 
-LVT tem 50 concelhos; destes, 5 estão em estado crítico, e 5 precisam de vigilância especial. 
+LVT tem 50 concelhos; destes, 5 estão em estado crítico, e 5 precisam de vigilância especial.\\
 Para estes 10 conselhos só há ~600 pessoas para fazer TODAS as 3 fases 
-a) inquéritos aos infectados 
-b) vigilância; 
-c) verificação
+* a) inquéritos aos infectados 
+* b) vigilância; 
+* c) verificação
 
 Estas três fases incluem contactos telefónicos a pessoas que deram contatos errados, visitas aos locais, verificação, etc. 
 
