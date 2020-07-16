@@ -1,21 +1,30 @@
 
 # TOC
 
-* [O que 'e o Evidentia Medica](#o-que-e-o-evidentia-medica)
-* [Jargão estatístico: sensibilidade e especificidade](#jargão-estatístico-sensibilidade-e-especificidade)
-* [Exemplos de FPs e FNs](#exemplos-de-fps-e-fns)
-* [Como posso calcular FPs, FNs e probabilidade pre-teste?](#como-posso-calcular-fps-fns-e-probabilidade-pre-teste)
-* [Sobre Tomas Pueyo](#sobre-tomas-pueyo)
-* [Os testes sao fiaveis?](#os-testes-sao-fiaveis)
-* [Qual 'e a utilidade de testes sistematicos em massa?](#qual-e-a-utilidade-de-testes-sistematicos-em-massa)
-* [Entrevista a um Rastreador na Amadora](#entrevista-a-um-rastreador-na-amadora)
-* [Velocidade de Rastreamento](#velocidade-de-rastreamento)
-* [Reunioes secretas do infarmed](#reunioes-secretas-do-infarmed)
-* [App e privacidade](#app-e-privacidade)
-* [Comentario paulo portas, 21 junho](#comentario-paulo-portas-21-junho)
-* [Humor](#humor)
-* [Links recomendados](#links-recomendados)
+* Fiabilidade de Testes
+  * [O que 'e o Evidentia Medica](#o-que-e-o-evidentia-medica)
+  * [Jargão estatístico: sensibilidade e especificidade](#jargão-estatístico-sensibilidade-e-especificidade)
+  * [Exemplos de FPs e FNs](#exemplos-de-fps-e-fns)
+  * [Como posso calcular FPs, FNs e probabilidade pre-teste?](#como-posso-calcular-fps-fns-e-probabilidade-pre-teste)
+  * [Os testes sao fiaveis?](#os-testes-sao-fiaveis)
+  * [Qual 'e a utilidade de testes sistematicos em massa?](#qual-e-a-utilidade-de-testes-sistematicos-em-massa)
+  
+* Rastreamento LVT
+  * [Entrevista a um Rastreador na Amadora](#entrevista-a-um-rastreador-na-amadora)
+  * [Velocidade de Rastreamento](#velocidade-de-rastreamento)
+  * [Reunioes secretas do infarmed](#reunioes-secretas-do-infarmed)
+  * [Comentario paulo portas, 21 junho](#comentario-paulo-portas-21-junho)
+  * [Comentario paulo portas, 12 julho](#comentario-paulo-portas-12-julho)
 
+* APP covid
+  * [App e privacidade](#app-e-privacidade)
+  * [Sobre Tomas Pueyo](#sobre-tomas-pueyo)
+  
+* Varios
+  * [Humor](#humor)
+  * [Links recomendados](#links-recomendados)
+
+# Fiabilidade de Testes
 
 ## O que 'e o Evidentia Medica 
 
@@ -93,18 +102,20 @@ Ver estes exemplos para um teste perfeito, aleatorio e tipico PCR:
  
 Ver esta calculadora que relaciona Sencibilidade, Especificdade e Probabilidade Pré-teste:\
 https://www.bmj.com/content/369/bmj.m1808   
-  
 
-  
-     
-## Sobre Tomas Pueyo
-     
-Os textos de Tomas Pueyo sao longos, mas sao de longe os melhor suportados com analises e os mais detalhados.\ 
-https://medium.com/@tomaspueyo
- 
-Combinados, tiveram 60+ Milhoes de visualizacoes, foram subscritos por 100+ especialistas, e foram traduzidos em 40+ linguas pelos proprios leitores interessados.\
-https://medium.com/tomas-pueyo/coronavirus-articles-endorsements-fdc68614f8e3
 
+* Rastreamento LVT
+  * [Entrevista a um Rastreador na Amadora](#entrevista-a-um-rastreador-na-amadora)
+  * [Velocidade de Rastreamento](#velocidade-de-rastreamento)
+  * [Reunioes secretas do infarmed](#reunioes-secretas-do-infarmed)
+  * [Comentario paulo portas, 12 julho](#comentario-paulo-portas-12-julho)
+
+* APP covid  
+  * [App e privacidade](#app-e-privacidade)
+  * [Comentario paulo portas, 21 junho](#comentario-paulo-portas-21-junho)
+  * [Sobre Tomas Pueyo](#sobre-tomas-pueyo)
+  
+* Varios
 
 
 
@@ -212,7 +223,7 @@ Ajuntamentos:
 
 ## Velocidade de Rastreamento
 
-neste momento existem entre 12 a 15 rastreadores para 2 concelhos juntos: Loures e Odivelas. Loures 'e o sexto maior concelho, Odivelas o 14th.
+Neste momento existem entre 12 a 15 rastreadores para 2 concelhos juntos: Loures e Odivelas. Loures 'e o sexto maior concelho, Odivelas o 14th.
 
 12 a 15 rastreadores.
 
@@ -240,27 +251,6 @@ https://www.publico.pt/2020/06/28/opiniao/editorial/abram-portas-reuniao-infarme
 
 “As avaliações contraditórias sobre o que lá foi dito, os rumores desencontrados sobre irritações, zangas ou puxões de orelhas e a suspeita de que o espírito de compromisso entre políticos e cientistas acabou exigem uma de duas respostas: ou as reuniões do Infarmed deixam de se fazer por se tornarem um perturbante factor de ruído; ou abrem-se as suas portas para que todos os cidadãos possam saber com transparência o que lá se disse e passou.”
 
-
-
-## App e privacidade
- 
-Finalmente a APP contra o covid foi aprovada pela CNPD. 
-
-A deliberação 'e importante porque estamos a falar de potencialmente 10M pessoas, mas na pratica as criticas da CNPD são praticamente marginais, e inclusivamente tiveram que recorrer a hipotéticos cenários futuros.
-
-https://www.cnpd.pt/home/decisoes/Delib/DEL_2020_277.pdf
-
-Poupo-vos a leitura das 23 paginas, muito mais simples 'e ver a imagem abaixo que compara:
-- as permissões do Whatsapp, uma app que todos usam, mas que ninguém sabe o que realmente faz ("codigo-fonte fechado").
-
-- 'a APP Alemã, que qualquer pessoa pode inspecionar por ter "codigo-fonte aberto".
-
-Ver também a mesma opinião os 2:10 de um dos poucos jornalistas especialistas em tecnologia - Lourenço Medeiros.
-
-https://sicnoticias.pt/especiais/coronavirus/2020-06-30-Aplicacao-portuguesa-de-rastreio-a-covid-19
-
-
-![ ](img/app_whatsapp_vs_covid_app.jpg)
 
 
 ## Comentario paulo portas, 21 junho
@@ -312,7 +302,85 @@ f) Finalmente o governo anunciou que vai ser feito inquéritos sanitário no aer
 Extra: 'e extremamente dificil, mas nao impossivel, de comparar paises diferentes. 'E necessario controlar dezenas de variacoes:
 https://www.bbc.com/news/52311014
 
+## Comentario paulo portas, 12 julho
 
+<https://tvi24.iol.pt/opiniao/covid-19/paulo-portas-global-passamos-de-dizer-que-somos-os-melhores-do-mundo-para-dizer-que-o-mundo-esta-contra-nos>
+
+A rubrica de Paulo Portas na TVI deste domingo focou, de novo, que a LENTIDÃO e o DESLEIXO da resposta ao covid em LVT 'e sem dúvida a causa do planalto sem fim em que estamos.
+
+A parte que interessa começa aos 9m45s do video.
+
+Os numeros abaixo veem duma apresentação crucial das das reuniões do infarmed que foi tornada  publica:
+"gabinete resposta intervenção supressão COVID-19 em LVT", 8 julho:
+<https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Rui_Portugal.pdf>
+
+LVT tem 50 concelhos; destes, 5 estão em estado crítico, e 5 precisam de vigilância especial. 
+Para estes 10 conselhos só há ~600 pessoas para fazer TODAS as 3 fases 
+a) inquéritos aos infectados 
+b) vigilância; 
+c) verificação
+
+Estas três fases incluem contactos telefónicos a pessoas que deram contatos errados, visitas aos locais, verificação, etc. 
+
+Isto 'e muito pouco; 600 pessoas têm que gerir 30 mil pessoas (infectados / suspeitos). 
+
+Desde março o número de rastreadores SÓ aumentou 40%; inacreditavelmente, não foram buscar pessoas:
+* ao exército 
+  * estes eram perfeitos, por saberem seguir regras
+* aos finalistas de psicologia
+* Mas especialmente um reforço massivo de pessoal NÃO técnico, tipo call center, com a única função: encontrar pessoas pelo telefone.
+
+Pior, foram criados centros de isolamento que não foram usados. 'As pessoas perguntou-se se queria ir para o centro, ou para casa. Sem surpresa, todos quiseram ir para casa, sem controlo.
+Isto causa a principal causa de infecção ser a "coabitação", o que 'e óbvio.
+
+A juntar a isto, a APP prometida para fim de Maio ainda não esta' pronta (por razoes nao-técnicas). Ate' Cabo Verde já tem a legislação da APP pronta.
+
+----
+
+Sumário da Apresentação:
+* página 5: menos de 600 pessoas para LVT (50 concelhos), separados por médicos, enfermagem, Assistentes operacionais, técnico diagnóstico, etc.
+* página 6: 600 profissionais para gerir 30 mil pessoas (infectados e suspeitos)
+* página 7: Amadora + Odivelas tiveram quase tantos inquéritos "incontactáveis" como "realizados"
+* página 10 Semana de julho teve menos de 23 pessoas a fazer visitas aos locais
+* pagina 11: 8 centros de isolamento / hospital de campanha tiveram com ocupação zero ou mínima
+* página 12: So' os concelhos problemáticos e Lisboa (que agrega vários) tiveram 49 surtos, total de 1200 confirmados
+* página 14: em abril estivemos muito perto do limite de UCI; enfermaria tem acréscimo de enfermaria mes-a-mes.
+* página 16: finalmente a última semana mostra um decréscimo nos vários concelhos problemáticos. Mas ainda esta' muito alto.
+* página 17: números exatos de todos os hospitais de LVT, em enfermaria, específico covid e não-covid.
+
+# APP covid
+
+## Sobre Tomas Pueyo
+     
+Os textos de Tomas Pueyo sao longos, mas sao de longe os melhor suportados com analises e os mais detalhados.\ 
+https://medium.com/@tomaspueyo
+ 
+Combinados, tiveram 60+ Milhoes de visualizacoes, foram subscritos por 100+ especialistas, e foram traduzidos em 40+ linguas pelos proprios leitores interessados.\
+https://medium.com/tomas-pueyo/coronavirus-articles-endorsements-fdc68614f8e3
+
+
+## App e privacidade
+ 
+Finalmente a APP contra o covid foi aprovada pela CNPD. 
+
+A deliberação 'e importante porque estamos a falar de potencialmente 10M pessoas, mas na pratica as criticas da CNPD são praticamente marginais, e inclusivamente tiveram que recorrer a hipotéticos cenários futuros.
+
+https://www.cnpd.pt/home/decisoes/Delib/DEL_2020_277.pdf
+
+Poupo-vos a leitura das 23 paginas, muito mais simples 'e ver a imagem abaixo que compara:
+- as permissões do Whatsapp, uma app que todos usam, mas que ninguém sabe o que realmente faz ("codigo-fonte fechado").
+
+- 'a APP Alemã, que qualquer pessoa pode inspecionar por ter "codigo-fonte aberto".
+
+Ver também a mesma opinião os 2:10 de um dos poucos jornalistas especialistas em tecnologia - Lourenço Medeiros.
+
+https://sicnoticias.pt/especiais/coronavirus/2020-06-30-Aplicacao-portuguesa-de-rastreio-a-covid-19
+
+
+![ ](img/app_whatsapp_vs_covid_app.jpg)
+ 
+ 
+# Varios 
 
 ## Humor
 
