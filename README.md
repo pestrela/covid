@@ -325,8 +325,8 @@ Estas três fases incluem contactos telefónicos a pessoas que deram contatos er
 Isto 'e muito pouco; 600 pessoas têm que gerir 30 mil pessoas (infectados / suspeitos). 
 
 Desde março o número de rastreadores SÓ aumentou 40%; inacreditavelmente, não foram buscar pessoas:
-* ao exército 
-  * estes eram perfeitos, por saberem seguir regras
+* ao exército
+  * estes eram perfeitos, por saberem seguir regras
 * aos finalistas de psicologia
 * Mas especialmente um reforço massivo de pessoal NÃO técnico, tipo call center, com a única função: encontrar pessoas pelo telefone.
 
