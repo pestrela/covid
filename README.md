@@ -310,11 +310,11 @@ A rubrica de Paulo Portas na TVI deste domingo focou, de novo, que a LENTIDÃO e
 
 A parte que interessa começa aos 9m45s do vídeo.
 
-Os números abaixo veem duma apresentação crucial das das reuniões do infarmed que foi tornada  publica:\\
-"gabinete resposta intervenção supressão COVID-19 em LVT", 8 julho:\\
+Os números abaixo veem duma apresentação crucial das das reuniões do infarmed que foi tornada  publica:  
+"gabinete resposta intervenção supressão COVID-19 em LVT", 8 julho:  
 <https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Rui_Portugal.pdf>
 
-LVT tem 50 concelhos; destes, 5 estão em estado crítico, e 5 precisam de vigilância especial.\\
+LVT tem 50 concelhos; destes, 5 estão em estado crítico, e 5 precisam de vigilância especial.  
 Para estes 10 conselhos só há ~600 pessoas para fazer TODAS as 3 fases 
 * a) inquéritos aos infectados 
 * b) vigilância; 
@@ -352,7 +352,7 @@ Sumário da Apresentação:
 
 ## Sobre Tomas Pueyo
      
-Os textos de Tomas Pueyo sao longos, mas sao de longe os melhor suportados com analises e os mais detalhados.\ 
+Os textos de Tomas Pueyo sao longos, mas sao de longe os melhor suportados com analises e os mais detalhados.   
 https://medium.com/@tomaspueyo
  
 Combinados, tiveram 60+ Milhoes de visualizacoes, foram subscritos por 100+ especialistas, e foram traduzidos em 40+ linguas pelos proprios leitores interessados.\
