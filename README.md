@@ -400,8 +400,7 @@ https://sicnoticias.pt/especiais/coronavirus/2020-06-30-Aplicacao-portuguesa-de-
   * ["Local de habitação "é o principal meio de transmissão" do vírus"](https://www.jn.pt/nacional/local-de-coabitacao-e-o-principal-contexto-de-transmissao-do-virus-12118723.html )
   * Comentário: Mas a DGS acho que andamos todos a almoçar morcego?
   
-  
-  
+ 
   
 ## Links recomendados
 
@@ -413,11 +412,3 @@ Ver acima seccoes especificas para cada link.
 * Testes sao fracos: https://evidentiamedica.com/testar-testar-ou-deixa-te-estar/
 * Entrevista Rastreador: https://rr.sapo.pt/2020/07/07/pais/especialista-em-saude-publica-nao-diria-que-nao-ha-infecoes-em-transportes-e-uma-afirmacao-politica-que-pode-ser-danosa/especial/198999/
 
-
- 
-  
-  
-  
-  
-  
-  
