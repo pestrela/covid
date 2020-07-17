@@ -28,7 +28,7 @@
 
 ## O que 'e o Evidentia Medica 
 
-https://evidentiamedica.com/#covid
+<https://evidentiamedica.com/#covid>
 
 Este site tem informacao de qualidade sobe o covid. Foi criado pelas duas associacoes de medicos de familia:
 * APMGF - Associação Portuguesa de Medicina Geral e Familiar 
@@ -39,8 +39,8 @@ Ricardo Mexia, que todos conhecem da televisão participa neste site, bem como a
   
 A maior contribuicao sao 200 artigos cientificos traduzidos e sumarizados para portugues.
 
-A segunda fonte que recomendo 'e esta "FAQ" para os proprios medicos de famila:\
-http://www.apmgf.pt/apmgfcms/dist/apmgf/noticia/noticia.html?id=2327
+A segunda fonte que recomendo 'e esta "FAQ" para os proprios medicos de famila:  
+<http://www.apmgf.pt/apmgfcms/dist/apmgf/noticia/noticia.html?id=2327>
     
     
 ## Jargão estatístico: sensibilidade e especificidade
@@ -54,7 +54,7 @@ Estas duas frases parecem iguais, mas nao o sao.
 * A) Doença -> Teste:  "Se estou infetado, qual 'e a probabilidade de ter um teste positivo?"
 * B) Teste -> Doença: "Se tenho um teste positivo, qual 'e a probabilidade de estar infectado?"
 
-A diferença acontece porque os testes PCR falham demasiado.\
+A diferença acontece porque os testes PCR falham demasiado.  
 Se nao falhassem, era trivial passar da frase A para a frase B.
 
 E o problema 'e que os para assintomaticos so' sabemos o resultado do teste (frase B). Mas os assintomaticos criam cadeias, e levam outras pessoas a ter sintomas ou mesmo bem pior.
@@ -83,12 +83,12 @@ Estas definicoes sao muito mais complexas, mas necessarias:
   
 Em geral referir apenas um destes valores 'e errado, porque 'e possível facilmente subir um 'a custa do outro (ao subir ou descer o nível mínimo de carga viral para decretar positivo, negativo ou inconclusivo).
 
-Neste momento o testes covid típicos tem sensibilidade de 70% e especificidade de 95% .\
+Neste momento o testes covid típicos tem sensibilidade de 70% e especificidade de 95%.  
 Juntos estes valores sao fracos. Mesmo assim, dao uma preferência para os testes positivos; 
 Sem qualquer histórico adicional, um teste positivo 'e mais provavelmente de ser correcto que um teste negativo.
  
 Fonte:  
-https://en.wikipedia.org/wiki/Sensitivity_and_specificity
+<https://en.wikipedia.org/wiki/Sensitivity_and_specificity>
 
 ## Exemplos de FPs e FNs
 
@@ -100,8 +100,8 @@ Ver estes exemplos para um teste perfeito, aleatorio e tipico PCR:
  
 ## Como posso calcular FPs, FNs e probabilidade pre-teste?
  
-Ver esta calculadora que relaciona Sencibilidade, Especificdade e Probabilidade Pré-teste:\
-https://www.bmj.com/content/369/bmj.m1808   
+Ver esta calculadora que relaciona Sencibilidade, Especificdade e Probabilidade Pré-teste:  
+<https://www.bmj.com/content/369/bmj.m1808>
 
 
 * Rastreamento LVT
@@ -122,7 +122,7 @@ https://www.bmj.com/content/369/bmj.m1808
 ## Os testes sao fiaveis?
 
 Os testes COVID PCR são muito fracos. São demasiados Falsos Positivos e Falsos Negativos.
-https://evidentiamedica.com/testar-testar-ou-deixa-te-estar/
+<https://evidentiamedica.com/testar-testar-ou-deixa-te-estar/>
 
 Os únicos testes realmente fiáveis para COVID são os TAC no hospital, que não são práticos, nem rápidos, nem portáteis.
 
@@ -137,7 +137,7 @@ Faço o teste e da' positivo => probabilidade sobe para 99%;se der negativo, des
 
 Exemplo #2: pessoas aleatórias no aeroporto que vieram de áreas com poucas cadeias, sem sintomas, etc => probabilidade 5%; teste positivo = 45%; segundo teste negativo => 20%. etc
 
-fonte: https://www.bmj.com/content/369/bmj.m1808
+fonte: <https://www.bmj.com/content/369/bmj.m1808>
 
 ![ ](img/covid_leaf_plot.jpg)
 
@@ -150,15 +150,15 @@ Que mesmo com resultado negativo mas com um mau historial/envolvência, 'e para 
 
 ## Qual 'e a utilidade de testes sistematicos em massa?
 
-Os testes massivos servem APENAS para saber quem 'e que se vai testar a seguir.\
+Os testes massivos servem APENAS para saber quem 'e que se vai testar a seguir.  
 'E um fim em si mesmo. Nao teem nada a ver com as pessoas estarem doentes ou não (isso 'e feito com critérios clínicos).
 
 Quando uma pessoa da' positivo tem que entrar em isolamento. 
 
-Além disso, todos os seus contactos entram em quarentena.\
+Além disso, todos os seus contactos entram em quarentena.  
 Estes serão testados depois, e os que derem positivo levam 'a quarentena dos "contactos dos contactos".
 
-O crucial 'e perceber que MESMO que deem negativo, os contactos têm que continuar a quarentena, porque podem desenvolver sintomas depois (falsos negativos).\
+O crucial 'e perceber que MESMO que deem negativo, os contactos têm que continuar a quarentena, porque podem desenvolver sintomas depois (falsos negativos).  
 A diferença é que aqui não se quarentena (no momento) os contatos desses contactos.
 
 Exemplo:
@@ -168,19 +168,19 @@ Exemplo:
 * dia 4: "D" dá positivo => Isolar "D", pôr em quarentena "X", "Y", "Z"
 
 
-Fonte: entrevista da RR ao rastreador da Amadora, na pergunta "Não há, portanto, uma estratégia coerente aplicada no combate à pandemia":\
-https://rr.sapo.pt/2020/07/07/pais/especialista-em-saude-publica-nao-diria-que-nao-ha-infecoes-em-transportes-e-uma-afirmacao-politica-que-pode-ser-danosa/especial/198999/
+Fonte: entrevista da RR ao rastreador da Amadora, na pergunta "Não há, portanto, uma estratégia coerente aplicada no combate à pandemia":  
+<https://rr.sapo.pt/2020/07/07/pais/especialista-em-saude-publica-nao-diria-que-nao-ha-infecoes-em-transportes-e-uma-afirmacao-politica-que-pode-ser-danosa/especial/198999/>
 
-Definicoes DGS de Isolamento e de Quarentena:\
-https://www.sns24.gov.pt/tema/doencas-infecciosas/covid-19/isolamento/#sec-0
+Definicoes DGS de Isolamento e de Quarentena:  
+<https://www.sns24.gov.pt/tema/doencas-infecciosas/covid-19/isolamento/#sec-0>
 
 
 ## Entrevista a um Rastreador na Amadora
 
-Excelente entrevista a um Rastreador da Amadora.\
+Excelente entrevista a um Rastreador da Amadora.  
 QUALQUER parágrafo desta entrevista merecia ser explicado com cuidado em horário nobre.
 
-https://rr.sapo.pt/2020/07/07/pais/especialista-em-saude-publica-nao-diria-que-nao-ha-infecoes-em-transportes-e-uma-afirmacao-politica-que-pode-ser-danosa/especial/198999/
+<https://rr.sapo.pt/2020/07/07/pais/especialista-em-saude-publica-nao-diria-que-nao-ha-infecoes-em-transportes-e-uma-afirmacao-politica-que-pode-ser-danosa/especial/198999/>
 
 Testes:
 * Os testes servem APENAS para encontrar os próximos contactos. Nao teem nada a ver com pessoas estarem doentes ou não.
@@ -235,21 +235,48 @@ Para referencia, se se demorar mais que 3 dias a doenca anda mais depressa que o
 
 ![ ](img/app_3_dias.png)
 
-fonte: https://medium.com/@tomaspueyo/coronavirus-how-to-do-testing-and-contact-tracing-bde85b64072e?fbclid=IwAR2-gTosbkdKGJcHBZvzLeq_3JygPil9tTJs704PrIeNTLTJzEVDxf8BJ_4
+fonte: <https://medium.com/@tomaspueyo/coronavirus-how-to-do-testing-and-contact-tracing-bde85b64072e>
 
 ---
 
-Segundo, continua-se a insistir em pessoal qualificado para este rastreamento. Exemplo: https://evidentiamedica.com/nao-tem-de-ser/
+Segundo, continua-se a insistir em pessoal qualificado para este rastreamento. Exemplo: <https://evidentiamedica.com/nao-tem-de-ser/>
 
 Acredito que em vez disso deviam ser largos milhares de desempregados, tipo call center mas a trabalhar em casa, a ir atras das pessoas uma a uma por telefone.
 
-https://expresso.pt/sociedade/2020-07-04-Covid-19.-Loures-e-Odivelas-mais-casos-mas-menos-meios
+<https://expresso.pt/sociedade/2020-07-04-Covid-19.-Loures-e-Odivelas-mais-casos-mas-menos-meios>
 
 ## Reunioes secretas do infarmed
 
-https://www.publico.pt/2020/06/28/opiniao/editorial/abram-portas-reuniao-infarmed-1922188
+<https://www.publico.pt/2020/06/28/opiniao/editorial/abram-portas-reuniao-infarmed-1922188>
 
 “As avaliações contraditórias sobre o que lá foi dito, os rumores desencontrados sobre irritações, zangas ou puxões de orelhas e a suspeita de que o espírito de compromisso entre políticos e cientistas acabou exigem uma de duas respostas: ou as reuniões do Infarmed deixam de se fazer por se tornarem um perturbante factor de ruído; ou abrem-se as suas portas para que todos os cidadãos possam saber com transparência o que lá se disse e passou.”
+
+
+UPDATE1: as apresentacoes da décima, e ultima, reunião do infarmed sao agora publicas.
+
+<https://www.sns.gov.pt/noticias/2020/07/08/covid-19-10-a-reuniao-tecnica/>
+
+* [Geografia: internacional e nacional -- Percepção social](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed-0807-Carla-Nunes-ef.pdf)
+* [Inquérito Serológico Nacional à Infeção pelo novo Coronavírus](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Ana_Paula_Rodrigues.pdf)
+* [Monitorização da situação epidemiológica em Portugal e noutros países da UE](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Baltazar_Nunes.pdf)
+* [Situação Epidemiológica da Covid-19 nacional e da ARS LVT](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Ines_Fronteira.pdf)
+* [Gabinete de Intervenção -- Principais Ações](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Rui_Portugal.pdf)
+  * (analisada em detalhe na rubrica do paulo portas 12 julho)
+* [Tempos de estadia hospitalar dos doentes Covid e projeções para ocupação hospitalar Covid](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_MCG.pdf)
+
+A apresentacao do prof Henrique Barros, [por video conferencia](https://www.publico.pt/2020/07/09/sociedade/noticia/covid19-proximidade-linhas-ferreas-nao-associado-aumento-risco-infeccao-1923684),
+ nao esta' ainda disponivel.
+
+
+
+
+UPDATE2: as informacoes / apresentacoes teem que ser enviadas ao parlamento a cada 15 dias.
+Votos contra do PS.
+
+requerimento: [link](https://www.esquerda.net/sites/default/files/requerimento_entrega_de_dados_covid19_comissao_de_saaode.pdf)
+
+aprovacao com votos contra do PS: [link](https://www.esquerda.net/artigo/covid-19-governo-tera-de-entregar-informacao-quinzenalmente-ao-parlamento/69153)
+
 
 
 
@@ -263,13 +290,13 @@ Os valores acumulados desde 1 Jan sao irrelevantes e sao enganadores.
 
 Exemplo: ver figura 3 do Centro Europeu de controlo de doencas:
 
-https://www.ecdc.europa.eu/sites/default/files/documents/RRA-COVID19-update10-2020-06-11.pdf
+<https://www.ecdc.europa.eu/sites/default/files/documents/RRA-COVID19-update10-2020-06-11.pdf>
 
 b) 'E necessário contratar MUITO mais rastreadores para telefonar a pessoas. 
 
 Comentario: Atualmente este trabalho administrativo 'e feito por MEDICOS, o que sao poucos e totalmente sobre-qualificados: 
 
-Exemplo: https://evidentiamedica.com/nao-tem-de-ser/
+Exemplo: <https://evidentiamedica.com/nao-tem-de-ser/>
 
 c) Incrivelmente ninguem fala na APP Portuguesa. Especula-se que esta presa na CNPD. 
 
@@ -277,11 +304,11 @@ Na Alemanha foi recomendada especialmente pelo gobverno e teve 8M downloads no p
 
 Comentário #1: A app portuguesa NAO tem problemas de privacidade porque __por desenho__ 'e impossível ter dados centralizados. 
 
-Ver sff: Ver sff: https://www.youtube.com/watch?v=93sxCLT45TU
+Ver sff: Ver sff: <https://www.youtube.com/watch?v=93sxCLT45TU>
 
 Comentário #2: Com 60% de cobertura, a APP controlava SOZINHA a pandemia __SE__ se os contactos fossem imediatos; se se demorar 3 dias, a aplicação 'e praticamente inútil. 
 
-Ver sff o grafico 16.b de https://medium.com/@tomaspueyo/coronavirus-how-to-do-testing-and-contact-tracing-bde85b64072e
+Ver sff o grafico 16.b de <https://medium.com/@tomaspueyo/coronavirus-how-to-do-testing-and-contact-tracing-bde85b64072e>
 
 Solucao: Isso resolve-se contratando mais rasteadores (ponto b)
 
@@ -300,7 +327,7 @@ f) Finalmente o governo anunciou que vai ser feito inquéritos sanitário no aer
 
 -----
 Extra: 'e extremamente dificil, mas nao impossivel, de comparar paises diferentes. 'E necessario controlar dezenas de variacoes:
-https://www.bbc.com/news/52311014
+<https://www.bbc.com/news/52311014>
 
 ## Comentario paulo portas, 12 julho
 
@@ -330,6 +357,11 @@ Desde março o número de rastreadores SÓ aumentou 40%; inacreditavelmente, nã
 * aos finalistas de psicologia
 * Mas especialmente um reforço massivo de pessoal NÃO técnico, tipo call center, com a única função: encontrar pessoas pelo telefone.
 
+UPDATE: Espanha externalisa 
+[tweet ricardo mexia](https://twitter.com/ricmexia/status/1270351387541622784)
+/ [fonte](https://elpais.com/espana/catalunya/2020-06-06/es-hora-de-recuperar-la-salud-publica.html)
+/ [ferrovial](https://en.wikipedia.org/wiki/Ferrovial)
+
 Pior, foram criados centros de isolamento que não foram usados. 'As pessoas perguntou-se se queria ir para o centro, ou para casa. Sem surpresa, todos quiseram ir para casa, sem controlo.
 Isto causa a principal causa de infecção ser a "coabitação", o que 'e óbvio.
 
@@ -348,15 +380,17 @@ Sumário da Apresentação:
 * página 16: finalmente a última semana mostra um decréscimo nos vários concelhos problemáticos. Mas ainda esta' muito alto.
 * página 17: números exatos de todos os hospitais de LVT, em enfermaria, específico covid e não-covid.
 
+
+
 # APP covid
 
 ## Sobre Tomas Pueyo
      
 Os textos de Tomas Pueyo sao longos, mas sao de longe os melhor suportados com analises e os mais detalhados.   
-https://medium.com/@tomaspueyo
+<https://medium.com/@tomaspueyo>
  
-Combinados, tiveram 60+ Milhoes de visualizacoes, foram subscritos por 100+ especialistas, e foram traduzidos em 40+ linguas pelos proprios leitores interessados.\
-https://medium.com/tomas-pueyo/coronavirus-articles-endorsements-fdc68614f8e3
+Combinados, tiveram 60+ Milhoes de visualizacoes, foram subscritos por 100+ especialistas, e foram traduzidos em 40+ linguas pelos proprios leitores interessados.  
+<https://medium.com/tomas-pueyo/coronavirus-articles-endorsements-fdc68614f8e3>
 
 
 ## App e privacidade
@@ -365,7 +399,7 @@ Finalmente a APP contra o covid foi aprovada pela CNPD.
 
 A deliberação 'e importante porque estamos a falar de potencialmente 10M pessoas, mas na pratica as criticas da CNPD são praticamente marginais, e inclusivamente tiveram que recorrer a hipotéticos cenários futuros.
 
-https://www.cnpd.pt/home/decisoes/Delib/DEL_2020_277.pdf
+<https://www.cnpd.pt/home/decisoes/Delib/DEL_2020_277.pdf>
 
 Poupo-vos a leitura das 23 paginas, muito mais simples 'e ver a imagem abaixo que compara:
 - as permissões do Whatsapp, uma app que todos usam, mas que ninguém sabe o que realmente faz ("codigo-fonte fechado").
@@ -374,7 +408,7 @@ Poupo-vos a leitura das 23 paginas, muito mais simples 'e ver a imagem abaixo qu
 
 Ver também a mesma opinião os 2:10 de um dos poucos jornalistas especialistas em tecnologia - Lourenço Medeiros.
 
-https://sicnoticias.pt/especiais/coronavirus/2020-06-30-Aplicacao-portuguesa-de-rastreio-a-covid-19
+<https://sicnoticias.pt/especiais/coronavirus/2020-06-30-Aplicacao-portuguesa-de-rastreio-a-covid-19>
 
 
 ![ ](img/app_whatsapp_vs_covid_app.jpg)
@@ -385,7 +419,7 @@ https://sicnoticias.pt/especiais/coronavirus/2020-06-30-Aplicacao-portuguesa-de-
 ## Humor
 
 * Papiro
-  * ["Loures põe funcionários a contar autocarros para garantir que passam todos"]( https://www.publico.pt/2020/07/10/local/noticia/loures-poe-funcionarios-contar-autocarros-garantir-passam-1924027)
+  * ["Loures põe funcionários a contar autocarros para garantir que passam todos"](https://www.publico.pt/2020/07/10/local/noticia/loures-poe-funcionarios-contar-autocarros-garantir-passam-1924027)
   * Comentário: Sera’ que vao usar papiro e escrever com penas e tinta dos monges copistas?
 
 * Entrevista surreal
@@ -404,11 +438,12 @@ https://sicnoticias.pt/especiais/coronavirus/2020-06-30-Aplicacao-portuguesa-de-
   
 ## Links recomendados
 
-Ver acima seccoes especificas para cada link.
-* 200 artigos: https://evidentiamedica.com/#covid
-* Jargao estastistico: https://en.wikipedia.org/wiki/Sensitivity_and_specificity
-* Tomas Pueyo: https://medium.com/@tomaspueyo
-* Testes sao heuristica: https://www.bmj.com/content/369/bmj.m1808   
-* Testes sao fracos: https://evidentiamedica.com/testar-testar-ou-deixa-te-estar/
-* Entrevista Rastreador: https://rr.sapo.pt/2020/07/07/pais/especialista-em-saude-publica-nao-diria-que-nao-ha-infecoes-em-transportes-e-uma-afirmacao-politica-que-pode-ser-danosa/especial/198999/
+Ver acima comentário especifico para cada link.
+* 200 artigos: <https://evidentiamedica.com/#covid>
+* Jargao estastistico: <https://en.wikipedia.org/wiki/Sensitivity_and_specificity>
+* Tomas Pueyo: <https://medium.com/@tomaspueyo>
+* Testes sao heuristica: <https://www.bmj.com/content/369/bmj.m1808>
+* Testes sao fracos: <https://evidentiamedica.com/testar-testar-ou-deixa-te-estar/>
+* Entrevista Rastreador: <https://rr.sapo.pt/2020/07/07/pais/especialista-em-saude-publica-nao-diria-que-nao-ha-infecoes-em-transportes-e-uma-afirmacao-politica-que-pode-ser-danosa/especial/198999/>
+
 
