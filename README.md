@@ -528,18 +528,18 @@ No Android quando se liga o novo serviço bluetooth (GAEN), este também liga o 
 however, COVID-19 Exposure Notifications don't use device location,”](https://www.mirror.co.uk/news/uk-news/coronavirus-tracker-installed-your-smartphone-22224776)
 
 Isto acontece porque os drivers bluetooth usam a localizacao para poupar bateria e ser mais eficiente. 
-Tal acontece [desde 2015](https://yro.slashdot.org/story/20/07/20/2237257/google-promises-privacy-with-virus-app-but-can-still-collection-location-data).
-
+Tal acontece [desde 2015](http://nytimes.com/2020/07/20/technology/google-covid-tracker-app.html).
 ```
 Since 2015, Google’s Android system has required users to enable location on their phones to scan for 
 other Bluetooth devices, Mr. Voss said, because some apps may use Bluetooth to infer user location. 
 ```
 
-O servico de localizacao combina o GPS, Redes Wi-FI, Redes moveis 3g/4g, alem
- dos proprios "becacons" bluetooth para saber onde o telemóvel esta'.
-As aplicacoes sao imensas, nomeadamente os mapas, acertar o relogio automaticamente, smartwatches, "Fobs", etc.  
+O serviço de localização combina o GPS, Redes Wi-FI, Redes moveis 3g/4g, alem
+ dos próprios "beacons" bluetooth para saber onde o telemóvel esta'.
+As aplicacoes sao imensas, nomeadamente os mapas, acertar o relógio automaticamente, smartwatches, "Fobs" para nao perder as chaves de casa, etc.  
+Isto pode ser configurado no Android [nos settings](https://support.google.com/nexus/answer/6179507?hl=pt)
  
-O ponto crucial 'e que a APP CVOID - que 'e quem sabe que pessoa "X" tem covid - so' e' 
+O ponto crucial 'e que a APP CVOID - que 'e quem sabe que pessoa "X" tem covid - só e' 
 autorizada a entrar na loja da Apple e da Google se NAO pedir a localizacao.
 
 Fonte: ver of Ver ponto 10 [da FAQ](https://static.googleusercontent.com/media/www.google.com/en//covid19/exposurenotifications/pdfs/Exposure-Notification-FAQ-v1.2.pdf):
@@ -549,17 +549,25 @@ Fonte: ver of Ver ponto 10 [da FAQ](https://static.googleusercontent.com/media/w
 **including not being able to request access to location services**, and restrictions on how data can be used."
 ```
 
-Ver tambem os comentarios no [slashdot](https://yro.slashdot.org/story/20/07/20/2237257/google-promises-privacy-with-virus-app-but-can-still-collection-location-data).
-(AKA "News for Nerds"), [expandindo os comentarios](https://webapps.stackexchange.com/questions/42206/is-it-possible-to-automatically-expand-all-comments-for-a-slashdot-post). 
+Ver também os comentários no [slashdot](https://yro.slashdot.org/story/20/07/20/2237257/google-promises-privacy-with-virus-app-but-can-still-collection-location-data).
+(AKA "News for Nerds").
+
+
 
 ## o GAEN liga a localização no iPhone?
 
-O iphone nao liga a localizacao ao ligar o bluetooth.  
+O iphone NAO liga a localizacao ao ligar o bluetooth.  
 [Fonte](https://www.nytimes.com/2020/07/20/technology/google-covid-tracker-app.html).
 ```
 Apple, which does not require iPhone users of the virus apps to turn on location, 
 declined to comment on Google’s location practices.
 ```
+
+Mesmo que NAO fosse o caso, o servico de localizacao 'e costumizado por applicacoes e por servicos do
+sistem operativo:
+![](https://9to5mac.com/wp-content/uploads/sites/6/2018/08/how-to-turn-on-off-location-services-gps-iphone-ipad.jpg)
+fonte: https://9to5mac.com/2018/08/27/iphone-ipad-how-to-turn-off-on-location-services-gps/
+
 
 Outras APPs que que nao usam o GAEN sao basicamente inuteis porque 
 nao funcionam quando o telemovel esta' trancado, por falta de "handshakes bluetooth".  
@@ -567,6 +575,17 @@ nao funcionam quando o telemovel esta' trancado, por falta de "handshakes blueto
 ```
 Mussared said the best thing the agency could do is implement the Apple-Google developed version of contact tracing into the app. It would resolve many of the ongoing issues, including the iPhone handshake problem, he said.
 ```
+
+## Como configurar os servicos de localizacao em Android e Iphone?
+
+Este artigo mostra como configurar os servicos de localizacao.
+<https://www.nytimes.com/2018/12/10/technology/prevent-location-data-sharing.html>
+
+Android:
+![ ](https://static01.nyt.com/images/2018/12/05/business/10locationhowtoandroid4/10locationhowtoandroid4-superJumbo.png)
+
+Iphone:
+![ ](https://static01.nyt.com/images/2018/12/05/business/10locationhowtoios3/10locationhowtoios3-superJumbo.png)
 
 
 ## Quantas pessoas já' foram alertadas pela APP?
