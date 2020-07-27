@@ -445,9 +445,9 @@ UPDATE: novo parecer da CNPD de 21 julho [pdf](https://www.cnpd.pt/home/decisoes
 / [noticia](https://www.tsf.pt/portugal/sociedade/regulacao-da-app-do-governo-para-rastrear-doentes-com-covid-19-e-minimalista-12456785.html)
 
 sic noticias:
-https://www.facebook.com/sicnoticias/posts/10158993076321388?__xts__%5B0%5D=68.ARBX0mpRPsOmACY4z2zb2KbK_5hUE7nwe4vtQR0ynL6-130zHtrMT5swNbBpEHoXMUL6I-2KEcpEl5XdT89Gqq23mq44yDQWIk2cFiXEXPo2AV4S613eQLnJOa_d_ICewSitOPrKzUXSB85y0JWcbElN0_pZxcBkCRCSxhtlPhkIqf9NU2QGL_YL359-1Ak0IQaddTJ4jhiuPxQK-VDGzBGZgJLby46vExc6T35bNRCvtBAWdVccHJM5voaER4ophwBEubcLEyUChaqczmaGAyKQder6tYo5XCz7z7n4xujsDHbEEjWIvydC84BaYRia2yGQSqWtDmKYvgR1InGj&__tn__=-R
-expresoo:
-https://www.facebook.com/jornalexpresso/posts/10158171854462949?__xts__%5B0%5D=68.ARDbtBtzCr73TzzsQje_dUxHkNVyKwLy10tI2VGgD-Js14-xJjQHtm4unyOlOSnBHYgvLRAsTN5ei3a4DiavpbtMY65XwyXx_yBWj5yGkQzJ3R48AcOXYqQFL6SFcGBldDORM3R3QuCkgM0X_9ig4O_-XU1p0OEe4Oh6z_LTzhPgl4fJE59jUx0PuLgYAdZJ-ovrXuBJJk7xotoTyoNeotwkjiYqc1FrTIiSt6Dw52VfoVmgm4xjpb4qzIphjHagMyNAgcsv8jbk17ELYwHEOjSyCw0NVV8KryJRL3KsCkneHhJc7_MJ6IrCsK3yQYNnqusY1-Janf4hhh9RPw&__tn__=-R
+https://www.facebook.com/sicnoticias/posts/10158993076321388
+expreso:
+https://www.facebook.com/jornalexpresso/posts/10158171854462949
 
 ## Segunda resolucao do CNPD
 
