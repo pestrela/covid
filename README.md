@@ -1,26 +1,38 @@
 
 # TOC
 
-* Fiabilidade de Testes
+* [TOC](#toc)
+* [Fiabilidade de Testes](#fiabilidade-de-testes)
   * [O que 'e o Evidentia Medica](#o-que-e-o-evidentia-medica)
   * [Jargão estatístico: sensibilidade e especificidade](#jargão-estatístico-sensibilidade-e-especificidade)
   * [Exemplos de FPs e FNs](#exemplos-de-fps-e-fns)
   * [Como posso calcular FPs, FNs e probabilidade pre-teste?](#como-posso-calcular-fps-fns-e-probabilidade-pre-teste)
   * [Os testes sao fiaveis?](#os-testes-sao-fiaveis)
   * [Qual 'e a utilidade de testes sistematicos em massa?](#qual-e-a-utilidade-de-testes-sistematicos-em-massa)
-  
-* Rastreamento LVT
   * [Entrevista a um Rastreador na Amadora](#entrevista-a-um-rastreador-na-amadora)
   * [Velocidade de Rastreamento](#velocidade-de-rastreamento)
-  * [Reunioes secretas do infarmed](#reunioes-secretas-do-infarmed)
+  * [Reunioes "secretas" do infarmed](#reunioes-secretas-do-infarmed)
+  * [Infeccao em ferrovias](#infeccao-em-ferrovias)
   * [Comentario paulo portas, 21 junho](#comentario-paulo-portas-21-junho)
   * [Comentario paulo portas, 12 julho](#comentario-paulo-portas-12-julho)
-
-* APP covid
-  * [App e privacidade](#app-e-privacidade)
+* [APP covid](#app-covid)
   * [Sobre Tomas Pueyo](#sobre-tomas-pueyo)
-  
-* Varios
+  * [App e privacidade](#app-e-privacidade)
+  * [Segunda resolucao do CNPD](#segunda-resolucao-do-cnpd)
+  * [APP Sumario - 17 Julho](#app-sumario---17-julho)
+  * [Como funciona a APP covid](#como-funciona-a-app-covid)
+  * [Quais sao as duas tecnologias para as Apps covid? qual 'e a que portugal vai ter?](#quais-sao-as-duas-tecnologias-para-as-apps-covid-qual-e-a-que-portugal-vai-ter)
+  * [Porque 'e que o GAEN no Android necessita de localização?](#porque-e-que-o-gaen-no-android-necessita-de-localização)
+  * [o GAEN liga a localização no iPhone?](#o-gaen-liga-a-localização-no-iphone)
+  * [Quantas pessoas já' foram alertadas pela APP?](#quantas-pessoas-já-foram-alertadas-pela-app)
+* [Impacto na Economia](#impacto-na-economia)
+  * [Inqueritos da AHRESP](#inqueritos-da-ahresp)
+* [Mascaras e EPIs](#mascaras-e-epis)
+  * [Mascaras da MO / Adalberto](#mascaras-da-mo--adalberto)
+  * [Mascaras da MO / Adalberto - detalhes](#mascaras-da-mo--adalberto---detalhes)
+* [Espacos ao ar livre](#espacos-ao-ar-livre)
+  * [Aglomerações ao ar livre - datas](#aglomerações-ao-ar-livre---datas)
+* [Vários](#vários)
   * [Humor](#humor)
   * [Links recomendados](#links-recomendados)
 
@@ -245,7 +257,7 @@ Acredito que em vez disso deviam ser largos milhares de desempregados, tipo call
 
 <https://expresso.pt/sociedade/2020-07-04-Covid-19.-Loures-e-Odivelas-mais-casos-mas-menos-meios>
 
-## Reunioes secretas do infarmed
+## Reunioes "secretas" do infarmed
 
 <https://www.publico.pt/2020/06/28/opiniao/editorial/abram-portas-reuniao-infarmed-1922188>
 
@@ -268,8 +280,6 @@ A apresentacao do prof Henrique Barros, [por video conferencia](https://www.publ
  nao esta' ainda disponivel.
 
 
-
-
 UPDATE2: as informacoes / apresentacoes teem que ser enviadas ao parlamento a cada 15 dias.
 Votos contra do PS.
 
@@ -277,7 +287,24 @@ requerimento: [link](https://www.esquerda.net/sites/default/files/requerimento_e
 
 aprovacao com votos contra do PS: [link](https://www.esquerda.net/artigo/covid-19-governo-tera-de-entregar-informacao-quinzenalmente-ao-parlamento/69153)
 
+## Infeccao em ferrovias
 
+Sobre infeccoes em transportes publicos:  
+<https://www.tsf.pt/portugal/sociedade/esta-mal-informado-jaime-nina-arrasa-ministro-das-infraestruturas-12433641.html?utm_source=Push&utm_medium=App>
+
+a apresentacao do Prof Henrique Barros que nao esta' publica.
+
+no jornal refere-se que NAO se verificou se os infectados andam de comboio.
+
+<https://www.publico.pt/2020/07/09/sociedade/noticia/covid19-proximidade-linhas-ferreas-nao-associado-aumento-risco-infeccao-1923684>
+
+outra fonte 'e a pagina 7 desta apresentacao do infarmed. Aqui a coabitacao 'e o primeiro factor, e segundo um participante:
+
+“Como foi encontrada uma correlação mais forte entre a coabitação e o surto em Lisboa, esta relação causa-efeito entre comboios e surto foi desvalorizada”
+
+tambem notar que N=1776, enquanto que na pagina 6 N=4358. Portanto ha 2500 pessoas que nao foram validadas.
+
+<https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Ines_Fronteira.pdf>
 
 
 ## Comentario paulo portas, 21 junho
@@ -401,7 +428,7 @@ A deliberação 'e importante porque estamos a falar de potencialmente 10M pesso
 
 <https://www.cnpd.pt/home/decisoes/Delib/DEL_2020_277.pdf>
 
-Poupo-vos a leitura das 23 paginas, muito mais simples 'e ver a imagem abaixo que compara:
+Poupo-vos a leitura das [23 paginas](), muito mais simples 'e ver a imagem abaixo que compara:
 - as permissões do Whatsapp, uma app que todos usam, mas que ninguém sabe o que realmente faz ("codigo-fonte fechado").
 
 - 'a APP Alemã, que qualquer pessoa pode inspecionar por ter "codigo-fonte aberto".
@@ -414,7 +441,230 @@ Ver também a mesma opinião os 2:10 de um dos poucos jornalistas especialistas 
 ![ ](img/app_whatsapp_vs_covid_app.jpg)
  
  
-# Varios 
+UPDATE: novo parecer da CNPD de 21 julho [pdf](https://www.cnpd.pt/home/decisoes/Par/PAR_2020_82.pdf) 
+/ [noticia](https://www.tsf.pt/portugal/sociedade/regulacao-da-app-do-governo-para-rastrear-doentes-com-covid-19-e-minimalista-12456785.html)
+
+sic noticias:
+https://www.facebook.com/sicnoticias/posts/10158993076321388?__xts__%5B0%5D=68.ARBX0mpRPsOmACY4z2zb2KbK_5hUE7nwe4vtQR0ynL6-130zHtrMT5swNbBpEHoXMUL6I-2KEcpEl5XdT89Gqq23mq44yDQWIk2cFiXEXPo2AV4S613eQLnJOa_d_ICewSitOPrKzUXSB85y0JWcbElN0_pZxcBkCRCSxhtlPhkIqf9NU2QGL_YL359-1Ak0IQaddTJ4jhiuPxQK-VDGzBGZgJLby46vExc6T35bNRCvtBAWdVccHJM5voaER4ophwBEubcLEyUChaqczmaGAyKQder6tYo5XCz7z7n4xujsDHbEEjWIvydC84BaYRia2yGQSqWtDmKYvgR1InGj&__tn__=-R
+expresoo:
+https://www.facebook.com/jornalexpresso/posts/10158171854462949?__xts__%5B0%5D=68.ARDbtBtzCr73TzzsQje_dUxHkNVyKwLy10tI2VGgD-Js14-xJjQHtm4unyOlOSnBHYgvLRAsTN5ei3a4DiavpbtMY65XwyXx_yBWj5yGkQzJ3R48AcOXYqQFL6SFcGBldDORM3R3QuCkgM0X_9ig4O_-XU1p0OEe4Oh6z_LTzhPgl4fJE59jUx0PuLgYAdZJ-ovrXuBJJk7xotoTyoNeotwkjiYqc1FrTIiSt6Dw52VfoVmgm4xjpb4qzIphjHagMyNAgcsv8jbk17ELYwHEOjSyCw0NVV8KryJRL3KsCkneHhJc7_MJ6IrCsK3yQYNnqusY1-Janf4hhh9RPw&__tn__=-R
+
+## Segunda resolucao do CNPD
+
+A CNPD fez um primeiro parecer da APP em 29 de junho.  
+Agora fez um segundo em 21 de julho, mas nao esta' [no site](https://www.cnpd.pt/).
+
+Noticia TSF: [https://www.tsf.pt/portugal/sociedade/regulacao-da-app-do-governo-para-rastrear-doentes-com-covid-19-e-minimalista-12456785.html](aqui)
+
+Relacio nado, artigo cientifico:
+<https://down.dsg.cs.tcd.ie/tact/transp.pdf>
+
+
+## APP Sumario - 17 Julho
+
+A app covid e’ comparável a uma pessoa cega, sem relógio, 
+que APENAS ouve falar de outras pessoas cegas anónimas, uma vez por dia.  
+Mais info:
+https://pestrela.github.io/covid/#app-e-privacidade
+
+A app do INESC foi feita de propósito para respeitar a privacidade. 
+Nao pede os recursos do telemóvel - nem de perto nem de longe - que estas 
+apps feitas por empresas privadas COM fims lucrativos pedem:
+Whatsapp, FB Messenger, Facebook, Google maps, Shazam
+
+Se o isolamento fosse instantâneo, a APP resolvia o problema com 60% de adopcao.  
+Se demorar 3 dias, todo o esforço 'e irrelevante
+https://pestrela.github.io/covid/#velocidade-de-rastreamento
+
+Na primeira quinzena de junho a velocidade mediana foi de 4 dias. Nao chega.  
+Fonte: pagina 16 de https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Baltazar_Nunes.pdf 
+
+A causa 'e que só há 600 pessoas para LVT. LVT sao 50 concelhos, 5 dos quais em calamidade e 5 dos quais em alerta.  
+https://github.com/pestrela/covid#comentario-paulo-portas-12-julho
+
+
+## Como funciona a APP covid
+
+Cada pais esta' autorizado pela Apple e pela Google a ter uma única APP covid por pais.
+No entanto, todas as APPs sao compatíveis entre si. 
+
+Isto acontece porque as APPs usam um serviço novo bluetooth, criado pela Apple e Google, 
+que permite fazer a troca das mensagens anónimas sem gastar a bateria num instante.
+
+
+Para activar este serviço em IOS 13.5:  
+<https://9to5mac.com/2020/05/19/how-to-turn-on-off-covid-19-contact-tracing-iphone-ios/>  
+![ ](https://9to5mac.com/wp-content/uploads/sites/6/2020/05/how-to-turn-onoff-contact-tracing-iphone-ios-13.5.png)
+
+Para activar este serviço em Android (update May 2020):  
+<https://www.howtogeek.com/677100/how-to-turn-off-covid-19-exposure-tracking-and-notifications-on-android/>  
+![ ](https://www.howtogeek.com/wp-content/uploads/2020/06/select-the-turn-off-exposure-notifications-and-or-delete-random-ids-option.png)
+
+Fontes:
+* FAQ: https://static.googleusercontent.com/media/www.google.com/en//covid19/exposurenotifications/pdfs/Exposure-Notification-FAQ-v1.2.pdf
+* https://www.macrumors.com/guide/exposure-notification/
+* https://expresso.pt/coronavirus/2020-07-24-Testamos-a-app-Stayaway-Covid-e-contamos-tudo-em-sete-passos
+
+
+## Quais sao as duas tecnologias para as Apps covid? qual 'e a que portugal vai ter?
+
+Existem duas tecnologias para as APPs covid. 
+
+Este video mostra as diferencas:
+* <https://www.youtube.com/watch?v=g8lQmu8gaRE>
+* 4:45 Apps baseadas no bluetooth, sem localizacao GPS nem identidade. 
+  * Esta 'e  solucao da APP portuguesa feita pelo INESC
+* 5:00 Apps baseadas em localizacao GPS, mais precisas
+  * Esta 'e a do estado do Utah nos EUA
+
+Fonte: 
+https://www.howtogeek.com/672810/how-your-iphone%E2%80%99s-new-covid-19-exposure-notifications-work/
+
+
+## Porque 'e que o GAEN no Android necessita de localização?
+
+No Android quando se liga o novo serviço bluetooth (GAEN), este também liga o serviço de localização:
+[“Device location needs to be on to detect Bluetooth devices near you, 
+however, COVID-19 Exposure Notifications don't use device location,”](https://www.mirror.co.uk/news/uk-news/coronavirus-tracker-installed-your-smartphone-22224776)
+
+Isto acontece porque os drivers bluetooth usam a localizacao para poupar bateria e ser mais eficiente. 
+Tal acontece [desde 2015](https://yro.slashdot.org/story/20/07/20/2237257/google-promises-privacy-with-virus-app-but-can-still-collection-location-data).
+
+```
+Since 2015, Google’s Android system has required users to enable location on their phones to scan for 
+other Bluetooth devices, Mr. Voss said, because some apps may use Bluetooth to infer user location. 
+```
+
+O servico de localizacao combina o GPS, Redes Wi-FI, Redes moveis 3g/4g, alem
+ dos proprios "becacons" bluetooth para saber onde o telemóvel esta'.
+As aplicacoes sao imensas, nomeadamente os mapas, acertar o relogio automaticamente, smartwatches, "Fobs", etc.  
+ 
+O ponto crucial 'e que a APP CVOID - que 'e quem sabe que pessoa "X" tem covid - so' e' 
+autorizada a entrar na loja da Apple e da Google se NAO pedir a localizacao.
+
+Fonte: ver of Ver ponto 10 [da FAQ](https://static.googleusercontent.com/media/www.google.com/en//covid19/exposurenotifications/pdfs/Exposure-Notification-FAQ-v1.2.pdf):
+```
+10.How will apps get approval to use this system?
+"There will be restrictions on the data that apps can collect when using the API, 
+**including not being able to request access to location services**, and restrictions on how data can be used."
+```
+
+Ver tambem os comentarios no [slashdot](https://yro.slashdot.org/story/20/07/20/2237257/google-promises-privacy-with-virus-app-but-can-still-collection-location-data).
+(AKA "News for Nerds"), [expandindo os comentarios](https://webapps.stackexchange.com/questions/42206/is-it-possible-to-automatically-expand-all-comments-for-a-slashdot-post). 
+
+## o GAEN liga a localização no iPhone?
+
+O iphone nao liga a localizacao ao ligar o bluetooth.  
+[Fonte](https://www.nytimes.com/2020/07/20/technology/google-covid-tracker-app.html).
+```
+Apple, which does not require iPhone users of the virus apps to turn on location, 
+declined to comment on Google’s location practices.
+```
+
+Outras APPs que que nao usam o GAEN sao basicamente inuteis porque 
+nao funcionam quando o telemovel esta' trancado, por falta de "handshakes bluetooth".  
+[Fonte](https://www.theguardian.com/australia-news/2020/jun/17/covid-safe-app-australia-covidsafe-contact-tracing-australian-government-covid19-tracking-problems-working)
+```
+Mussared said the best thing the agency could do is implement the Apple-Google developed version of contact tracing into the app. It would resolve many of the ongoing issues, including the iPhone handshake problem, he said.
+```
+
+
+## Quantas pessoas já' foram alertadas pela APP?
+
+A APP da Alemanha 'e das mais avançadas. Desde 15 Junho ate' 20 julho tiveram 15.5 Milhoes de downloads, 
+e 500+ pessoas infetadas __emitiram__ alertas.
+ 
+**No entanto ninguém sabe quantas pessoas __receberam__ alertas - precisamente porque a APP respeita a privacidade!**
+
+Para estimarem este numero, imaginem:
+* 500x pessoas
+* por onde andaram fisicamente durante 14 dias
+* Quem estiveram perto por >15 minutos
+  * isto inclui pessoas conhecidos e pessoas anónimas
+  
+ 
+Fonte: [artigo nyt](http://nytimes.com/2020/07/20/technology/google-covid-tracker-app.html)
+```
+Gottfried Ludewig, director general for digitalization and innovation for Germany’s Ministry of Health, 
+said of the Corona-Warn-App, which has been downloaded more than 15.5 million times. He said more than
+ 500 people who tested positive for the virus had used the app to notify other users of
+ possible virus exposure.
+```
+
+
+
+
+# Impacto na Economia
+## Inqueritos da AHRESP
+
+A edicao de julho da revista da AHRESP tem inqueritos absolutamente impressionantes sobre as falencias 
+e dificuldades do sector da restaurcao, bebidas e hotelaria.
+
+<https://ahresp.com/app/uploads/2020/07/Especial-COVID-19-n%C2%BA3-20200715_V2.pdf>
+
+TODO: fazer sumario
+  
+  
+# Mascaras e EPIs  
+
+## Mascaras da MO / Adalberto
+
+Finalmente a máscara Mo Adtech chega 'a comunicação social. Ver em baixo a notícia da SIC e do Expresso!
+
+Sabia que Portugal tem uma máscara única no mundo, lavável 50 vezes, que projete especificamente contra o COVID?
+A mascara 'e a "MO Adtech" da adalberto têxteis, e são vendidas na Wells, no Continente e online.
+
+---
+
+A máscara já me tinha chamado a atenção em Abril por ter tecnologia específica para vírus, patenteada, certificada pelo Instituto Pasteur, em França, e pelo CITEVE para uso profissional;
+
+Agora a novidade foi ter sido testada ESPECIFICAMENTE para o Covid por Pedro Simas, do IMM, que todos conhecem da TV, que teve que criar 200 mil doses infecciosas de covid para cada teste da máscara,além de nova certificação de franca para 50 lavagens.
+
+Noticia SIC:
+https://sicnoticias.pt/especiais/coronavirus/2020-07-24-Portugal-cria-mascara-que-inativa-o-coronavirus-uma-inovacao-a-nivel-mundial
+
+Noticia Expresso:
+https://leitor.expresso.pt/semanario/semanario2491/html/economia/temas/esta-mascara-e-portuguesa-e-inativa-o-sars-cov-2
+
+Dados:
+* primeira comercialização: 27 abril (MO online)
+* desde entao, rede da Wells e alguns continentes.
+* 20 mil máscaras por semana, exportadas para 7 países.
+
+FB sic noticias:
+https://www.facebook.com/sicnoticias/posts/10158992753626388
+
+
+## Mascaras da MO / Adalberto - detalhes
+
+https://mo-online.com/pt/lp-produtos-antimicrobianos/Produto.html 
+   Tecnologia Ad-tech de várias camadas protetoras, com patente pendente.
+
+https://adtech.pt/#faq      
+  Virucidal activity currently confidential. Independent tests were performed in several encapsulated viruses with very promising results.
+
+https://adtech.pt/#specifications
+  Does the mask have anti-bacterial protection?
+  This product was developed with the most advanced textile technologies available in the market, with the purpose of protecting their wearears of microbial contamination.
+
+https://mo-online.com/pt/lp-produtos-antimicrobianos/Ciencia.html
+  O mecanismo de eliminação dos micro-organismos funciona por punção mecânica ao contrário dos tradicionais métodos que utilizam partículas pesadas e induzem o envenenamento bacteriano
+  Ação antimicrobiana duradora comprovada em laboratórios europeus e eficaz num espectro alargado de bactérias, vírus, fungos e algas.
+
+TODO: empresa lupo no Brasil
+  
+# Espacos ao ar livre
+
+## Aglomerações ao ar livre - datas
+
+<https://www.facebook.com/paulo.caiado.3/posts/4788284537864379>
+* 17 Junho Nápoles
+* 24 de Junho, praia Bournemouth
+* 26 de Junho, Liverpool
+* 5 de Julho, reabertura de bares em Londres (beber na rua)
+  
+  
+# Vários 
 
 ## Humor
 
