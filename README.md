@@ -444,9 +444,10 @@ Ver também a mesma opinião os 2:10 de um dos poucos jornalistas especialistas 
 UPDATE: novo parecer da CNPD de 21 julho [pdf](https://www.cnpd.pt/home/decisoes/Par/PAR_2020_82.pdf) 
 / [noticia](https://www.tsf.pt/portugal/sociedade/regulacao-da-app-do-governo-para-rastrear-doentes-com-covid-19-e-minimalista-12456785.html)
 
-sic noticias:
+FB sic noticias:
 https://www.facebook.com/sicnoticias/posts/10158993076321388
-expreso:
+
+FB expresso:
 https://www.facebook.com/jornalexpresso/posts/10158171854462949
 
 ## Segunda resolucao do CNPD
@@ -582,10 +583,10 @@ Este artigo mostra como configurar os servicos de localizacao.
 <https://www.nytimes.com/2018/12/10/technology/prevent-location-data-sharing.html>
 
 Android:
-![ ](https://static01.nyt.com/images/2018/12/05/business/10locationhowtoandroid4/10locationhowtoandroid4-superJumbo.png)
+![ ](img/config_localizacao_android.png)
 
 Iphone:
-![ ](https://static01.nyt.com/images/2018/12/05/business/10locationhowtoios3/10locationhowtoios3-superJumbo.png)
+![ ](config_localizacao_iphone.png)
 
 
 ## Quantas pessoas já' foram alertadas pela APP?
