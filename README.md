@@ -24,6 +24,7 @@
   * [Quais sao as duas tecnologias para as Apps covid? qual 'e a que portugal vai ter?](#quais-sao-as-duas-tecnologias-para-as-apps-covid-qual-e-a-que-portugal-vai-ter)
   * [Porque 'e que o GAEN no Android necessita de localização?](#porque-e-que-o-gaen-no-android-necessita-de-localização)
   * [o GAEN liga a localização no iPhone?](#o-gaen-liga-a-localização-no-iphone)
+  * [Como configurar os servicos de localizacao em Android e Iphone?](#Como-configurar-os-servicos-de-localizacao-em-Android-e-Iphone)
   * [Quantas pessoas já' foram alertadas pela APP?](#quantas-pessoas-já-foram-alertadas-pela-app)
 * [Impacto na Economia](#impacto-na-economia)
   * [Inqueritos da AHRESP](#inqueritos-da-ahresp)
@@ -579,14 +580,14 @@ Mussared said the best thing the agency could do is implement the Apple-Google d
 
 ## Como configurar os servicos de localizacao em Android e Iphone?
 
-Este artigo mostra como configurar os servicos de localizacao.
+Este artigo mostra como configurar os servicos de localizacao.  
 <https://www.nytimes.com/2018/12/10/technology/prevent-location-data-sharing.html>
 
-Android:
+Android:  
 ![ ](img/config_localizacao_android.png)
 
-Iphone:
-![ ](config_localizacao_iphone.png)
+Iphone:  
+![ ](img/config_localizacao_iphone.png)
 
 
 ## Quantas pessoas já' foram alertadas pela APP?
