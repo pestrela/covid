@@ -15,6 +15,8 @@
   * [Infeccao em ferrovias](#infeccao-em-ferrovias)
   * [Comentario paulo portas, 21 junho](#comentario-paulo-portas-21-junho)
   * [Comentario paulo portas, 12 julho](#comentario-paulo-portas-12-julho)
+  
+  
 * [APP covid](#app-covid)
   * [Sobre Tomas Pueyo](#sobre-tomas-pueyo)
   * [App e privacidade](#app-e-privacidade)
@@ -26,13 +28,19 @@
   * [o GAEN liga a localização no iPhone?](#o-gaen-liga-a-localização-no-iphone)
   * [Como configurar os servicos de localizacao em Android e Iphone?](#Como-configurar-os-servicos-de-localizacao-em-Android-e-Iphone)
   * [Quantas pessoas já' foram alertadas pela APP?](#quantas-pessoas-já-foram-alertadas-pela-app)
+  
 * [Impacto na Economia](#impacto-na-economia)
   * [Inqueritos da AHRESP](#inqueritos-da-ahresp)
+  
 * [Mascaras e EPIs](#mascaras-e-epis)
+
+
   * [Mascaras da MO / Adalberto](#mascaras-da-mo--adalberto)
   * [Mascaras da MO / Adalberto - detalhes](#mascaras-da-mo--adalberto---detalhes)
+  
 * [Espacos ao ar livre](#espacos-ao-ar-livre)
   * [Aglomerações ao ar livre - datas](#aglomerações-ao-ar-livre---datas)
+  
 * [Vários](#vários)
   * [Humor](#humor)
   * [Links recomendados](#links-recomendados)
@@ -408,6 +416,24 @@ Sumário da Apresentação:
 * página 16: finalmente a última semana mostra um decréscimo nos vários concelhos problemáticos. Mas ainda esta' muito alto.
 * página 17: números exatos de todos os hospitais de LVT, em enfermaria, específico covid e não-covid.
 
+## Manchete do expresso, 1 Agosto 
+
+O ponto crucial que a manchete do expresso NAO foca 'e que a velocidade de rastreamento 'e demasiado lenta.  
+Isto foi identificado por Paulo Portas 'a semanas na TVI. 
+https://pestrela.github.io/covid/#comentario-paulo-portas-12-julho
+
+Com esta lentidão, fazer testes 'as pessoas óbvias só' entope ainda mais o sistema.  
+Porque COM ou SEM teste estas pessoas teem que ser obrigadas a cumprir quarentena imediatamente. 
+https://pestrela.github.io/covid/#qual-e-a-utilidade-de-testes-sistematicos-em-massa
+
+Citacao de Rui Portugal:  
+“Se testar todos os coabitantes, se todos forem positivos, todos os dias tenho 100 novos casos, o que em termos de corte de cadeias de transmissão é perfeitamente inútil"
+
+Por outro lado o rombo no PIB 'e de proporcoes nunca antes vistas, mas continuamos a poupar nos rastreadores.  
+Se e só se houvesse recursos suficientes 'e que se deviam TAMBEM testar pessoas óbvias.
+https://pestrela.github.io/covid/#entrevista-a-um-rastreador-na-amadora
+
+
 
 
 # APP covid
@@ -628,6 +654,38 @@ TODO: fazer sumario
   
 # Mascaras e EPIs  
 
+## Quando 'e que a distancia dos 2m não 'e apropriada?
+
+A distancia dos 2 metros entre pessoas 'e uma mensagem simples que cobre as situações mais comuns. 
+
+Mas em algumas situações, esta distancia pode ser EXAGERADA.
+Mas em algumas situações, esta distancia pode ser CURTA.
+
+Como fazer então?
+
+---
+Este [artigo cientifico](https://www.bmj.com/content/370/bmj.m3223) de 25 Agosto tem esta tabela de cores que todos compreendem:
+Baixo risco (distancia curta) / médio risco (2m ) / Alto risco (distancia alta).
+
+Estas são as variáveis mais importantes:
+* Ocupação: baixa / alta
+* Espaço: Aberto / fechado
+* Ventilação: bem ventilada / mal ventilada
+* Mascaras sociais: sim / não
+* Duração do contacto: Curta/Longo
+* Volume: Silencioso / Falar / Gritar
+
+Com esta tabela pode-se comparar facilmente situações do dia a dia:
+- Jantares de família
+- Supermercado
+- Praia
+- Transporte publico
+
+![ ](https://www.bmj.com/content/bmj/370/bmj.m3223/F3.medium.jpg)
+Artigo: <https://www.bmj.com/content/370/bmj.m3223>
+
+
+
 ## Mascaras da MO / Adalberto
 
 Finalmente a máscara Mo Adtech chega 'a comunicação social. Ver em baixo a notícia da SIC e do Expresso!
@@ -674,6 +732,24 @@ https://mo-online.com/pt/lp-produtos-antimicrobianos/Ciencia.html
 
 TODO: empresa lupo no Brasil
   
+## Porque 'e que as Mascaras N95/FFP2 filtram particulas mais pequenas que os seus fios
+
+Este vídeo mostra aos 3:45  os vários truques que as mascaras N95/FFP2 teem para 
+filtrar tanto as partículas grandes, mas tambem as pequenas.
+
+Os truques sao tanto de fenómenos físicos como de fenómenos mecânicos como o 
+campo elétrico, múltiplas camadas disjuntas, movimento browniano, forca de Van der Walls, 
+
+De uma forma surpreendente, sao as as partículas medias que sao problemáticas.
+
+https://www.youtube.com/watch?v=eAdanPfQdCA
+  
+
+Caveats (4:20):
+* O isolamento da mascara tem que ser perfeito
+* O tamanho do vírus NAO 'e o factor principal na filtragem
+* As mascaras podem ser reutilizáveis [com maneiras especificas](https://www.n95decon.org/publications#caution)
+  
 # Espacos ao ar livre
 
 ## Aglomerações ao ar livre - datas
@@ -683,6 +759,23 @@ TODO: empresa lupo no Brasil
 * 24 de Junho, praia Bournemouth
 * 26 de Junho, Liverpool
 * 5 de Julho, reabertura de bares em Londres (beber na rua)
+  
+  
+# English
+  
+## Summary
+
+Please see fig 3 from the ECDC for a european comparison:
+https://www.ecdc.europa.eu/sites/default/files/documents/RRA-COVID19-update10-2020-06-11.pdf
+
+The Apps would control the the epidemic with just 60% adoption.
+see fig 16.a of https://medium.com/@tomaspueyo/coronavirus-how-to-do-testing-and-contact-tracing-bde85b64072e
+
+The catch is that this is only with instantaneous confinement calls. This needs a lot of call-center people.
+If they take 3 days to contact infected, the app is useless. See fig 16.b of the above link
+
+The Apple+Google API is fully decentralized, anonymous, and is only turned on when you have an APP that uses it
+https://www.youtube.com/watch?v=cR6PwImlznI
   
   
 # Vários 
