@@ -15,6 +15,7 @@
   * [Infeccao em ferrovias](#infeccao-em-ferrovias)
   * [Comentario paulo portas, 21 junho](#comentario-paulo-portas-21-junho)
   * [Comentario paulo portas, 12 julho](#comentario-paulo-portas-12-julho)
+  * [Manchete do Expresso, 1 Agosto](#Manchete-do-expresso-1-Agosto)
   * [Infarmed 7 setembro 2020](#infarmed-7-setembro-2020)
   
 * [APP covid](#app-covid)
@@ -422,7 +423,7 @@ Se e só se houvesse recursos suficientes 'e que se deviam TAMBEM testar pessoas
 https://pestrela.github.io/covid/#entrevista-a-um-rastreador-na-amadora
 
 
-## infarmed 7 setembro 2020
+## Infarmed 7 setembro 2020
 
 <https://youtu.be/WnhTjcoOgSo?t=8891>
 
@@ -433,17 +434,17 @@ que começa aos 2h08m.
 
 Nesta são mostradas simulações que explicam que só por si a abertura das escolas sem restriccoes 'e suficiente para levar a uma segunda vaga.
 
-Aos 2h28m são apresentadas as recomendações praticas para evitar isso, mas mantendo as escolas abertas.
+Aos 2h28m são apresentadas as recomendações praticas para evitar isso, mas mantendo as escolas abertas.  
 <https://youtu.be/WnhTjcoOgSo?t=8891>
 
 A ultima apresentação do Prof. [Henrique Barros](https://ispup.up.pt/people/5432/about/?lang=pt) foi também excelente, no mesmo assunto, 
-cobrindo as o que aconteceu nos outros países que já abriram as as escolas 'a uma mes.
+cobrindo as o que aconteceu nos outros países que já abriram as as escolas 'a uma mes.  
 <https://youtu.be/WnhTjcoOgSo?t=9455>
 
-![ ](pics/infarmed11_manuel_carmo_gomes_-_recomendacoes_escolas.png)
-![ ](pics/infarmed11_rbl1.jpg)
-![ ](pics/infarmed11_rbl2.jpg)
-![ ](pics/infarmed11_rbl3.jpg)
+![ ](img/infarmed11_manuel_carmo_gomes_-_recomendacoes_escolas.png)
+![ ](img/infarmed11_rbl1.jpg)
+![ ](img/infarmed11_rbl2.jpg)
+![ ](img/infarmed11_rbl3.jpg)
 
 
 # APP covid
