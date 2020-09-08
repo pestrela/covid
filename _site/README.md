@@ -425,18 +425,9 @@ https://pestrela.github.io/covid/#entrevista-a-um-rastreador-na-amadora
 
 ## Infarmed 7 setembro 2020
 
+<https://youtu.be/WnhTjcoOgSo?t=8891>
+
 Voltaram as reuniões do "infarmed" - a [décima primeira](https://www.sns.gov.pt/noticias/2020/09/07/covid-19-11-a-reuniao-tecnica/).
-
-A maioria das apresentacoes foram meramente expositivas, o que foi uma pena. 
-
-Embora muito comum, este NAO 'e o contributo esperado dos Cientistas; 
-em vez disso, os Cientistas devem fazer recomendacoes concretas e accionaveis, 
-suportados por uma elaboracao expositiva necessaria para clarificar o porque da dita recomendacao.
-
-Assim sendo concordo plenamente com o comentário de [Ricardo Baptista Leite](https://www.facebook.com/ricardo.baptistaleite/videos/10157564929235509/) na CMTV.
-
-
-----
 
 A melhor apresentação foi do Prof de Epidemiologia [Manuel do Carmo Gomes](https://webpages.ciencias.ulisboa.pt/~mcgomes/perfil/Cvenglish.pdf), FCUL, 
 que começa aos 2h08m. 
@@ -447,10 +438,8 @@ Aos 2h28m são apresentadas as recomendações praticas para evitar isso, mas ma
 <https://youtu.be/WnhTjcoOgSo?t=8891>
 
 A ultima apresentação do Prof. [Henrique Barros](https://ispup.up.pt/people/5432/about/?lang=pt) foi também excelente, no mesmo assunto, 
-cobrindo as o que aconteceu nos outros países que já abriram as as escolas 'a uma mes. 
-Igualmente esta apresentacao foi das poucas com medidas claras
+cobrindo as o que aconteceu nos outros países que já abriram as as escolas 'a uma mes.  
 <https://youtu.be/WnhTjcoOgSo?t=9455>
-
 
 ![ ](img/infarmed11_manuel_carmo_gomes_-_recomendacoes_escolas.png)
 ![ ](img/infarmed11_rbl1.jpg)
