@@ -18,7 +18,6 @@
   * [Infarmed 7 setembro 2020](#infarmed-7-setembro-2020)
   
 * [APP covid](#app-covid)
-  * [Sobre Tomas Pueyo](#sobre-tomas-pueyo)
   * [App e privacidade](#app-e-privacidade)
   * [Segunda resolucao do CNPD](#segunda-resolucao-do-cnpd)
   * [APP Sumario - 17 Julho](#app-sumario---17-julho)
@@ -28,6 +27,7 @@
   * [o GAEN liga a localização no iPhone?](#o-gaen-liga-a-localização-no-iphone)
   * [Como configurar os servicos de localizacao em Android e Iphone?](#Como-configurar-os-servicos-de-localizacao-em-Android-e-Iphone)
   * [Quantas pessoas já' foram alertadas pela APP?](#quantas-pessoas-já-foram-alertadas-pela-app)
+  * [Sobre Tomas Pueyo](#sobre-tomas-pueyo)
   
 * [Impacto na Economia](#impacto-na-economia)
   * [Inqueritos da AHRESP](#inqueritos-da-ahresp)
@@ -123,22 +123,8 @@ Ver estes exemplos para um teste perfeito, aleatorio e tipico PCR:
  
 ## Como posso calcular FPs, FNs e probabilidade pre-teste?
  
-Ver esta calculadora que relaciona Sencibilidade, Especificdade e Probabilidade Pré-teste:  
+Ver esta calculadora que relaciona Sensibilidade, Especificidade e Probabilidade Pré-teste:  
 <https://www.bmj.com/content/369/bmj.m1808>
-
-
-* Rastreamento LVT
-  * [Entrevista a um Rastreador na Amadora](#entrevista-a-um-rastreador-na-amadora)
-  * [Velocidade de Rastreamento](#velocidade-de-rastreamento)
-  * [Reunioes secretas do infarmed](#reunioes-secretas-do-infarmed)
-  * [Comentario paulo portas, 12 julho](#comentario-paulo-portas-12-julho)
-
-* APP covid  
-  * [App e privacidade](#app-e-privacidade)
-  * [Comentario paulo portas, 21 junho](#comentario-paulo-portas-21-junho)
-  * [Sobre Tomas Pueyo](#sobre-tomas-pueyo)
-  
-* Varios
 
 
 
@@ -464,14 +450,6 @@ https://youtu.be/WnhTjcoOgSo?t=9455
 
 # APP covid
 
-## Sobre Tomas Pueyo
-     
-Os textos de Tomas Pueyo sao longos, mas sao de longe os melhor suportados com analises e os mais detalhados.   
-<https://medium.com/@tomaspueyo>
- 
-Combinados, tiveram 60+ Milhoes de visualizacoes, foram subscritos por 100+ especialistas, e foram traduzidos em 40+ linguas pelos proprios leitores interessados.  
-<https://medium.com/tomas-pueyo/coronavirus-articles-endorsements-fdc68614f8e3>
-
 
 ## App e privacidade
  
@@ -490,8 +468,12 @@ Ver também a mesma opinião os 2:10 de um dos poucos jornalistas especialistas 
 
 <https://sicnoticias.pt/especiais/coronavirus/2020-06-30-Aplicacao-portuguesa-de-rastreio-a-covid-19>
 
-
+Permissoes da APP alema:
 ![ ](img/app_whatsapp_vs_covid_app.jpg)
+
+Permissoes da APP espanhola:
+![](img/app_espanha_permissoes.jpg)  
+ 
  
  
 UPDATE: novo parecer da CNPD de 21 julho [pdf](https://www.cnpd.pt/home/decisoes/Par/PAR_2020_82.pdf) 
@@ -677,6 +659,15 @@ Permissoes da APP espanhola
 ## Carta aberta de 200 cientistas a favor do medelo de APP descentralizado baseado em BT
 
 <https://giuper.github.io/JointStatement.pdf>
+
+
+## Sobre Tomas Pueyo
+     
+Os textos de Tomas Pueyo sao longos, mas sao de longe os melhor suportados com analises e os mais detalhados.   
+<https://medium.com/@tomaspueyo>
+ 
+Combinados, tiveram 60+ Milhoes de visualizacoes, foram subscritos por 100+ especialistas, e foram traduzidos em 40+ linguas pelos proprios leitores interessados.  
+<https://medium.com/tomas-pueyo/coronavirus-articles-endorsements-fdc68614f8e3>
 
 
 
