@@ -273,8 +273,8 @@ UPDATE1: as apresentacoes da décima, e ultima, reunião do infarmed sao agora p
   * (analisada em detalhe na rubrica do paulo portas 12 julho)
 * [Tempos de estadia hospitalar dos doentes Covid e projeções para ocupação hospitalar Covid](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_MCG.pdf)
 
-A apresentacao do prof Henrique Barros, [por video conferencia](https://www.publico.pt/2020/07/09/sociedade/noticia/covid19-proximidade-linhas-ferreas-nao-associado-aumento-risco-infeccao-1923684),
- nao esta' ainda disponivel.
+A apresentação do prof Henrique Barros, [por vídeo conferencia](https://www.publico.pt/2020/07/09/sociedade/noticia/covid19-proximidade-linhas-ferreas-nao-associado-aumento-risco-infeccao-1923684),
+ nao esta' ainda disponível.
 
 
 UPDATE2: as informacoes / apresentacoes teem que ser enviadas ao parlamento a cada 15 dias.
@@ -289,13 +289,13 @@ aprovacao com votos contra do PS: [link](https://www.esquerda.net/artigo/covid-1
 Sobre infeccoes em transportes publicos:  
 <https://www.tsf.pt/portugal/sociedade/esta-mal-informado-jaime-nina-arrasa-ministro-das-infraestruturas-12433641.html?utm_source=Push&utm_medium=App>
 
-a apresentacao do Prof Henrique Barros que nao esta' publica.
+a apresentação do Prof Henrique Barros que nao esta' publica.
 
 no jornal refere-se que NAO se verificou se os infectados andam de comboio.
 
 <https://www.publico.pt/2020/07/09/sociedade/noticia/covid19-proximidade-linhas-ferreas-nao-associado-aumento-risco-infeccao-1923684>
 
-outra fonte 'e a pagina 7 desta apresentacao do infarmed. Aqui a coabitacao 'e o primeiro factor, e segundo um participante:
+outra fonte 'e a pagina 7 desta apresentação do infarmed. Aqui a coabitação 'e o primeiro factor, e segundo um participante:
 
 “Como foi encontrada uma correlação mais forte entre a coabitação e o surto em Lisboa, esta relação causa-efeito entre comboios e surto foi desvalorizada”
 
@@ -306,13 +306,13 @@ tambem notar que N=1776, enquanto que na pagina 6 N=4358. Portanto ha 2500 pesso
 
 ## Comentario paulo portas, 21 junho
 
-Esta foi de longe melhor analise dos ultimos tempos sobre o COVID.
+Esta foi de longe melhor analise dos últimos tempos sobre o COVID.
 
 a) Comparacoes com outros países so' podem ser com os valores das ultimas 3 semanas.  
 
 Os valores acumulados desde 1 Jan sao irrelevantes e sao enganadores.
 
-Exemplo: ver figura 3 do Centro Europeu de controlo de doencas:
+Exemplo: ver figura 3 do Centro Europeu de controlo de doenças:
 
 <https://www.ecdc.europa.eu/sites/default/files/documents/RRA-COVID19-update10-2020-06-11.pdf>
 
@@ -322,7 +322,7 @@ Comentario: Atualmente este trabalho administrativo 'e feito por MEDICOS, o que 
 
 Exemplo: <https://evidentiamedica.com/nao-tem-de-ser/>
 
-c) Incrivelmente ninguem fala na APP Portuguesa. Especula-se que esta presa na CNPD. 
+c) Incrivelmente ninguém fala na APP Portuguesa. Especula-se que esta presa na CNPD. 
 
 Na Alemanha foi recomendada especialmente pelo gobverno e teve 8M downloads no primeiro dia.
 
@@ -336,7 +336,7 @@ Ver sff o grafico 16.b de <https://medium.com/@tomaspueyo/coronavirus-how-to-do-
 
 Solucao: Isso resolve-se contratando mais rasteadores (ponto b)
 
-d) Outros países fazem cercas sanaritas nao por "regiao" ou "cidade", mas por rua.
+d) Outros países fazem cercas sanitárias nao por "regiao" ou "cidade", mas por rua.
 
 e) Novos estudos calculam tanto os dados absolutos como os relativos das medidas concretas a tomar. 
 
@@ -350,7 +350,7 @@ f) Finalmente o governo anunciou que vai ser feito inquéritos sanitário no aer
 
 
 -----
-Extra: 'e extremamente dificil, mas nao impossivel, de comparar paises diferentes. 'E necessario controlar dezenas de variacoes:
+Extra: 'e extremamente dificil, mas nao impossível, de comparar países diferentes. 'E necessário controlar dezenas de variacoes:
 <https://www.bbc.com/news/52311014>
 
 ## Comentario paulo portas, 12 julho
@@ -424,28 +424,26 @@ https://pestrela.github.io/covid/#entrevista-a-um-rastreador-na-amadora
 
 ## infarmed 7 setembro 2020
 
-https://youtu.be/WnhTjcoOgSo?t=8891
+<https://youtu.be/WnhTjcoOgSo?t=8891>
 
 Voltaram as reuniões do "infarmed" - a [décima primeira](https://www.sns.gov.pt/noticias/2020/09/07/covid-19-11-a-reuniao-tecnica/).
 
 A melhor apresentação foi do Prof de Epidemiologia [Manuel do Carmo Gomes](https://webpages.ciencias.ulisboa.pt/~mcgomes/perfil/Cvenglish.pdf), FCUL, 
 que começa aos 2h08m. 
 
-Nesta são mostradas simulacoes que explicam que só por si a abertura das escolas sem restriccoes 'e suficiente para levar a uma segunda vaga.
+Nesta são mostradas simulações que explicam que só por si a abertura das escolas sem restriccoes 'e suficiente para levar a uma segunda vaga.
 
-Aos 2h28m são apresentadas as recomendaçoes praticas para evitar isso, mas mantendo as escolas abertas.
-https://youtu.be/WnhTjcoOgSo?t=8891
+Aos 2h28m são apresentadas as recomendações praticas para evitar isso, mas mantendo as escolas abertas.
+<https://youtu.be/WnhTjcoOgSo?t=8891>
 
 A ultima apresentação do Prof. [Henrique Barros](https://ispup.up.pt/people/5432/about/?lang=pt) foi também excelente, no mesmo assunto, 
 cobrindo as o que aconteceu nos outros países que já abriram as as escolas 'a uma mes.
-https://youtu.be/WnhTjcoOgSo?t=9455
+<https://youtu.be/WnhTjcoOgSo?t=9455>
 
-![](pics/infarmed11_manuel_carmo_gomes_-_recomendacoes_escolas.png)
-![](pics/infarmed11_rbl1.jpg)
-![](pics/infarmed11_rbl2.jpg)
-![](pics/infarmed11_rbl3.jpg)
-
-
+![ ](pics/infarmed11_manuel_carmo_gomes_-_recomendacoes_escolas.png)
+![ ](pics/infarmed11_rbl1.jpg)
+![ ](pics/infarmed11_rbl2.jpg)
+![ ](pics/infarmed11_rbl3.jpg)
 
 
 # APP covid
