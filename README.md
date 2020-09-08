@@ -427,17 +427,14 @@ https://pestrela.github.io/covid/#entrevista-a-um-rastreador-na-amadora
 
 Voltaram as reuniões do "infarmed" - a [décima primeira](https://www.sns.gov.pt/noticias/2020/09/07/covid-19-11-a-reuniao-tecnica/).
 
-A maioria das apresentacoes foram meramente expositivas, o que foi uma pena. 
+A maioria das apresentações foram meramente expositivas. Embora muito comum, este NAO 'e o contributo esperado dos Cientistas.
 
-Embora muito comum, este NAO 'e o contributo esperado dos Cientistas; 
-em vez disso, os Cientistas devem fazer recomendacoes concretas e accionaveis, 
-suportados por uma elaboracao expositiva necessaria para clarificar o porque da dita recomendacao.
-
-Assim sendo concordo plenamente com o comentário de [Ricardo Baptista Leite](https://www.facebook.com/ricardo.baptistaleite/videos/10157564929235509/) na CMTV.
+Como explica Ricardo Baptista Leite [na CMTV](https://www.facebook.com/ricardo.baptistaleite/videos/10157564929235509/), 
+os Cientistas devem fazer recomendações concretas e accionaveis, 
+suportados por uma elaboração expositiva necessária para clarificar o porque da dita recomendação.
 
 
 ----
-
 A melhor apresentação foi do Prof de Epidemiologia [Manuel do Carmo Gomes](https://webpages.ciencias.ulisboa.pt/~mcgomes/perfil/Cvenglish.pdf), FCUL, 
 que começa aos 2h08m. 
 
