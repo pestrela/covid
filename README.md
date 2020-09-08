@@ -448,11 +448,25 @@ cobrindo as o que aconteceu nos outros países que já abriram as as escolas 'a 
 Igualmente esta apresentacao foi das poucas com medidas claras
 <https://youtu.be/WnhTjcoOgSo?t=9455>
 
+[Sumario na imprensa 1](https://ionline.sapo.pt/artigo/708105/coinfecoes-e-hotspots-resumo-de-uma-reuniao-que-aqueceu-na-segunda-parte-?)  
+[Sumario na imprensa 2](https://www.noticiasaominuto.com/pais/1579101/tudo-sobre-reuniao-do-infarmed-ainda-vamos-a-tempo-de-evitar-2-vaga)  
+
 
 ![ ](img/infarmed11_manuel_carmo_gomes_-_recomendacoes_escolas.png)
 ![ ](img/infarmed11_rbl1.jpg)
 ![ ](img/infarmed11_rbl2.jpg)
 ![ ](img/infarmed11_rbl3.jpg)
+
+![ ][img/infarmed11_ecdc.png
+![ ][img/infarmed11_rt_4_quadrante.png
+![ ][img/infarmed11_tempo_notificacao.png
+![ ][img/infarmed11_escolas_accoes.png
+
+![ ][img/infarmed11_app_privacidade.png
+![ ][img/infarmed11_evolucao_icu.png
+
+![ ][img/infarmed11_near_misses.png
+
 
 
 # APP covid
