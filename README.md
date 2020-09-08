@@ -427,11 +427,11 @@ https://pestrela.github.io/covid/#entrevista-a-um-rastreador-na-amadora
 
 Voltaram as reuniões do "infarmed" - a [décima primeira](https://www.sns.gov.pt/noticias/2020/09/07/covid-19-11-a-reuniao-tecnica/).
 
-A maioria das apresentações foram meramente expositivas. Embora muito comum, este NAO 'e o contributo esperado dos Cientistas.
+A maioria das apresentações foram meramente expositivas. Embora comum, este NAO 'e o melhor contributo esperado dos Cientistas.
 
 Como explica Ricardo Baptista Leite [na CMTV](https://www.facebook.com/ricardo.baptistaleite/videos/10157564929235509/), 
 os Cientistas devem fazer recomendações concretas e accionaveis, 
-suportados por uma elaboração expositiva necessária para clarificar o porque da dita recomendação.
+suportados por uma elaboração expositiva necessária para clarificar o porque^ da dita recomendação.
 
 
 ----
@@ -457,15 +457,15 @@ Igualmente esta apresentacao foi das poucas com medidas claras
 ![ ](img/infarmed11_rbl2.jpg)
 ![ ](img/infarmed11_rbl3.jpg)
 
-![ ][img/infarmed11_ecdc.png
-![ ][img/infarmed11_rt_4_quadrante.png
-![ ][img/infarmed11_tempo_notificacao.png
-![ ][img/infarmed11_escolas_accoes.png
+![ ][img/infarmed11_ecdc.png)
+![ ][img/infarmed11_rt_4_quadrante.png)
+![ ][img/infarmed11_tempo_notificacao.png)
+![ ][img/infarmed11_escolas_accoes.png)
 
-![ ][img/infarmed11_app_privacidade.png
-![ ][img/infarmed11_evolucao_icu.png
+![ ][img/infarmed11_app_privacidade.png)
+![ ][img/infarmed11_evolucao_icu.png)
 
-![ ][img/infarmed11_near_misses.png
+![ ][img/infarmed11_near_misses.png)
 
 
 
