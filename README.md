@@ -15,7 +15,7 @@
   * [Infeccao em ferrovias](#infeccao-em-ferrovias)
   * [Comentario paulo portas, 21 junho](#comentario-paulo-portas-21-junho)
   * [Comentario paulo portas, 12 julho](#comentario-paulo-portas-12-julho)
-  
+  * [Infarmed 7 setembro 2020](#infarmed-7-setembro-2020)
   
 * [APP covid](#app-covid)
   * [Sobre Tomas Pueyo](#sobre-tomas-pueyo)
@@ -38,7 +38,7 @@
 
   * [Mascaras da MO / Adalberto](#mascaras-da-mo--adalberto)
   * [Mascaras da MO / Adalberto - detalhes](#mascaras-da-mo--adalberto---detalhes)
-  * [Mascaras FFP2 / N95](#porque-e-que-as-mascaras-n95ffp2-filtram-particulas-mais-pequenas-que-os-seus-fios)
+  * [Mascaras FFP2 / N95](#porque-e-que-as-mascaras-n95ffp2-filtram-particulas-mais-pequenas-que-os-seus-fios)  
   
 * [Espacos ao ar livre](#espacos-ao-ar-livre)
   * [Aglomerações ao ar livre - datas](#aglomerações-ao-ar-livre---datas)
@@ -436,6 +436,30 @@ Se e só se houvesse recursos suficientes 'e que se deviam TAMBEM testar pessoas
 https://pestrela.github.io/covid/#entrevista-a-um-rastreador-na-amadora
 
 
+## infarmed 7 setembro 2020
+
+https://youtu.be/WnhTjcoOgSo?t=8891
+
+Voltaram as reuniões do "infarmed" - a [décima primeira](https://www.sns.gov.pt/noticias/2020/09/07/covid-19-11-a-reuniao-tecnica/).
+
+A melhor apresentação foi do Prof de Epidemiologia [Manuel do Carmo Gomes](https://webpages.ciencias.ulisboa.pt/~mcgomes/perfil/Cvenglish.pdf), FCUL, 
+que começa aos 2h08m. 
+
+Nesta são mostradas simulacoes que explicam que só por si a abertura das escolas sem restriccoes 'e suficiente para levar a uma segunda vaga.
+
+Aos 2h28m são apresentadas as recomendaçoes praticas para evitar isso, mas mantendo as escolas abertas.
+https://youtu.be/WnhTjcoOgSo?t=8891
+
+A ultima apresentação do Prof. [Henrique Barros](https://ispup.up.pt/people/5432/about/?lang=pt) foi também excelente, no mesmo assunto, 
+cobrindo as o que aconteceu nos outros países que já abriram as as escolas 'a uma mes.
+https://youtu.be/WnhTjcoOgSo?t=9455
+
+![](pics/infarmed11_manuel_carmo_gomes_-_recomendacoes_escolas.png)
+![](pics/infarmed11_rbl1.jpg)
+![](pics/infarmed11_rbl2.jpg)
+![](pics/infarmed11_rbl3.jpg)
+
+
 
 
 # APP covid
@@ -641,6 +665,19 @@ said of the Corona-Warn-App, which has been downloaded more than 15.5 million ti
 ```
 
 
+## APP covid em espanha
+
+* Utilizacao: <https://www.xataka.com/aplicaciones/probamos-radar-covid-asi-funciona-aplicacion-rastreo-contactos-que-usaremos-espana>
+* Documentos tecnicos: <https://github.com/DP-3T/documents>
+* Comparacao tecnica: <https://eknoes.de/posts/covid19-apple-google-dp3t-comparison>
+
+Permissoes da APP espanhola
+![](img/app_espanha_permissoes.jpg)  
+  
+## Carta aberta de 200 cientistas a favor do medelo de APP descentralizado baseado em BT
+
+<https://giuper.github.io/JointStatement.pdf>
+
 
 
 # Impacto na Economia
@@ -799,6 +836,14 @@ https://www.youtube.com/watch?v=cR6PwImlznI
 * Almoçar morcego
   * ["Local de habitação "é o principal meio de transmissão" do vírus"](https://www.jn.pt/nacional/local-de-coabitacao-e-o-principal-contexto-de-transmissao-do-virus-12118723.html )
   * Comentário: Mas a DGS acho que andamos todos a almoçar morcego?
+  
+  
+## Impacto da sorte no sucesso das pessoas
+
+Este video mostra resultados de simulacoes sobre o impacto da Sorte (acaso) no sucesso das pessoas:
+<https://www.youtube.com/watch?v=3LopI4YeC4I>
+
+
   
  
   
