@@ -17,6 +17,7 @@
   * [Comentario paulo portas, 12 julho](#comentario-paulo-portas-12-julho)
   * [Manchete do Expresso, 1 Agosto](#Manchete-do-expresso-1-Agosto)
   * [Infarmed 7 setembro 2020](#infarmed-7-setembro-2020)
+  * [Sobre os testes rapidos](#sobre-os-testes-rapidos)
   
 * [APP covid](#app-covid)
   * [App e privacidade](#app-e-privacidade)
@@ -458,6 +459,8 @@ Igualmente esta apresentacao foi das poucas com medidas claras
 ![ ](img/infarmed11_rbl3.jpg)
 
 ![ ][img/infarmed11_ecdc.png)
+   
+
 ![ ][img/infarmed11_rt_4_quadrante.png)
 ![ ][img/infarmed11_tempo_notificacao.png)
 ![ ][img/infarmed11_escolas_accoes.png)
@@ -465,7 +468,54 @@ Igualmente esta apresentacao foi das poucas com medidas claras
 ![ ][img/infarmed11_app_privacidade.png)
 ![ ][img/infarmed11_evolucao_icu.png)
 
-![ ][img/infarmed11_near_misses.png)
+![ ][img/infarmed11_near_misses.png)  
+
+
+
+## Sobre os testes rapidos
+
+Esta este rtigo da Nature (melhor revista cientifica do mundo) compara os 3 tipos de testes actuais.
+https://www.nature.com/articles/d41586-020-02661-2
+
+
+A figura diz tudo:
+- No eixo horizontal, estao as SEMANAS depois da infeccao. Os sintomas aparecem ao fim de uma semana. 
+- No vertical, probabilidade de deteccao.
+
+
+As ideas a reter sao:
+
+A) Testes PCR (a cinzento, com a seta):
+- No dia da infeccao nao detecta nada 
+- Nos dias seguintes comeca a crescer, mesmo sem sintomas
+- O maximo de detecao 'e aos 10 dias. 
+- O teste nunca chega aos 100%. Estes sao os chamados falsos negativos. Por isso 'e que se tem que repetir o teste quando ha' duvidas e um mau historico (lares, sintomas, etc). 
+- O teste continua a funcionar nas semanas seguintes, mas caindo.
+
+B) Testes rapidos (a laranja):
+- No inicio sao como o PCR
+- No meio sao boms, mas nao tao altos como os PCR. Se der positivo 'e provavelmente positivo. Se der negativo mas houver maus historico (lares, sintomas), deve-se avancar para o PCR.
+- Na segunda semana o teste cai muito mais rapidamente que o PCR
+
+C) Testes anticorpos (a azul):
+- So' comecam a funcionar depois de duas semanas depois da infeccao. Isto 'e uma semana depois dos sintomas.
+- Uma vez que tem que se isolar as pessoas 3 dias depois da infeccao, estes testes nao servem para parar a infeccao.
+- funcionam por muito mais tempo (meses) que os outros
+
+![ ](img/nature_fast_tests.jpg)
+
+## Artigo Tomas Peuyo no NYT
+
+
+Um novo artigo excelente do Tomas Pueyo (autor do artigo do "martelo covid" com milhoes de leituras) num dos melhores jornais do mundo - o New York Times.
+
+O artigo mostra inequivocamente que a nao restricao das viagens, de qualquer tipo, 'e a causa da segunda onda.
+Como em 1918, esta sera' maior por nao ser possivel fazer o lockdown segunda vez.
+
+IMPORTANTE: deixem a pagina abrir completamente antes de ler. O artigo tem graficos e animacoes espetaculares.
+
+![ ](img/pt_mapa_fence.png)
+
 
 
 
@@ -484,6 +534,7 @@ Poupo-vos a leitura das [23 paginas](), muito mais simples 'e ver a imagem abaix
 - as permissões do Whatsapp, uma app que todos usam, mas que ninguém sabe o que realmente faz ("codigo-fonte fechado").
 
 - 'a APP Alemã, que qualquer pessoa pode inspecionar por ter "codigo-fonte aberto".
+<https://www.coronawarn.app/en/faq/#open-source>
 
 Ver também a mesma opinião os 2:10 de um dos poucos jornalistas especialistas em tecnologia - Lourenço Medeiros.
 
@@ -491,6 +542,8 @@ Ver também a mesma opinião os 2:10 de um dos poucos jornalistas especialistas 
 
 Permissoes da APP alema:
 ![ ](img/app_whatsapp_vs_covid_app.jpg)
+
+
 
 Permissoes da APP espanhola:
 ![](img/app_espanha_permissoes.jpg)  
@@ -691,6 +744,38 @@ Combinados, tiveram 60+ Milhoes de visualizacoes, foram subscritos por 100+ espe
 <https://medium.com/tomas-pueyo/coronavirus-articles-endorsements-fdc68614f8e3>
 
 
+## Entrevista a um programador da App
+
+Excelente entrevista com um dos autores da APP portuguesa. Se nao confiarem em politicos... confiem nos informaticos.
+<https://www.youtube.com/watch?v=qQga4IibkOK>
+
+Esta foi a agenda:
+1 - Como funciona a app STAYAWAY COVID?
+2 - A app estará disponível para todos os equipamentos (Mesmo os mais antigos)?
+3 - A app influencia a bateria do smartphone?
+4 - Porque STAYWAY COVID e não um nome em PT?
+5 - Na Irlanda a app é usada por 20% a 25% da população. Esperam superar estes números?
+6 - A versão para iPhone vai sair na mesma altura que a para Android?
+7 - Como foram realizados os testes?
+8 - Mensagem final para os utilizadores instalarem esta app.
+
+## Sobre a APP, no pplware
+
+Bom resumo da App num site especializado em informatica
+
+<https://pplware.sapo.pt/smartphones-tablets/app-portuguesa-stayaway-covid-de-que-ter-medo/>
+
+“Em Resumo…
+
+A app STAYAWAY COVID é segura
+Não são usadas informações do GPS
+Não são identificados contactos, ou seja, as tags da app são completamente anónimas
+Não há registo que a app tenha influência negativa na autonomia da bateria
+A app é de instalação voluntária
+Não é preciso qualquer tipo de registo
+A pessoa que está infetada pode decidir se quer alertar ou não outros utilizadores”
+
+
 
 # Impacto na Economia
 ## Inqueritos da AHRESP
@@ -849,6 +934,8 @@ https://www.youtube.com/watch?v=cR6PwImlznI
   * ["Local de habitação "é o principal meio de transmissão" do vírus"](https://www.jn.pt/nacional/local-de-coabitacao-e-o-principal-contexto-de-transmissao-do-virus-12118723.html )
   * Comentário: Mas a DGS acho que andamos todos a almoçar morcego?
   
+* Grunho do facebook  
+  * [pic](img/grunho_do_facebook.png)
   
 ## Impacto da sorte no sucesso das pessoas
 
