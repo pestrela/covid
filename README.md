@@ -458,17 +458,17 @@ Igualmente esta apresentacao foi das poucas com medidas claras
 ![ ](img/infarmed11_rbl2.jpg)
 ![ ](img/infarmed11_rbl3.jpg)
 
-![ ][img/infarmed11_ecdc.png)
+![ ](img/infarmed11_ecdc.png)
    
 
-![ ][img/infarmed11_rt_4_quadrante.png)
-![ ][img/infarmed11_tempo_notificacao.png)
-![ ][img/infarmed11_escolas_accoes.png)
+![ ](img/infarmed11_rt_4_quadrante.png)
+![ ](img/infarmed11_tempo_notificacao.png)
+![ ](img/infarmed11_escolas_accoes.png)
 
-![ ][img/infarmed11_app_privacidade.png)
-![ ][img/infarmed11_evolucao_icu.png)
+![ ](img/infarmed11_app_privacidade.png)
+![ ](img/infarmed11_evolucao_icu.png)
 
-![ ][img/infarmed11_near_misses.png)  
+![ ](img/infarmed11_near_misses.png)  
 
 
 
@@ -942,8 +942,6 @@ https://www.youtube.com/watch?v=cR6PwImlznI
 Este video mostra resultados de simulacoes sobre o impacto da Sorte (acaso) no sucesso das pessoas:
 <https://www.youtube.com/watch?v=3LopI4YeC4I>
 
-
-  
  
   
 ## Links recomendados
@@ -955,5 +953,5 @@ Ver acima comentário especifico para cada link.
 * Testes sao heuristica: <https://www.bmj.com/content/369/bmj.m1808>
 * Testes sao fracos: <https://evidentiamedica.com/testar-testar-ou-deixa-te-estar/>
 * Entrevista Rastreador: <https://rr.sapo.pt/2020/07/07/pais/especialista-em-saude-publica-nao-diria-que-nao-ha-infecoes-em-transportes-e-uma-afirmacao-politica-que-pode-ser-danosa/especial/198999/>
-
+* Impacto em Ibiza: <https://forum.ibiza-spotlight.com/threads/coronavirus-ibiza-updates.79875/page-11>
 
