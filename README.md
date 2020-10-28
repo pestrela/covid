@@ -475,7 +475,7 @@ Igualmente esta apresentacao foi das poucas com medidas claras
 ## Sobre os testes rapidos
 
 Esta este rtigo da Nature (melhor revista cientifica do mundo) compara os 3 tipos de testes actuais.
-https://www.nature.com/articles/d41586-020-02661-2
+<https://www.nature.com/articles/d41586-020-02661-2>
 
 
 A figura diz tudo:
@@ -504,8 +504,13 @@ C) Testes anticorpos (a azul):
 
 ![ ](img/nature_fast_tests.jpg)
 
-## Artigo Tomas Peuyo no NYT
 
+testes rapidos:
+* especificidade: 97% -> poder dar FPs
+* sensibilidade: 85% a 90% -> podem dar FNs
+
+  
+## Artigo Tomas Peuyo no NYT
 
 Um novo artigo excelente do Tomas Pueyo (autor do artigo do "martelo covid" com milhoes de leituras) num dos melhores jornais do mundo - o New York Times.
 
@@ -517,10 +522,98 @@ IMPORTANTE: deixem a pagina abrir completamente antes de ler. O artigo tem grafi
 ![ ](img/pt_mapa_fence.png)
 
 
+UPDATE: artigos similares on El Pais:
+
+Excelente artigo do El Pais que explica com muito boas animacoes casos concretos de infeccao em ambientes mundanos. Tudo isto baseado em artigos Cientificos
+
+As conclusoes sao claras:
+* ventilacao
+* mascaras
+* lotacao do espaco
+* tempo decorrido
+
+<https://elpais.com/ciencia/2020-10-24/un-salon-un-bar-y-una-clase-asi-contagia-el-coronavirus-en-el-aire.html>
+
+<https://elpais.com/ciencia/2020-06-06/radiografia-de-tres-brotes-asi-se-contagiaron-y-asi-podemos-evitarlo.html>
+
+
+## Podemos apenas proteger os idosos?
+
+E' uma idea natural, mas que na pratica nao funcionou em nenhum pais do mundo
+
+sff ver este artigo do Tomas Pueyo (os artigos dele do achatar a curva tiveram 60 milhoes de leituras)
+
+<https://medium.com/@tomaspueyo/coronavirus-should-we-aim-for-herd-immunity-like-sweden-b1de3348e88b>
+
+"Looking at that, a very sensible strategy comes to mind: Can we free young people, let them catch the coronavirus, seclude older people during that process, and once all the young people are infected and there’s Herd Immunity, let older people free too?"
+
+"The idea of protecting those at risk sounded good in theory, but in practice it hasn’t worked so far anywhere in the world. There have been outbreaks in nursing homes all over the world. In the US, around 60% of the top ~1,000 outbreaks have been in nursing homes."
+
+"If the virus doesn’t run around, it doesn’t infect old people. Conversely, if it’s running wild, it’s very hard to prevent care home residents from getting infected."
+
+"The elderly still need workers to take care of them. What will happen with these workers, called shielders? Will they also be quarantined? For years? What about their partners, will they also be quarantined? Will they have to lose their jobs? What about their kids, should they also be quarantined? Stop going to school? If not, what about other kids and their parents? Should they be quarantined instead? All of that’s impossible, so we must assume many care home workers will get infected. How to protect the elderly from them?"
+
+
+## Covid vs Gripe
+
+Com a subida de casos da segunda vaga, re-apareceram os mesmos argumentos de Marco. 
+
+Como os numeros ja' sao demasiado grandes, a idea que tudo isto e' uma "pandemia de Falsos Positivos" ja' nao convence ninguem. 
+
+Em vez disto, aparecem 'e comparacoes incorrectas com a epoca de Gripe, tipo Bolsonaro, com artigos de jornal antigos.
+
+---
+O crucial 'e perceber que se nao houvessem medidas draconianas, era como se fosse varias epocas de gripe todas de uma vez (por ser tao contagioso). Ate' atingir a imunidade de grupo 'a forca. 
+
+Os EUA teem menos medidas que a Europa, e por isso:
+- em MAIO ja' tinha ultrapassado TODAS epocas de gripe anteriores
+- em OUTUBRO  ja' esta' em oitavo lugar na tabela; e so' tem 2 pandemias acima dela
+
+<https://elemental.medium.com/us-covid-19-deaths-compared-to-diseases-pandemics-wars-2a7495a43280>
+
+![ ](img/covid_us_deaths_vs_season_flu.png)
+
+
+----
+covid vs gripe:
+- taxa de letalidade pior 
+- muito mais contagioso
+- sem imunidade de grupo
+
+"qurentena" (=isolamento profilatico) soa pior que "isolamento"
+"recolher obrigatorio" soa pior que "confinamento"
+
+## animacao do grafico do ECDC
+
+<img/ecdc_map_-_weeks_24_to_38.wmv>
+
+![ ](img/swiss_cheese_model.jpg)
+
+
+novo Artigo Tomas Peuyo october 2020:
+<https://www.facebook.com/tomaspueyo/posts/10157199175897693>
+
+Animacao europa:
+<https://www.facebook.com/591162692/videos/pcb.10157199175897693/10157199168752693/>
+
 
 
 # APP covid
 
+## Privacidade actual, e perda de privacidade em democracias asiaticas
+
+Ver o artigo abaixo sff. Ao contrario da app, isto sim implicaria perdas concretas de privacidade.
+
+Mas ainda estavam acima da perda de privacidade real dos telemoveis e dos impostos, e teria ganhos de liberdade muito relevantes.
+
+'E uma discussao complexa. Mas ainda falta muito ate' a sociedade estar pronta para discutir este assunto devidamente.
+
+Artigo:\  
+"Fica então mais claro, que o sucesso coreano advém da legislação democraticamente passada após a epidemia do MERS, em 2012, que permite uma vigilância mais apertada em caso de epidemia."
+
+"Dizem que os ocidentais não aceitam a intromissão do governo nos seus dados − ingenuidade e negação para quem usa iOS, Android, ou paga impostos. Mas quem tem maior liberdade neste momento são os cidadãos do Japão, Taiwan, Coreia do Sul, Nova Zelândia e outros no Pacífico"
+
+<https://observador.pt/opiniao/apocalipticos-da-privacidade-vs-stayaway-covid-e-a-ciencia-de-dados-para-o-bem-comum/>
 
 ## App e privacidade
  
@@ -662,7 +755,7 @@ Fonte: ver of Ver ponto 10 [da FAQ](https://static.googleusercontent.com/media/w
 Ver também os comentários no [slashdot](https://yro.slashdot.org/story/20/07/20/2237257/google-promises-privacy-with-virus-app-but-can-still-collection-location-data).
 (AKA "News for Nerds").
 
-
+FAQ GAEN: <https://www.google.com/intl/en_us/covid19/exposurenotifications/>
 
 ## o GAEN liga a localização no iPhone?
 
@@ -685,6 +778,15 @@ nao funcionam quando o telemovel esta' trancado, por falta de "handshakes blueto
 ```
 Mussared said the best thing the agency could do is implement the Apple-Google developed version of contact tracing into the app. It would resolve many of the ongoing issues, including the iPhone handshake problem, he said.
 ```
+
+## Os codigos da app nao sao gerados automaticos
+
+StayAway Laboratórios privados não emitem códigos de alerta
+Só os médicos o podem fazer. Utentes têm de contactar vários serviços até conseguirem os dígitos para colocar na app
+
+<https://www.facebook.com/groups/205024390569013/permalink/343384310066353/>
+
+
 
 ## Como configurar os servicos de localizacao em Android e Iphone?
 
@@ -776,6 +878,163 @@ Não é preciso qualquer tipo de registo
 A pessoa que está infetada pode decidir se quer alertar ou não outros utilizadores”
 
 
+## APP vs APPs maradas
+
+Em relacao 'a APP:
+.
+Eu confirmei TECNICAMENTE que a APP foi desenhada de forma a:
+a) respeitar totalmente a privacidade,
+b) ser totalmente anonima,
+c) todos os passos serem voluntarios.
+.
+.
+So' agora 'e que as pessoas 'e estao a utilizar a app, e a confusao 'e grande.\  
+TODOS os dias respondo a imensas duvidas / cenarios / afirmacoes que a app 'e inutil. 
+.
+A resposta a TODOS estes problemas 'e a sempre mesma - 'e assim que funciona uma APP que seja:
+a) respeita totalmente a privacidade,
+b) 'e totalmente anonima, e
+c) todos os passos sao voluntarios.
+.
+.
+Por outro lado, se fosse uma app marada para ficar velhinho, ou mudar a foto de sexo, ou para jogar, ja' 
+toda a gente era especialista de informatica para a por a funcionar, e fazia com todo o cuidado todos os passos que ela pedia.
+.
+.
+.
+-------------------------------
+.
+A pergunta numero #1 'e as pessoas assumirem que a app 'e uma pulseira electronica obrigatoria do governo para instalarem depois de receberem o teste positivo.
+.
+Nao 'e o caso, de todo. SIM, existe tecnologia para fazer isso, mas as apps europeias nao teem nada a ver com isso. 
+.
+A app serve para:
+a) a pessoa infectada avisar os contactos anteriores do seus ultimos 14 dias
+b) as pessoas nao-infectadas receberem os avisos das outras, e serem mais cuidadosas no futuro
+.
+-------------------------------
+.
+Por fim, um "top-5" das respostas:
+* NAO, a app nao pede localizacao GPS, nem a camara, nem o microfone.
+* NAO, a app nao sabe quem voce e'. Nao ha' qualquer registo. Nao pede o email. Nao ha' endereco postal. 
+* NAO, as empresas (Google+Apple) e o Governo nao vao ter quaisquer dados com a App. 
+  * Pelo contrario, isso acontece 'e com as apps normais do Facebook, com o Gmail, icloud, whatsapp, instagram, e tiktok.
+* SIM, a app 'e util para quem fica em casa depois do teste positivo. 
+  * A App ja' tem que estar funcinar ANTES para poder avisar os contactos dos ultimos 14 dias antes do teste positivo.
+* SIM, 'e preciso pedir o codigo e introduzir-lo manualmente depois de ter o teste positivo.
+.
+.
+O mundo actual 'e complicado. Sff perguntem e confiem APENAS em especialistas - cada um na sua area. Nao confiem nos grunhos do Facebook!
+
+
+
+---
+
+
+A utilidade da App esta' no meio de entre essas 2 pessoas. 
+O problema esta' exactamente nas pessoas que "continuam a manter a sua vida normal, mantendo as medidas de protecção". 
+Conforme o numero de infectados o que antes era perfeitamente possivel e aceitavel, hoje pode ja' nao o ser. E vice versa, o que era proteccao em falta, hoje ja' pode ser exagerado.
+.
+A Pandemia e o risco muda demasiado depressa. A App 'e um sinal dinamico que vemos na auto-estrada.
+.
+Recomendo este artigo de Tomas Pueyo (autor do "martelo", com 60 milhoes de leituras) sobre o rastreamento e a utilidade da app no rastreamento.
+https://medium.com/@tomaspueyo/coronavirus-how-to-do-testing-and-contact-tracing-bde85b64072e
+
+
+
+taiwan:
+https://www.facebook.com/jonathan.chen.1213/posts/10158178965295127
+
+Taiwan’s Eternal Dance
+https://medium.com/@tomaspueyo/coronavirus-learning-how-to-dance-b8420170203e
+
+Tribolet: 12m10s
+https://tviplayer.iol.pt/programa/noticias/53c6b3613004dc006243c401/video/5f88999d0cf2ae07a25551e7
+
+
+
+
+## APP tem que estar a funcionar ANTES do teste
+
+Em complemento ao post anterior, aqui esta' um exemplo tipico de um grunho do Facebook.
+.
+O erro esta' no ponto 6. A app nao avisa a partir dessa altura para a frente.
+Avisa e' quem foi ja' contactado nos 14 dias anteriores sem saber que estava infectado!
+.
+.
+Eu podia ter um trabalho a tempo inteiro a responder a este tipo de lixo. Nao conseguia dar vazao.\  
+SFF nao partilhem ests cenas! obg
+
+## Suporte da analise tecnica da App
+
+
+Codigo fonte da APP:
+https://github.com/stayawayinesctec/stayaway-app
+
+FAQ do GAEN:
+https://www.google.com/covid19/exposurenotifications/
+
+Comentario 'a resolucao da CNPD:
+https://pestrela.github.io/covid/#app-e-privacidade
+
+Codigo fonte do D3PT (onde o GAEN fizeram o fork privado):
+https://github.com/DP-3T/documents#apple--google-exposure-notification
+
+
+A GAEN nao tem codigo fonte publico. Mas 'e um fork privado do D3PT, e esse tem o codigo aberto.
+O ponto crucial da arquitectura 'e que a API so' recebe tokens aleatorios para distribuir. 
+Estes tokens nao teem a info que "X tem covid".
+
+
+## Quanto custou a app
+
+A app nao teve financiamento publico e custou 400 mil euros.
+https://pplware.sapo.pt/smartphones-tablets/app-stayaway-covid-custou-perto-de-400-mil-euros/
+ 
+Para uma app com potencialmente 7 milhoes de utilizadores parece-me uma pechicha.
+https://marketeer.sapo.pt/7-milhoes-de-portugueses-tem-smartphone
+
+## Como funciona a app por dentro
+
+Para quem quer saber como a app funciona por dentro, e porque 'e que 'e privada:
+
+1) A pessoa "A" instala a app. Gera um codigo privado a cada 15 minutos. Este codigo 'e um numero giantesco que 'e impossivel de adivinhar. Alem disso, os numeros teem caracteristicas especiais como ser divisivel por 532244217326832872244231. 'E o mesmo metodo do banco online.
+
+2) As pessoas "B" e "C" instalam a app. O processo 'e igual para eles.
+
+3) As apps ouvem-se umas 'as outras por bluetooth, localmente, e trocam os codigos entre si. 
+
+4) A pessoa "A" e B" encontram-se e trocam codigos. A pessoa "C" nunca esteve em contacto com "A" ou "B". 
+
+5) os codigos sao guardados e apagados ao fim de 14 dias automaticamente.
+
+6) A pessoa "A" recebe o teste positivo. Pede manualmente um codigo especial do medico. A app consegue validar se o codigo especial esta' correcto. A app envia os numeros aleatorios de quem contactou nos ultimos 14 dias para um servidor central.
+
+7) a pessoa "B" faz o download dos codigos de "A". Como os guardou e batem certo, apresenta a notificacao. A unica informacao apresentada 'e o dia. A hora 'e escondida.
+
+8) a pessoa "C" faz o mesmo download. Mas como nunca esteve com "A", nenhum codigo ate certo para ela. Melhor, os codigos de "A" sao totalmente aleatorios sem qualquer significado para "C".
+
+video de explicacao:
+https://www.youtube.com/watch?v=oG3t7Gf_5VE
+
+## O que fazer quando a app enviar um alerta / enviar alertas demais
+
+Outra pergunta muito comum 'e:
+- o que fazer concretamente quando a app me der um alerta? vou a correr fazer um teste?
+e a sua evolucao:
+- Quando a app estiver massificada, vamos ter alertas diarios? o que fazer nessa altura?
+.
+.
+Para a primeira pergunta, se eu receber HOJE uma notificacao, passava a ser mais cuidadoso. Nao ia correr para a saude 24. 
+Por exmplo, deixava de ir a restaurantes que tenho ido durante a semana de trabalho. Mais importante, cancelava o almoco de familia para o domingo seguinte (exemplo).
+.
+Isto 'e como conduzir a 120 na auto-estrada. Quando aparece o sinal de "vento" ou "neve", devemos abrandar. Nao 'e preciso necessariamente parar. So' se vier um furacao!
+.
+Para a segunda pergunta, sim 'e possivel quando o sistema estar massificado. 
+Mas nessa situacao 'e muito facil mudar o parametro dos 15 minutos para, por exemplo, 30 minutos. 
+Qualquer sistema de engenharia funciona assim e tem que ser calibrado/analisado periodicamente. 
+
+
 
 # Impacto na Economia
 ## Inqueritos da AHRESP
@@ -836,10 +1095,10 @@ A máscara já me tinha chamado a atenção em Abril por ter tecnologia específ
 Agora a novidade foi ter sido testada ESPECIFICAMENTE para o Covid por Pedro Simas, do IMM, que todos conhecem da TV, que teve que criar 200 mil doses infecciosas de covid para cada teste da máscara,além de nova certificação de franca para 50 lavagens.
 
 Noticia SIC:
-https://sicnoticias.pt/especiais/coronavirus/2020-07-24-Portugal-cria-mascara-que-inativa-o-coronavirus-uma-inovacao-a-nivel-mundial
+<https://sicnoticias.pt/especiais/coronavirus/2020-07-24-Portugal-cria-mascara-que-inativa-o-coronavirus-uma-inovacao-a-nivel-mundial>
 
 Noticia Expresso:
-https://leitor.expresso.pt/semanario/semanario2491/html/economia/temas/esta-mascara-e-portuguesa-e-inativa-o-sars-cov-2
+<https://leitor.expresso.pt/semanario/semanario2491/html/economia/temas/esta-mascara-e-portuguesa-e-inativa-o-sars-cov-2>
 
 Dados:
 * primeira comercialização: 27 abril (MO online)
@@ -847,26 +1106,36 @@ Dados:
 * 20 mil máscaras por semana, exportadas para 7 países.
 
 FB sic noticias:
-https://www.facebook.com/sicnoticias/posts/10158992753626388
+<https://www.facebook.com/sicnoticias/posts/10158992753626388>
 
 
 ## Mascaras da MO / Adalberto - detalhes
 
-https://mo-online.com/pt/lp-produtos-antimicrobianos/Produto.html 
-   Tecnologia Ad-tech de várias camadas protetoras, com patente pendente.
+* <https://mo-online.com/pt/lp-produtos-antimicrobianos/Produto.html>
+  * Tecnologia Ad-tech de várias camadas protetoras, com patente pendente.
+* <https://adtech.pt/#faq>
+  * Virucidal activity currently confidential. Independent tests were performed in several encapsulated viruses with very promising results.
+* <https://adtech.pt/#specifications>
+  * Does the mask have anti-bacterial protection?
+  * This product was developed with the most advanced textile technologies available in the market, with the purpose of protecting their wearears of microbial contamination.
 
-https://adtech.pt/#faq      
-  Virucidal activity currently confidential. Independent tests were performed in several encapsulated viruses with very promising results.
+* <https://mo-online.com/pt/lp-produtos-antimicrobianos/Ciencia.html>
+  * O mecanismo de eliminação dos micro-organismos funciona por punção mecânica ao contrário dos tradicionais métodos que utilizam partículas pesadas e induzem o envenenamento bacteriano
+  * Ação antimicrobiana duradora comprovada em laboratórios europeus e eficaz num espectro alargado de bactérias, vírus, fungos e algas.
 
-https://adtech.pt/#specifications
-  Does the mask have anti-bacterial protection?
-  This product was developed with the most advanced textile technologies available in the market, with the purpose of protecting their wearears of microbial contamination.
+* Noticia euronews: <https://www.youtube.com/watch?v=FwYheEiq0og>
+  * Scientists in Portugal create reusable mask that inactivates coronavirus   
+  
+  
+## Entrevista ao CITEVE
 
-https://mo-online.com/pt/lp-produtos-antimicrobianos/Ciencia.html
-  O mecanismo de eliminação dos micro-organismos funciona por punção mecânica ao contrário dos tradicionais métodos que utilizam partículas pesadas e induzem o envenenamento bacteriano
-  Ação antimicrobiana duradora comprovada em laboratórios europeus e eficaz num espectro alargado de bactérias, vírus, fungos e algas.
+Excelente reportagem sobre o CITEVE aos 41:10.
+O CITEVE 'e o organismo que certifica quantas vezes uma mascara pode ser lavada e ainda functionar. 
 
-TODO: empresa lupo no Brasil
+Tambem muito importante sao as diferencas entre os tipos de mascaras.
+E como DE FACTO as usar (nariz de fora ou o clipe mal posto= INUTIL)
+  
+<https://tviplayer.iol.pt/programa/jornal-das-8/53c6b3903004dc006243d0cf/video/5f7f88960cf27c93db9bc8df>
   
 ## Porque 'e que as Mascaras N95/FFP2 filtram particulas mais pequenas que os seus fios
 
@@ -896,6 +1165,22 @@ Caveats (4:20):
 * 26 de Junho, Liverpool
 * 5 de Julho, reabertura de bares em Londres (beber na rua)
   
+# Negacionistas
+
+## Artigo noticias magazine
+
+do artigo:
+
+Acreditam em factos alternativos mirabolantes e em cabalas mundiais. E descobrem essas “verdades” em fóruns online, grupos de Facebook ou canais de YouTube que não são controlados por aqueles que os querem enganar. Quem são estes negacionistas e conspiracionistas? E como falar com eles?
+
+“É importante lembrar que a negação da ciência não tem que ver com a argumentação racional. Se fosse, fornecer evidências seria suficiente para mudar a opinião dos negacionistas e conspiracionistas”
+
+“O negacionista conhece os ‘factos’, mas simplesmente recusa-se a acreditar neles. Porquê? Porque interferem com outras coisas em que deseja acreditar, entram em conflito com a sua identidade, ou porque não confia nas pessoas que lhes fornecem esses factos.”
+Como falar com um negacionista?
+
+“Saber ou não saber os factos científicos é o menos relevante, o mais importante é explicar às pessoas como é que a ciência funciona, como avança, o que é o consenso científico”
+
+<https://www.noticiasmagazine.pt/2020/o-extraordinario-mundo-dos-negacionistas/historias/253566/>
   
 # English
   
@@ -936,12 +1221,31 @@ https://www.youtube.com/watch?v=cR6PwImlznI
   
 * Grunho do facebook  
   * [pic](img/grunho_do_facebook.png)
+
+* Fernando Rocha  
+  * [pic](img/fernando_rocha_1.jpg)
+  
+* Baby Yoda teches masks
+ * [pic](img/yoda_teaches_masks.jpg)
+
   
 ## Impacto da sorte no sucesso das pessoas
 
 Este video mostra resultados de simulacoes sobre o impacto da Sorte (acaso) no sucesso das pessoas:
 <https://www.youtube.com/watch?v=3LopI4YeC4I>
 
+
+##  Voluntarios Covid
+* SNS  
+  * <https://www.sns.gov.pt/noticias/2020/03/20/covid-19-voluntarios-para-reforcar-o-sns/>
+* Hospitais: 
+  * <https://www.rtp.pt/noticias/pais/covid-19-500-voluntarios-cuidam-de-casos-leves-no-hospital-de-campanha-do-porto_v1225324/>
+  * <http://www.ulscb.min-saude.pt/cidadao/mais-saude/liga-dos-amigos/>
+* Lares: 
+  * <https://www.rtp.pt/noticias/pais/covid-19-bolsa-de-voluntarios-para-reforco-de-emergencia-aos-lares-tem-mais-de-5-mil-inscritos_n1256425/>
+  * <https://www.publico.pt/2020/04/10/sociedade/noticia/covid19-tres-mil-voluntarios-querem-ajudar-idosos-vivem-lares-1911877/>
+
+ 
  
   
 ## Links recomendados
