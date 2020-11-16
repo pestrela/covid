@@ -2,6 +2,8 @@
 # TOC
 
 * [TOC](#toc)
+* [Negacionistas](#negacionistas)
+  * [Reportagem e Debate TVI](#Reportagem-e-Debate-TVI)
 * [Fiabilidade de Testes](#fiabilidade-de-testes)
   * [O que 'e o Evidentia Medica](#o-que-e-o-evidentia-medica)
   * [Jargão estatístico: sensibilidade e especificidade](#jargão-estatístico-sensibilidade-e-especificidade)
@@ -48,6 +50,24 @@
 * [Vários](#vários)
   * [Humor](#humor)
   * [Links recomendados](#links-recomendados)
+
+  
+# Negacionistas
+## Reportagem e Debate TVI
+
+Excelente reportagem e debate da TVI sobre os "medicos pela verdade". 
+
+No grupo ha' psicologos, dentistas e enfoermeiros.
+Mas nao tem nenhum medico de saude publica, epidemiologita ou virulogista.
+
+Problemas semelhantes nos "jornalistas pela verdade". Quem da' a cara nao e' jornalista.
+
+Reportagem:
+https://tviplayer.iol.pt/video/5fad9d950cf203abc5b0c31e
+
+O debate comeca aos 1h18m deste video:
+https://tviplayer.iol.pt/video/5fadcf1b0cf2c785555011b9
+
 
 # Fiabilidade de Testes
 
@@ -595,6 +615,90 @@ novo Artigo Tomas Peuyo october 2020:
 
 Animacao europa:
 <https://www.facebook.com/591162692/videos/pcb.10157199175897693/10157199168752693/>
+
+
+
+## Reunioes Familiares sem mascara
+
+Finalmente a comunicaco social esta' a ajudar para atacar DE FACTO onde o virus esta' a ser propagado: 
+reunioes familiares sem mascara.
+
+
+"as pessoas quando vão visitar casas de familiares com quem não residem têm de se comportar como se estivessem no trabalho ou num restaurante. Ou seja, devem estar de máscara, evitar contactos próximos (de abraços e de beijos) e de contacto físico, e manter um mínimo de distância possível"
+
+
+"Temos de nos lembrar que só devemos retirar a máscara junto do nosso agregado familiar, com quem nós moramos."
+
+"até o simples ato de fazer uma refeição com a família implica que tudo seja pensado (ainda mais) ao pormenor e que cheguemos a colocar em causa se queremos mesmo fazer esse ajuntamento."
+
+<https://tvi24.iol.pt/sociedade/gustavo-tato-borges/covid-19-como-evitar-contagios-nas-reunioes-familiares>
+
+
+## 2020-11-09 - 3 videos curtos de Tomas Pueyo
+
+3 videos curtos do Tomas Pueyo, famoso pelo artgo do "martelo", com 60 milhoes de leituras.
+ 
+O primeiro mostra o que as pessoas individuais podem fazer para diminiur as infeccoes
+https://www.youtube.com/watch?v=3Y4UjT-Tge0
+
+O segundo mostra o modelo do queijo suico. So' a combinacao de varias medidas das pessoas e do governo 'e que diminiu sifnificativamente o problema
+https://www.youtube.com/watch?v=QzGb65UB5LQ
+
+O terceiro mostra as regioes todas da europa desde marco
+https://www.youtube.com/watch?v=MLNjUknJhms
+
+Este 'e o ultimo artigo dele, para quem prefrir ler detalhadamente em vez de ver videos
+https://tomaspueyo.medium.com/coronavirus-the-swiss-cheese-strategy-d6332b5939de
+
+
+Este 'e os grficos da europa, estados unidos e Asia. 
+Os paises asiatios (nao 'e so' a china!) estao a lidar bem melhor com o problema
+https://miro.medium.com/max/1000/0*DFP2EXBAyZaX9uMc
+
+## 2020-11-09 - novo artigo de Tomas Pueyo
+
+
+Nivel 1: barreiras
+- testes na chegada + quarentena + teste 4 dias depois
+
+Nivel 2: Bolha Social
+- limitar de ajuntamentos
+
+Layer 3: Contra-infeccao
+- mascaras obrigatorias
+- ajuntamentos possiveis so' no exterior e com distancia minima
+- oculos necessarios para espacos interiores
+- encontros no interior so' com ventilacao, filtros, temperatura alta e humidade certa
+
+
+Layer 4: Rastreamento
+- testes so' devem encontrar 1 positivo a cada 20 testes. Se for mais, esta' se a testar de menos
+- 2 rastreadores por cada caso diario
+- publicar a eficacia do rastreamento: Que percentagem dos contactos sao isolados ao fim de 2 dias 
+- dar recursos para as pessoas poderem esperar na quarentena
+- quarentenas obrigatorias e verificadas
+- Multar pesadamente quem nao cumpre qurentena e publicitar
+ 
+
+ 
+ 
+## artigo cientifico sobre dados da DGS
+
+sumario do artigo:
+https://www.medrxiv.org/content/10.1101/2020.11.03.20225565v1.full.pdf
+
+O artigo 'e serio de investigadores de faculdades de medicina respeitdos.
+
+o artigo falha no ponto essencial: os investigadores nao pediram explicitamente no texto 
+do artigo o acesso ao sistema especifico de covid chamado "tracecovid".
+
+Em vez disto, so' tiveram acesso ao "sinave". Este 'e o sistema geral para todas as doencas. 
+Sem surpresa constataram que a qualidade dos dados 'e baixissima (dados copiados 'a mao, burocracia, lentidao, etc).
+Tambem connlcuiram que os artigos cientificos baseados nestes dados podem estar errados (garbage in = garbage out)
+ 
+
+Os autores sugerem todo o tipo de melhorias ao sinave, em vez de simplesmente pedirem o acesso 'a melhor fonte possivel - o tracecovid.
+
 
 
 
