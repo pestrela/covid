@@ -20,7 +20,9 @@
   * [Manchete do Expresso, 1 Agosto](#Manchete-do-expresso-1-Agosto)
   * [Infarmed 7 setembro 2020](#infarmed-7-setembro-2020)
   * [Sobre os testes rapidos](#sobre-os-testes-rapidos)
-  
+  * [Aprovacao da vacina pela FDA](#Aprovacao-da-vacina-pela-FDA)
+  * [Acordao da Relacao fala em 97% falsos positivos](#Acordao-da-Relacao-fala-em-97%-falsos-positivos)
+
 * [APP covid](#app-covid)
   * [App e privacidade](#app-e-privacidade)
   * [Segunda resolucao do CNPD](#segunda-resolucao-do-cnpd)
@@ -68,6 +70,20 @@ https://tviplayer.iol.pt/video/5fad9d950cf203abc5b0c31e
 O debate comeca aos 1h18m deste video:
 https://tviplayer.iol.pt/video/5fadcf1b0cf2c785555011b9
 
+
+## Entrevistas ao chefe dos UCI do Porto
+
+Duas entrevistas ao chefe dos Cuidados Intensivos do Sao Joao (Porto).
+'E este o medico que fica com a batata quente com o aumento exponencial dos casos intensivos que lhe batem 'a porta, sem parar.
+Quaisquer que sejam os recursos, nunca chegariam para um aumento exponencial de casos; um aumento de 30% 'e irrisorio se for necessario um aumento de 1000% (por exemplo). 
+Tanto Covid como nao-covid. Porque ninguem serio vai negar UCI aos covid - e esses enchem tudo, e os nao-covid vao chegando tarde. 
+Tudo isto 'e evitavel. Todos sabem o que fazer. O timeline 'e ate' o pais estar 70% vacinado. 
+
+RTP3 grande entrevista:
+https://www.rtp.pt/play/p6646/e500951/grande-entrevista
+
+Expresso entrevista:
+https://www.facebook.com/groups/205024390569013/permalink/361827324888718/
 
 # Fiabilidade de Testes
 
@@ -603,7 +619,7 @@ covid vs gripe:
 "qurentena" (=isolamento profilatico) soa pior que "isolamento"
 "recolher obrigatorio" soa pior que "confinamento"
 
-## animacao do grafico do ECDC
+## Animacao do grafico do ECDC
 
 <img/ecdc_map_-_weeks_24_to_38.wmv>
 
@@ -698,6 +714,72 @@ Tambem connlcuiram que os artigos cientificos baseados nestes dados podem estar 
  
 
 Os autores sugerem todo o tipo de melhorias ao sinave, em vez de simplesmente pedirem o acesso 'a melhor fonte possivel - o tracecovid.
+
+
+
+## Acordao da Relacao fala em 97% falsos positivos
+
+"Ora, da leitura do artigo, concluem as juízas que “a probabilidade de a pessoa receber um falso positivo é de 97% ou superior”."
+
+O assunto do momento 'e o acordao da Relacao sobre a DRS dos Acores. 
+
+Eu fui ler o dito acordao e os 2x artigos cientificos citados. 
+Posso afirmar SEM QUALQUER DUVIDA esta conclusao esta' completamente errada, e' completamente irresponsavel, e demonstra ignorancia atroz de assuntos cientificos.
+
+Artigos Cientificos sao destinados a Cientistas dessa area especifica. Nao sao destinados ao publico em geral.
+
+---
+O resultado esta' 'a vista. Conceitos de sensibilidade estatistica e especificidade estatistica sao extremamente complicados de perceber, medir e dominar.
+Isto sim 'e informacao correcta sobre este assunto:
+“Os testes de PCR têm uma especificidade e sensibilidade superiores a 95%. Isto é, na esmagadora maioria dos casos detectam o vírus que provoca a covid-19”.
+
+https://www.publico.pt/2020/11/17/sociedade/noticia/juizas-fazem-leitura-errada-artigos-cientificos-poe-causa-fiabilidade-testes-covid19-1939616
+https://www.publico.pt/2020/11/17/ciencia/opiniao/testes-diagnostico-covid19-capricho-irresponsabilidade-tribunal-relacao-1939606
+
+
+extra:
+* post: https://www.facebook.com/scimed.evidencia/posts/1010122222802944
+* numeros oficiais: https://www.worldometers.info/coronavirus/country/portugal/
+* Acordao: http://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/79d6ba338dcbe5e28025861f003e7b30
+
+ 
+## Aprovacao da vacina pela FDA
+
+ blog post: https://blogs.sciencemag.org/pipeline/archives/2020/11/09/vaccine-efficacy-data
+ protocolo Cientifico: https://pfe-pfizercom-d8-prod.s3.amazonaws.com/2020-11/C4591001_Clinical_Protocol_Nov2020.pdf
+ FAQ: https://www.pfizer.com/science/coronavirus
+
+Fase 3 tem ~40000 pessoas.
+metade com vacina, metade com placebo.
+
+requisitos:
+- Pessoas saudadeis >12 anos
+- Concordem com o protocolo do estudo (inclui restricoes ao estilo de vida, etc)
+- preferencia explicita a quem tiver maior risco de covid (trbsportes publicos, contatco com clientes, etc)
+
+Verificacoes obrigatorias:
+- 1 mes
+- 6 meses
+- 12 meses
+- 24 meses
+
+
+Os primeiros resultados sao anunciados quando receberem 64 doentes (PCR).
+A decisao 'e feita com 164 doentes.
+
+Hoje, 2020-11-XX, receberam 95 doentes.
+  
+* 5 tiveram  vacina; 90 placebo
+* 11 dos 90 estiveram muito mal
+* 0 dos 5 estiveram muito mal
+  
+Mais dados:  
+*  15 dos 95 era > 65 anos
+  
+Foram feitas analise estatisticas que quando chegar aos 164 a probabilidde 'e enorme que a vacina 'e muitissimo eficaz.
+update: dia 18 de nov 2020 ja' chegaram aos 164 pessoas
+
+
 
 
 
