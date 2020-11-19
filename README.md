@@ -4,9 +4,10 @@
 * [TOC](#toc)
 * [Negacionistas](#negacionistas)
   * [Reportagem e Debate TVI](#Reportagem-e-Debate-TVI)
-  * [Acordao da Relacao 97% falsos positivos](Acordao-da-Relacao-fala-em-97%-falsos-positivos)
-  * [Acordao da Relacao - detalhes](#Acordao-da-Relacao-detalhes)
+  * [Acordao da Relacao 97% falsos positivos](#acordao-da-relacao-fala-em-97-falsos-positivos)
+  * [Acordao da Relacao - detalhes](#acordao-da-relacao---detalhes)
 
+#acordao-da-relacao-fala-em-97-falsos-positivos
 
 * [Fiabilidade de Testes](#fiabilidade-de-testes)
   * [O que 'e o Evidentia Medica](#o-que-e-o-evidentia-medica)
