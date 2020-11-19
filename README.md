@@ -4,6 +4,7 @@
 * [TOC](#toc)
 * [Negacionistas](#negacionistas)
   * [Reportagem e Debate TVI](#Reportagem-e-Debate-TVI)
+  
 * [Fiabilidade de Testes](#fiabilidade-de-testes)
   * [O que 'e o Evidentia Medica](#o-que-e-o-evidentia-medica)
   * [Jargão estatístico: sensibilidade e especificidade](#jargão-estatístico-sensibilidade-e-especificidade)
@@ -65,10 +66,10 @@ Mas nao tem nenhum medico de saude publica, epidemiologita ou virulogista.
 Problemas semelhantes nos "jornalistas pela verdade". Quem da' a cara nao e' jornalista.
 
 Reportagem:
-https://tviplayer.iol.pt/video/5fad9d950cf203abc5b0c31e
+<https://tviplayer.iol.pt/video/5fad9d950cf203abc5b0c31e>
 
 O debate comeca aos 1h18m deste video:
-https://tviplayer.iol.pt/video/5fadcf1b0cf2c785555011b9
+<https://tviplayer.iol.pt/video/5fadcf1b0cf2c785555011b9>
 
 
 ## Entrevistas ao chefe dos UCI do Porto
@@ -80,16 +81,88 @@ Tanto Covid como nao-covid. Porque ninguem serio vai negar UCI aos covid - e ess
 Tudo isto 'e evitavel. Todos sabem o que fazer. O timeline 'e ate' o pais estar 70% vacinado. 
 
 RTP3 grande entrevista:
-https://www.rtp.pt/play/p6646/e500951/grande-entrevista
+<https://www.rtp.pt/play/p6646/e500951/grande-entrevista>
 
 Expresso entrevista:
-https://www.facebook.com/groups/205024390569013/permalink/361827324888718/
+<https://www.facebook.com/groups/205024390569013/permalink/361827324888718/>
+
+
+## Acordao da Relacao fala em 97% falsos positivos
+
+"Ora, da leitura do artigo, concluem as juízas que “a probabilidade de a pessoa receber um falso positivo é de 97% ou superior”."
+
+O assunto do momento 'e o acordao da Relacao sobre a DRS dos Acores. 
+
+Eu fui ler o dito acordao e os 2x artigos cientificos citados. 
+Posso afirmar SEM QUALQUER DUVIDA esta conclusao esta' completamente errada, e' completamente irresponsavel, e demonstra ignorancia atroz de assuntos cientificos.
+
+Artigos Cientificos sao destinados a Cientistas dessa area especifica. Nao sao destinados ao publico em geral.
+
+---
+O resultado esta' 'a vista. Conceitos de sensibilidade estatistica e especificidade estatistica sao extremamente complicados de perceber, medir e dominar.
+https://pestrela.github.io/covid/#jarg%C3%A3o-estat%C3%ADstico-sensibilidade-e-especificidade
+
+Isto sim 'e informacao correcta sobre este assunto:
+“Os testes de PCR têm uma especificidade e sensibilidade superiores a 95%. Isto é, na esmagadora maioria dos casos detectam o vírus que provoca a covid-19”.
+
+<https://www.publico.pt/2020/11/17/sociedade/noticia/juizas-fazem-leitura-errada-artigos-cientificos-poe-causa-fiabilidade-testes-covid19-1939616>
+<https://www.publico.pt/2020/11/17/ciencia/opiniao/testes-diagnostico-covid19-capricho-irresponsabilidade-tribunal-relacao-1939606>
+
+
+extra:
+* post: <https://www.facebook.com/scimed.evidencia/posts/1010122222802944>
+* numeros oficiais: <https://www.worldometers.info/coronavirus/country/portugal/>
+* Acordao: <http://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/79d6ba338dcbe5e28025861f003e7b30>
+
+## Acordao da Relacao - detalhes
+
+
+Existem muitos conceitos legais que ja' sao dificeis de entender para Engenheiros, e ainda pior para Cientistas.
+- "sem margem de dúvida razoável"
+- "interpretacao da lei"
+- "suspeita razoavel"
+
+Que, sem surpresa, 'e um dos termos usados na decisao:
+"Face à actual evidência científica, esse teste mostra-se, só por si, incapaz de determinar, sem margem de dúvida razoável, que (...)"
+<http://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/79d6ba338dcbe5e28025861f003e7b30>
+
+decisao essa em que os juizes reconhecem que nao sao especialistas:
+"e neste campo, o julgador terá de se socorrer do saber dos peritos na matéria"
+
+Mas depois usam este excerto de uma CARTA ao editor (publicado sem revisao pelos pares):
+"Isto significa que se uma pessoa tem um teste PCR positivo a um limiar de ciclos de 35 ou superior (como acontece na maioria dos laboratórios do EUA e da Europa), as probabilidades de uma pessoa estar infectada é menor do que 3%. A probabilidade de a pessoa receber um falso positivo é de 97% ou superior”."
+
+Este excerto foi posterioremente APAGADO do original. So' este facto ja' invalida a argumentacao:
+<https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1491/5912603>
+
+O resultado 'e termos esta perola num acordao, assumidamente em traducao livre:
+" "A probabilidade de a pessoa receber um falso positivo é de 97% ou superior" "
+
+Aguardo com expectativa a jurisprudencia que sair deste acordao.
+
+
+## Artigo noticias magazine
+
+do artigo:
+
+Acreditam em factos alternativos mirabolantes e em cabalas mundiais. E descobrem essas “verdades” em fóruns online, grupos de Facebook ou canais de YouTube que não são controlados por aqueles que os querem enganar. Quem são estes negacionistas e conspiracionistas? E como falar com eles?
+
+“É importante lembrar que a negação da ciência não tem que ver com a argumentação racional. Se fosse, fornecer evidências seria suficiente para mudar a opinião dos negacionistas e conspiracionistas”
+
+“O negacionista conhece os ‘factos’, mas simplesmente recusa-se a acreditar neles. Porquê? Porque interferem com outras coisas em que deseja acreditar, entram em conflito com a sua identidade, ou porque não confia nas pessoas que lhes fornecem esses factos.”
+Como falar com um negacionista?
+
+“Saber ou não saber os factos científicos é o menos relevante, o mais importante é explicar às pessoas como é que a ciência funciona, como avança, o que é o consenso científico”
+
+<https://www.noticiasmagazine.pt/2020/o-extraordinario-mundo-dos-negacionistas/historias/253566/>
+
+
 
 # Fiabilidade de Testes
 
 ## O que 'e o Evidentia Medica 
 
-<https://evidentiamedica.com/#covid>
+<https://evidentiamedica.com/covid19-evidentia/>
 
 Este site tem informacao de qualidade sobe o covid. Foi criado pelas duas associacoes de medicos de familia:
 * APMGF - Associação Portuguesa de Medicina Geral e Familiar 
@@ -296,7 +369,11 @@ Acredito que em vez disso deviam ser largos milhares de desempregados, tipo call
 
 <https://www.publico.pt/2020/06/28/opiniao/editorial/abram-portas-reuniao-infarmed-1922188>
 
-“As avaliações contraditórias sobre o que lá foi dito, os rumores desencontrados sobre irritações, zangas ou puxões de orelhas e a suspeita de que o espírito de compromisso entre políticos e cientistas acabou exigem uma de duas respostas: ou as reuniões do Infarmed deixam de se fazer por se tornarem um perturbante factor de ruído; ou abrem-se as suas portas para que todos os cidadãos possam saber com transparência o que lá se disse e passou.”
+“As avaliações contraditórias sobre o que lá foi dito, os rumores desencontrados sobre irritações, 
+zangas ou puxões de orelhas e a suspeita de que o espírito de compromisso entre políticos e cientistas
+ acabou exigem uma de duas respostas: ou as reuniões do Infarmed deixam de se fazer por se tornarem 
+ um perturbante factor de ruído; ou abrem-se as suas portas para que todos os cidadãos possam saber
+ com transparência o que lá se disse e passou.”
 
 
 UPDATE1: as apresentacoes da décima, e ultima, reunião do infarmed sao agora publicas.
@@ -340,6 +417,25 @@ outra fonte 'e a pagina 7 desta apresentação do infarmed. Aqui a coabitação 
 tambem notar que N=1776, enquanto que na pagina 6 N=4358. Portanto ha 2500 pessoas que nao foram validadas.
 
 <https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Ines_Fronteira.pdf>
+
+
+## 
+## 12 reuniao do infarmed
+
+<https://www.sns.gov.pt/noticias/2020/11/19/covid-19-evolucao-em-portugal/>
+
+Apresentacoes:
+* Situação epidemiológica atual
+* Situação epidemiológica na Administração Regional de Saúde do Norte
+* Projeções de curto prazo para a epidemia
+* Contextos de infeção
+* Perceções sociais sobre a Covid-19
+* Utilização de cuidados intensivos
+* Vacina contra a Covid-19
+
+
+
+
 
 
 ## Comentario paulo portas, 21 junho
@@ -710,37 +806,12 @@ do artigo o acesso ao sistema especifico de covid chamado "tracecovid".
 
 Em vez disto, so' tiveram acesso ao "sinave". Este 'e o sistema geral para todas as doencas. 
 Sem surpresa constataram que a qualidade dos dados 'e baixissima (dados copiados 'a mao, burocracia, lentidao, etc).
-Tambem connlcuiram que os artigos cientificos baseados nestes dados podem estar errados (garbage in = garbage out)
+Tambem concluiram que os artigos cientificos baseados nestes dados podem estar errados (garbage in = garbage out)
  
 
 Os autores sugerem todo o tipo de melhorias ao sinave, em vez de simplesmente pedirem o acesso 'a melhor fonte possivel - o tracecovid.
 
 
-
-## Acordao da Relacao fala em 97% falsos positivos
-
-"Ora, da leitura do artigo, concluem as juízas que “a probabilidade de a pessoa receber um falso positivo é de 97% ou superior”."
-
-O assunto do momento 'e o acordao da Relacao sobre a DRS dos Acores. 
-
-Eu fui ler o dito acordao e os 2x artigos cientificos citados. 
-Posso afirmar SEM QUALQUER DUVIDA esta conclusao esta' completamente errada, e' completamente irresponsavel, e demonstra ignorancia atroz de assuntos cientificos.
-
-Artigos Cientificos sao destinados a Cientistas dessa area especifica. Nao sao destinados ao publico em geral.
-
----
-O resultado esta' 'a vista. Conceitos de sensibilidade estatistica e especificidade estatistica sao extremamente complicados de perceber, medir e dominar.
-Isto sim 'e informacao correcta sobre este assunto:
-“Os testes de PCR têm uma especificidade e sensibilidade superiores a 95%. Isto é, na esmagadora maioria dos casos detectam o vírus que provoca a covid-19”.
-
-https://www.publico.pt/2020/11/17/sociedade/noticia/juizas-fazem-leitura-errada-artigos-cientificos-poe-causa-fiabilidade-testes-covid19-1939616
-https://www.publico.pt/2020/11/17/ciencia/opiniao/testes-diagnostico-covid19-capricho-irresponsabilidade-tribunal-relacao-1939606
-
-
-extra:
-* post: https://www.facebook.com/scimed.evidencia/posts/1010122222802944
-* numeros oficiais: https://www.worldometers.info/coronavirus/country/portugal/
-* Acordao: http://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/79d6ba338dcbe5e28025861f003e7b30
 
  
 ## Aprovacao da vacina pela FDA
@@ -1350,23 +1421,22 @@ Caveats (4:20):
 * 24 de Junho, praia Bournemouth
 * 26 de Junho, Liverpool
 * 5 de Julho, reabertura de bares em Londres (beber na rua)
+    
+# Relogios
+
+## Documentario
+
+Um video muito interessante sobre Relogios, que vai passar na TV publica americana em dezembro:
+https://player.vimeo.com/video/475592949
+
+Eu ja' trabalhei com todos os intervenientes do video... excepto o apresentador do Matrix :)
+
+Este documentario explica os ultimos avancos da Ciencia, Tecnologia e Medicina.
+
+Os topicos cobertos sao muito extensos. a parte dos relogios esta' em "Technology > Synchronization Solutions"
+https://behindthesceneslf.com/ptv-segments
+
   
-# Negacionistas
-
-## Artigo noticias magazine
-
-do artigo:
-
-Acreditam em factos alternativos mirabolantes e em cabalas mundiais. E descobrem essas “verdades” em fóruns online, grupos de Facebook ou canais de YouTube que não são controlados por aqueles que os querem enganar. Quem são estes negacionistas e conspiracionistas? E como falar com eles?
-
-“É importante lembrar que a negação da ciência não tem que ver com a argumentação racional. Se fosse, fornecer evidências seria suficiente para mudar a opinião dos negacionistas e conspiracionistas”
-
-“O negacionista conhece os ‘factos’, mas simplesmente recusa-se a acreditar neles. Porquê? Porque interferem com outras coisas em que deseja acreditar, entram em conflito com a sua identidade, ou porque não confia nas pessoas que lhes fornecem esses factos.”
-Como falar com um negacionista?
-
-“Saber ou não saber os factos científicos é o menos relevante, o mais importante é explicar às pessoas como é que a ciência funciona, como avança, o que é o consenso científico”
-
-<https://www.noticiasmagazine.pt/2020/o-extraordinario-mundo-dos-negacionistas/historias/253566/>
   
 # English
   
