@@ -4,7 +4,10 @@
 * [TOC](#toc)
 * [Negacionistas](#negacionistas)
   * [Reportagem e Debate TVI](#Reportagem-e-Debate-TVI)
-  
+  * [Acordao da Relacao 97% falsos positivos](Acordao-da-Relacao-fala-em-97%-falsos-positivos)
+  * [Acordao da Relacao - detalhes](#Acordao-da-Relacao-detalhes)
+
+
 * [Fiabilidade de Testes](#fiabilidade-de-testes)
   * [O que 'e o Evidentia Medica](#o-que-e-o-evidentia-medica)
   * [Jargão estatístico: sensibilidade e especificidade](#jargão-estatístico-sensibilidade-e-especificidade)
@@ -88,6 +91,7 @@ Expresso entrevista:
 
 
 ## Acordao da Relacao fala em 97% falsos positivos
+
 
 "Ora, da leitura do artigo, concluem as juízas que “a probabilidade de a pessoa receber um falso positivo é de 97% ou superior”."
 
