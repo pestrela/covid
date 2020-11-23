@@ -7,8 +7,8 @@
   * [Acordao da Relacao 97% falsos positivos](#acordao-da-relacao-fala-em-97-falsos-positivos)
   * [Acordao da Relacao - detalhes](#acordao-da-relacao---detalhes)
 
-#acordao-da-relacao-fala-em-97-falsos-positivos
-
+* [Reunioes Infarmed]  
+  
 * [Fiabilidade de Testes](#fiabilidade-de-testes)
   * [O que 'e o Evidentia Medica](#o-que-e-o-evidentia-medica)
   * [Jargão estatístico: sensibilidade e especificidade](#jargão-estatístico-sensibilidade-e-especificidade)
@@ -26,8 +26,8 @@
   * [Infarmed 7 setembro 2020](#infarmed-7-setembro-2020)
   * [Sobre os testes rapidos](#sobre-os-testes-rapidos)
   * [Aprovacao da vacina pela FDA](#Aprovacao-da-vacina-pela-FDA)
-  * [Acordao da Relacao fala em 97% falsos positivos](#Acordao-da-Relacao-fala-em-97%-falsos-positivos)
 
+  
 * [APP covid](#app-covid)
   * [App e privacidade](#app-e-privacidade)
   * [Segunda resolucao do CNPD](#segunda-resolucao-do-cnpd)
@@ -60,7 +60,7 @@
 
   
 # Negacionistas
-## Reportagem e Debate TVI
+## Reportagem e Debate TVI sobre negacionistas
 
 Excelente reportagem e debate da TVI sobre os "medicos pela verdade". 
 
@@ -75,6 +75,32 @@ Reportagem:
 O debate comeca aos 1h18m deste video:
 <https://tviplayer.iol.pt/video/5fadcf1b0cf2c785555011b9>
 
+![ ](img/medicos_pela_verdade_-_ma_fe.png)
+
+## Reportagem com Rastreadores
+
+"Ninguem está a tossir. Se daqui a um mês eu tiver covid, por amor de deus nao me liguem para a linha saude24, porque vos põem em isolamento DESNECESSARIAMENTE e adicionam lixo ao sistema"
+
+Excelente reportagem com os rastreadores da covid sobre o lixo da SNS24.
+Fica a ideia que o governo está a poupar tostões aqui, para perder milhões na perda da economia.
+
+Sumario:
+00:50 Festas privadas com centenas de pessoas só podem ser interrompidas pela GNR com mandato judicial
+01:35 Naquela unidade sao 40 rastreadores, deviam ser 100.
+02:20 Ha' casos que os infectados tiveram >80 contactos nos últimos 14 dias (!). Todos têm que ser contactados um a um. Cada telefonema demora 20 minutos.
+03:15 As pessoas mentem os rastreadores
+04:06 O traceCovid tem imenso "lixo" lá colocado pela linha saude24. Lixo = contactos de baixo risco e que atrasam os realmente importantes.
+04:30 Os contactos devem simplesmente ficar à espera. Mas como ficam assustados, ligam SEM RAZÃO para a saude24 e recebem instrução de isolamento (sem necessidade!)
+04:53 Muitas pessoas ficam em isolamento sem necessidade, porque nao foram contactos de risco. Exemplo: alguém que contactou um doente
+05:10 Ninguém está a tossir. Se daqui a um mês eu tiver covid, por amor de deus nao me liguem para a linha saude24, porque vos poeem em isolamento DESNECESARIAMENTE e adicionam lixo ao sistema"
+05:50 Sistema de informática "em baixo"
+06:26 delegados de saúde têm todo o tipo de pedidos sem qualquer interesse (pombas a sujar, cães a ladrar)
+07:33 Restaurantes escolas, lares, lojas, restaurantes, ginásios, feiras, vigilância 'a população, juntas médicas e assuntos nao-covid
+07:57 Pessoas à beira do limite - contadas na primeira pessoa
+
+<https://sicnoticias.pt/especiais/coronavirus/2020-11-21-Covid-19.-Delegados-de-saude-alertam-que-ha-pessoas-em-isolamento-sem-necessidade>
+
+![ ](img/reportagem_sic_rastreadores.png)
 
 ## Entrevistas ao chefe dos UCI do Porto
 
@@ -92,7 +118,6 @@ Expresso entrevista:
 
 
 ## Acordao da Relacao fala em 97% falsos positivos
-
 
 "Ora, da leitura do artigo, concluem as juízas que “a probabilidade de a pessoa receber um falso positivo é de 97% ou superior”."
 
@@ -121,7 +146,6 @@ extra:
 
 ## Acordao da Relacao - detalhes
 
-
 Existem muitos conceitos legais que ja' sao dificeis de entender para Engenheiros, e ainda pior para Cientistas.
 - "sem margem de dúvida razoável"
 - "interpretacao da lei"
@@ -146,7 +170,7 @@ O resultado 'e termos esta perola num acordao, assumidamente em traducao livre:
 Aguardo com expectativa a jurisprudencia que sair deste acordao.
 
 
-## Artigo noticias magazine
+## Artigo sobre negacionistas no noticias magazine
 
 do artigo:
 
@@ -160,6 +184,130 @@ Como falar com um negacionista?
 “Saber ou não saber os factos científicos é o menos relevante, o mais importante é explicar às pessoas como é que a ciência funciona, como avança, o que é o consenso científico”
 
 <https://www.noticiasmagazine.pt/2020/o-extraordinario-mundo-dos-negacionistas/historias/253566/>
+
+
+## Analise de um video de negacionistas
+
+Este 'e um exemplo tipico de negacionistas:
+<https://www.facebook.com/joao.coelho.5201/posts/10219735143302856>
+
+A primeira coisa a fazer deve ser sempre procurar se este video ja' apareceu num "poligrafo" / "fact checking", o que 'e o caso:
+<https://www.google.com/search?q=dolores+cahill+fact+checking>
+
+Se isto nao chegasse, entao as principais alegacoes sao:
+a) "eles" (os governos?) lancam virus todas os invernos e que "escolheram um errado" (um forte demais?).
+b) Os numeros ate' fevereiro teem uma letalidade marginal
+
+Procurando nao se encontra nenhuma prova destas alegacoes
+<https://people.ucd.ie/dolores.cahill>
+<https://www.irishtimes.com/news/ireland/irish-news/ucd-professor-asked-to-resign-from-eu-committee-over-covid-19-claims-1.4277698>
+<https://www.thejournal.ie/dolores-cahill-coronavirus-video-facebook-twitter-5148488-Aug2020/>
+
+Segundo, nada disto bate certo com a realidade dos hospitais cheiois, 
+nem com a alegacao que "usaram o virus errado".
+
+
+![ ](img/dolores_cahill_1.png)
+![ ](img/dolores_cahill_2.png)
+
+
+# Reunioes do infarmed
+ 
+## Reunioes "secretas" do infarmed
+
+<https://www.publico.pt/2020/06/28/opiniao/editorial/abram-portas-reuniao-infarmed-1922188>
+
+“As avaliações contraditórias sobre o que lá foi dito, os rumores desencontrados sobre irritações, 
+zangas ou puxões de orelhas e a suspeita de que o espírito de compromisso entre políticos e cientistas
+ acabou exigem uma de duas respostas: ou as reuniões do Infarmed deixam de se fazer por se tornarem 
+ um perturbante factor de ruído; ou abrem-se as suas portas para que todos os cidadãos possam saber
+ com transparência o que lá se disse e passou.”
+
+
+UPDATE: as informacoes / apresentacoes teem que ser enviadas ao parlamento a cada 15 dias.
+Votos contra do PS.
+
+requerimento: [link](https://www.esquerda.net/sites/default/files/requerimento_entrega_de_dados_covid19_comissao_de_saaode.pdf)
+aprovacao com votos contra do PS: [link](https://www.esquerda.net/artigo/covid-19-governo-tera-de-entregar-informacao-quinzenalmente-ao-parlamento/69153)
+
+
+
+## 11 reuniao do infarmed - sumario
+
+https://www.youtube.com/watch?v=WnhTjcoOgSo&t=8892s
+ 
+UPDATE1: as apresentacoes da décima, e ultima, reunião do infarmed sao agora publicas.
+
+Pdfs: <https://www.sns.gov.pt/noticias/2020/07/08/covid-19-10-a-reuniao-tecnica/>
+Video: <https://www.youtube.com/watch?v=WnhTjcoOgSo>
+
+* [Geografia: internacional e nacional -- Percepção social](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed-0807-Carla-Nunes-ef.pdf)
+* [Inquérito Serológico Nacional à Infeção pelo novo Coronavírus](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Ana_Paula_Rodrigues.pdf)
+* [Monitorização da situação epidemiológica em Portugal e noutros países da UE](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Baltazar_Nunes.pdf)
+* [Situação Epidemiológica da Covid-19 nacional e da ARS LVT](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Ines_Fronteira.pdf)
+* [Gabinete de Intervenção -- Principais Ações](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Rui_Portugal.pdf)
+  * (analisada em detalhe na rubrica do paulo portas 12 julho)
+* [Tempos de estadia hospitalar dos doentes Covid e projeções para ocupação hospitalar Covid](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_MCG.pdf)
+
+A apresentação do prof Henrique Barros, [por vídeo conferencia](https://www.publico.pt/2020/07/09/sociedade/noticia/covid19-proximidade-linhas-ferreas-nao-associado-aumento-risco-infeccao-1923684),
+ nao esta' ainda disponível.
+
+## 11 reuniao do infarmed - detalhes
+
+Data: 7 setembro 2020
+
+Voltaram as reuniões do "infarmed" - a [décima primeira](https://www.sns.gov.pt/noticias/2020/09/07/covid-19-11-a-reuniao-tecnica/).
+
+A maioria das apresentações foram meramente expositivas. Embora comum, este NAO 'e o melhor contributo esperado dos Cientistas.
+
+Como explica Ricardo Baptista Leite [na CMTV](https://www.facebook.com/ricardo.baptistaleite/videos/10157564929235509/), 
+os Cientistas devem fazer recomendações concretas e accionaveis, 
+suportados por uma elaboração expositiva necessária para clarificar o porque^ da dita recomendação.
+
+
+----
+A melhor apresentação foi do Prof de Epidemiologia [Manuel do Carmo Gomes](https://webpages.ciencias.ulisboa.pt/~mcgomes/perfil/Cvenglish.pdf), FCUL, 
+que começa aos 2h08m. 
+
+Nesta são mostradas simulações que explicam que só por si a abertura das escolas sem restriccoes 'e suficiente para levar a uma segunda vaga.
+
+Aos 2h28m são apresentadas as recomendações praticas para evitar isso, mas mantendo as escolas abertas.  
+<https://youtu.be/WnhTjcoOgSo?t=8891>
+
+A ultima apresentação do Prof. [Henrique Barros](https://ispup.up.pt/people/5432/about/?lang=pt) foi também excelente, no mesmo assunto, 
+cobrindo as o que aconteceu nos outros países que já abriram as as escolas 'a uma mes. 
+Igualmente esta apresentacao foi das poucas com medidas claras
+<https://youtu.be/WnhTjcoOgSo?t=9455>
+
+[Sumario na imprensa 1](https://ionline.sapo.pt/artigo/708105/coinfecoes-e-hotspots-resumo-de-uma-reuniao-que-aqueceu-na-segunda-parte-?)  
+[Sumario na imprensa 2](https://www.noticiasaominuto.com/pais/1579101/tudo-sobre-reuniao-do-infarmed-ainda-vamos-a-tempo-de-evitar-2-vaga)  
+
+
+![ ](img/infarmed11_manuel_carmo_gomes_-_recomendacoes_escolas.png)
+![ ](img/infarmed11_rbl1.jpg)
+![ ](img/infarmed11_rbl2.jpg)
+![ ](img/infarmed11_rbl3.jpg)
+
+![ ](img/infarmed11_ecdc.png)
+   
+
+![ ](img/infarmed11_rt_4_quadrante.png)
+![ ](img/infarmed11_tempo_notificacao.png)
+![ ](img/infarmed11_escolas_accoes.png)
+
+![ ](img/infarmed11_app_privacidade.png)
+![ ](img/infarmed11_evolucao_icu.png)
+
+![ ](img/infarmed11_near_misses.png)  
+
+
+
+## Comentario JMJ sobre reunioes
+comentario de Jose Miguel Judice sobre as reunioes do infarmed aos 18m40s:
+
+"podiam mandar os powerpoints em vez de dar aulas"
+
+https://sicnoticias.pt/opiniao/analise/2020-09-08-O-estado-do-PCP-e-as-eleicoes-presidenciais.-As-Causas-de-Jose-Miguel-Judice
 
 
 
@@ -370,39 +518,6 @@ Acredito que em vez disso deviam ser largos milhares de desempregados, tipo call
 
 <https://expresso.pt/sociedade/2020-07-04-Covid-19.-Loures-e-Odivelas-mais-casos-mas-menos-meios>
 
-## Reunioes "secretas" do infarmed
-
-<https://www.publico.pt/2020/06/28/opiniao/editorial/abram-portas-reuniao-infarmed-1922188>
-
-“As avaliações contraditórias sobre o que lá foi dito, os rumores desencontrados sobre irritações, 
-zangas ou puxões de orelhas e a suspeita de que o espírito de compromisso entre políticos e cientistas
- acabou exigem uma de duas respostas: ou as reuniões do Infarmed deixam de se fazer por se tornarem 
- um perturbante factor de ruído; ou abrem-se as suas portas para que todos os cidadãos possam saber
- com transparência o que lá se disse e passou.”
-
-
-UPDATE1: as apresentacoes da décima, e ultima, reunião do infarmed sao agora publicas.
-
-<https://www.sns.gov.pt/noticias/2020/07/08/covid-19-10-a-reuniao-tecnica/>
-
-* [Geografia: internacional e nacional -- Percepção social](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed-0807-Carla-Nunes-ef.pdf)
-* [Inquérito Serológico Nacional à Infeção pelo novo Coronavírus](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Ana_Paula_Rodrigues.pdf)
-* [Monitorização da situação epidemiológica em Portugal e noutros países da UE](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Baltazar_Nunes.pdf)
-* [Situação Epidemiológica da Covid-19 nacional e da ARS LVT](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Ines_Fronteira.pdf)
-* [Gabinete de Intervenção -- Principais Ações](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Rui_Portugal.pdf)
-  * (analisada em detalhe na rubrica do paulo portas 12 julho)
-* [Tempos de estadia hospitalar dos doentes Covid e projeções para ocupação hospitalar Covid](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_MCG.pdf)
-
-A apresentação do prof Henrique Barros, [por vídeo conferencia](https://www.publico.pt/2020/07/09/sociedade/noticia/covid19-proximidade-linhas-ferreas-nao-associado-aumento-risco-infeccao-1923684),
- nao esta' ainda disponível.
-
-
-UPDATE2: as informacoes / apresentacoes teem que ser enviadas ao parlamento a cada 15 dias.
-Votos contra do PS.
-
-requerimento: [link](https://www.esquerda.net/sites/default/files/requerimento_entrega_de_dados_covid19_comissao_de_saaode.pdf)
-
-aprovacao com votos contra do PS: [link](https://www.esquerda.net/artigo/covid-19-governo-tera-de-entregar-informacao-quinzenalmente-ao-parlamento/69153)
 
 ## Infeccao em ferrovias
 
@@ -424,7 +539,27 @@ tambem notar que N=1776, enquanto que na pagina 6 N=4358. Portanto ha 2500 pesso
 <https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Ines_Fronteira.pdf>
 
 
-## 
+## 11 reuniao do infarmed
+
+https://www.youtube.com/watch?v=WnhTjcoOgSo&t=8892s
+ 
+UPDATE1: as apresentacoes da décima, e ultima, reunião do infarmed sao agora publicas.
+
+Pdfs: <https://www.sns.gov.pt/noticias/2020/07/08/covid-19-10-a-reuniao-tecnica/>
+Video: <https://www.youtube.com/watch?v=WnhTjcoOgSo>
+
+* [Geografia: internacional e nacional -- Percepção social](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed-0807-Carla-Nunes-ef.pdf)
+* [Inquérito Serológico Nacional à Infeção pelo novo Coronavírus](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Ana_Paula_Rodrigues.pdf)
+* [Monitorização da situação epidemiológica em Portugal e noutros países da UE](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Baltazar_Nunes.pdf)
+* [Situação Epidemiológica da Covid-19 nacional e da ARS LVT](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Ines_Fronteira.pdf)
+* [Gabinete de Intervenção -- Principais Ações](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Rui_Portugal.pdf)
+  * (analisada em detalhe na rubrica do paulo portas 12 julho)
+* [Tempos de estadia hospitalar dos doentes Covid e projeções para ocupação hospitalar Covid](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_MCG.pdf)
+
+A apresentação do prof Henrique Barros, [por vídeo conferencia](https://www.publico.pt/2020/07/09/sociedade/noticia/covid19-proximidade-linhas-ferreas-nao-associado-aumento-risco-infeccao-1923684),
+ nao esta' ainda disponível.
+
+
 ## 12 reuniao do infarmed
 
 <https://www.sns.gov.pt/noticias/2020/11/19/covid-19-evolucao-em-portugal/>
@@ -438,9 +573,10 @@ Apresentacoes:
 * Utilização de cuidados intensivos
 * Vacina contra a Covid-19
 
+os slides desta sessao nao foram disponibilizdos. 
+Da sessao anterior foram ([link](https://www.sns.gov.pt/noticias/2020/07/08/covid-19-10-a-reuniao-tecnica/))
 
-
-
+Segundo, 
 
 
 ## Comentario paulo portas, 21 junho
@@ -559,53 +695,6 @@ Citacao de Rui Portugal:
 Por outro lado o rombo no PIB 'e de proporcoes nunca antes vistas, mas continuamos a poupar nos rastreadores.  
 Se e só se houvesse recursos suficientes 'e que se deviam TAMBEM testar pessoas óbvias.
 https://pestrela.github.io/covid/#entrevista-a-um-rastreador-na-amadora
-
-
-## Infarmed 7 setembro 2020
-
-Voltaram as reuniões do "infarmed" - a [décima primeira](https://www.sns.gov.pt/noticias/2020/09/07/covid-19-11-a-reuniao-tecnica/).
-
-A maioria das apresentações foram meramente expositivas. Embora comum, este NAO 'e o melhor contributo esperado dos Cientistas.
-
-Como explica Ricardo Baptista Leite [na CMTV](https://www.facebook.com/ricardo.baptistaleite/videos/10157564929235509/), 
-os Cientistas devem fazer recomendações concretas e accionaveis, 
-suportados por uma elaboração expositiva necessária para clarificar o porque^ da dita recomendação.
-
-
-----
-A melhor apresentação foi do Prof de Epidemiologia [Manuel do Carmo Gomes](https://webpages.ciencias.ulisboa.pt/~mcgomes/perfil/Cvenglish.pdf), FCUL, 
-que começa aos 2h08m. 
-
-Nesta são mostradas simulações que explicam que só por si a abertura das escolas sem restriccoes 'e suficiente para levar a uma segunda vaga.
-
-Aos 2h28m são apresentadas as recomendações praticas para evitar isso, mas mantendo as escolas abertas.  
-<https://youtu.be/WnhTjcoOgSo?t=8891>
-
-A ultima apresentação do Prof. [Henrique Barros](https://ispup.up.pt/people/5432/about/?lang=pt) foi também excelente, no mesmo assunto, 
-cobrindo as o que aconteceu nos outros países que já abriram as as escolas 'a uma mes. 
-Igualmente esta apresentacao foi das poucas com medidas claras
-<https://youtu.be/WnhTjcoOgSo?t=9455>
-
-[Sumario na imprensa 1](https://ionline.sapo.pt/artigo/708105/coinfecoes-e-hotspots-resumo-de-uma-reuniao-que-aqueceu-na-segunda-parte-?)  
-[Sumario na imprensa 2](https://www.noticiasaominuto.com/pais/1579101/tudo-sobre-reuniao-do-infarmed-ainda-vamos-a-tempo-de-evitar-2-vaga)  
-
-
-![ ](img/infarmed11_manuel_carmo_gomes_-_recomendacoes_escolas.png)
-![ ](img/infarmed11_rbl1.jpg)
-![ ](img/infarmed11_rbl2.jpg)
-![ ](img/infarmed11_rbl3.jpg)
-
-![ ](img/infarmed11_ecdc.png)
-   
-
-![ ](img/infarmed11_rt_4_quadrante.png)
-![ ](img/infarmed11_tempo_notificacao.png)
-![ ](img/infarmed11_escolas_accoes.png)
-
-![ ](img/infarmed11_app_privacidade.png)
-![ ](img/infarmed11_evolucao_icu.png)
-
-![ ](img/infarmed11_near_misses.png)  
 
 
 
@@ -1297,6 +1386,26 @@ Mas nessa situacao 'e muito facil mudar o parametro dos 15 minutos para, por exe
 Qualquer sistema de engenharia funciona assim e tem que ser calibrado/analisado periodicamente. 
 
 
+## A APP 'e demasiado manual
+
+A APP respeita todas as garantias de privacidade.
+
+O cuidado foi tanto que isto foi levado a um limite ridículo: O tratamento dos códigos é completamente manual.
+Isto leva a que apenas 3% dos casos tenha gerado o código de alerta.
+
+Não está claro para mim de onde veio esta imposição: se do governo, se do INESC, se da CNPD, se dos médicos...
+
+Um sistema melhor era TODOS os passos serem automáticos DEPOIS da adesão inicial voluntária.
+
+Entrevista ao INESC:
+"teremos side extremamente escrupulosos no procedimento da geração de códigos"
+"esse procedimento foi revelado complicado, pouco flexível, e nao compativel com as situações de urgência / aflição que os médicos ligam com este caso"
+
+<https://www.youtube.com/watch?v=_hEV8bbTNBo>
+<https://zap.aeiou.pt/stayaway-obrigatoria-eficacia-reduzida-360904>
+
+
+
 
 # Impacto na Economia
 ## Inqueritos da AHRESP
@@ -1480,14 +1589,21 @@ https://www.youtube.com/watch?v=cR6PwImlznI
   * ["Local de habitação "é o principal meio de transmissão" do vírus"](https://www.jn.pt/nacional/local-de-coabitacao-e-o-principal-contexto-de-transmissao-do-virus-12118723.html )
   * Comentário: Mas a DGS acho que andamos todos a almoçar morcego?
   
-* Grunho do facebook  
-  * [pic](img/grunho_do_facebook.png)
-
-* Fernando Rocha  
-  * [pic](img/fernando_rocha_1.jpg)
   
-* Baby Yoda teches masks
- * [pic](img/yoda_teaches_masks.jpg)
+## Pictures
+  
+Grunho do facebook:
+![pic](img/grunho_do_facebook.png)
+
+Fernando Rocha:
+![pic](img/fernando_rocha_1.jpg)
+  
+Baby Yoda teches masks:
+![pic](img/yoda_teaches_masks.jpg)
+
+Mascaras:
+![ ](img/covid_mascara_camelo.jpg)
+
 
   
 ## Impacto da sorte no sucesso das pessoas
