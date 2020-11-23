@@ -1,63 +1,88 @@
 
 # TOC
 
-* [TOC](#toc)
-* [Negacionistas](#negacionistas)
-  * [Reportagem e Debate TVI](#Reportagem-e-Debate-TVI)
-  * [Acordao da Relacao 97% falsos positivos](#acordao-da-relacao-fala-em-97-falsos-positivos)
-  * [Acordao da Relacao - detalhes](#acordao-da-relacao---detalhes)
-
-* [Reunioes Infarmed]  
-  
-* [Fiabilidade de Testes](#fiabilidade-de-testes)
-  * [O que 'e o Evidentia Medica](#o-que-e-o-evidentia-medica)
-  * [Jargão estatístico: sensibilidade e especificidade](#jargão-estatístico-sensibilidade-e-especificidade)
-  * [Exemplos de FPs e FNs](#exemplos-de-fps-e-fns)
-  * [Como posso calcular FPs, FNs e probabilidade pre-teste?](#como-posso-calcular-fps-fns-e-probabilidade-pre-teste)
-  * [Os testes sao fiaveis?](#os-testes-sao-fiaveis)
-  * [Qual 'e a utilidade de testes sistematicos em massa?](#qual-e-a-utilidade-de-testes-sistematicos-em-massa)
-  * [Entrevista a um Rastreador na Amadora](#entrevista-a-um-rastreador-na-amadora)
-  * [Velocidade de Rastreamento](#velocidade-de-rastreamento)
-  * [Reunioes "secretas" do infarmed](#reunioes-secretas-do-infarmed)
-  * [Infeccao em ferrovias](#infeccao-em-ferrovias)
-  * [Comentario paulo portas, 21 junho](#comentario-paulo-portas-21-junho)
-  * [Comentario paulo portas, 12 julho](#comentario-paulo-portas-12-julho)
-  * [Manchete do Expresso, 1 Agosto](#Manchete-do-expresso-1-Agosto)
-  * [Infarmed 7 setembro 2020](#infarmed-7-setembro-2020)
-  * [Sobre os testes rapidos](#sobre-os-testes-rapidos)
-  * [Aprovacao da vacina pela FDA](#Aprovacao-da-vacina-pela-FDA)
-
-  
-* [APP covid](#app-covid)
-  * [App e privacidade](#app-e-privacidade)
-  * [Segunda resolucao do CNPD](#segunda-resolucao-do-cnpd)
-  * [APP Sumario - 17 Julho](#app-sumario---17-julho)
-  * [Como funciona a APP covid](#como-funciona-a-app-covid)
-  * [Quais sao as duas tecnologias para as Apps covid? qual 'e a que portugal vai ter?](#quais-sao-as-duas-tecnologias-para-as-apps-covid-qual-e-a-que-portugal-vai-ter)
-  * [Porque 'e que o GAEN no Android necessita de localização?](#porque-e-que-o-gaen-no-android-necessita-de-localização)
-  * [o GAEN liga a localização no iPhone?](#o-gaen-liga-a-localização-no-iphone)
-  * [Como configurar os servicos de localizacao em Android e Iphone?](#Como-configurar-os-servicos-de-localizacao-em-Android-e-Iphone)
-  * [Quantas pessoas já' foram alertadas pela APP?](#quantas-pessoas-já-foram-alertadas-pela-app)
-  * [Sobre Tomas Pueyo](#sobre-tomas-pueyo)
-  
-* [Impacto na Economia](#impacto-na-economia)
-  * [Inqueritos da AHRESP](#inqueritos-da-ahresp)
-  
-* [Mascaras e EPIs](#mascaras-e-epis)
-  * [Distancia dos 2m](#quando-e-que-a-distancia-dos-2m-n%C3%A3o-e-apropriada)
-
-
-  * [Mascaras da MO / Adalberto](#mascaras-da-mo--adalberto)
-  * [Mascaras da MO / Adalberto - detalhes](#mascaras-da-mo--adalberto---detalhes)
-  * [Mascaras FFP2 / N95](#porque-e-que-as-mascaras-n95ffp2-filtram-particulas-mais-pequenas-que-os-seus-fios)  
-  
-* [Espacos ao ar livre](#espacos-ao-ar-livre)
-  * [Aglomerações ao ar livre - datas](#aglomerações-ao-ar-livre---datas)
-  
-* [Vários](#vários)
-  * [Humor](#humor)
-  * [Links recomendados](#links-recomendados)
-
+   * [TOC](#toc)
+   * [Negacionistas](#negacionistas)
+      * [Reportagem e Debate TVI sobre negacionistas](#reportagem-e-debate-tvi-sobre-negacionistas)
+      * [Reportagem com Rastreadores](#reportagem-com-rastreadores)
+      * [Entrevistas ao chefe dos UCI do Porto](#entrevistas-ao-chefe-dos-uci-do-porto)
+      * [Acordao da Relacao fala em 97\x falsos positivos](#acordao-da-relacao-fala-em-97-falsos-positivos)
+      * [Acordao da Relacao - detalhes](#acordao-da-relacao---detalhes)
+      * [Artigo sobre negacionistas no noticias magazine](#artigo-sobre-negacionistas-no-noticias-magazine)
+      * [Analise de um video de negacionistas](#analise-de-um-video-de-negacionistas)
+   * [Reunioes do infarmed](#reunioes-do-infarmed)
+      * [Reunioes "secretas" do infarmed](#reunioes-secretas-do-infarmed)
+      * [11 reuniao do infarmed - sumario](#11-reuniao-do-infarmed---sumario)
+      * [11 reuniao do infarmed - detalhes](#11-reuniao-do-infarmed---detalhes)
+      * [12 reuniao do infarmed](#12-reuniao-do-infarmed)
+      * [Comentario JMJ sobre reunioes](#comentario-jmj-sobre-reunioes)
+   * [Fiabilidade de Testes](#fiabilidade-de-testes)
+      * [O que 'e o Evidentia Medica](#o-que-e-o-evidentia-medica)
+      * [Jargão estatístico: sensibilidade e especificidade](#jargão-estatístico-sensibilidade-e-especificidade)
+      * [Exemplos de FPs e FNs](#exemplos-de-fps-e-fns)
+      * [Como posso calcular FPs, FNs e probabilidade pre-teste?](#como-posso-calcular-fps-fns-e-probabilidade-pre-teste)
+      * [Os testes sao fiaveis?](#os-testes-sao-fiaveis)
+      * [Qual 'e a utilidade de testes sistematicos em massa?](#qual-e-a-utilidade-de-testes-sistematicos-em-massa)
+      * [Entrevista a um Rastreador na Amadora](#entrevista-a-um-rastreador-na-amadora)
+      * [Velocidade de Rastreamento](#velocidade-de-rastreamento)
+      * [Infeccao em ferrovias](#infeccao-em-ferrovias)
+      * [Comentario paulo portas, 21 junho](#comentario-paulo-portas-21-junho)
+      * [Comentario paulo portas, 12 julho](#comentario-paulo-portas-12-julho)
+      * [Manchete do expresso, 1 Agosto](#manchete-do-expresso-1-agosto)
+      * [Sobre os testes rapidos](#sobre-os-testes-rapidos)
+      * [Artigo Tomas Peuyo no NYT](#artigo-tomas-peuyo-no-nyt)
+      * [Podemos apenas proteger os idosos?](#podemos-apenas-proteger-os-idosos)
+      * [Covid vs Gripe](#covid-vs-gripe)
+      * [Animacao do grafico do ECDC](#animacao-do-grafico-do-ecdc)
+      * [Reunioes Familiares sem mascara](#reunioes-familiares-sem-mascara)
+      * [2020-11-09 - 3 videos curtos de Tomas Pueyo](#2020-11-09---3-videos-curtos-de-tomas-pueyo)
+      * [2020-11-09 - novo artigo de Tomas Pueyo](#2020-11-09---novo-artigo-de-tomas-pueyo)
+      * [artigo cientifico sobre dados da DGS](#artigo-cientifico-sobre-dados-da-dgs)
+      * [Aprovacao da vacina pela FDA](#aprovacao-da-vacina-pela-fda)
+   * [APP covid](#app-covid)
+      * [Privacidade actual, e perda de privacidade em democracias asiaticas](#privacidade-actual-e-perda-de-privacidade-em-democracias-asiaticas)
+      * [App e privacidade](#app-e-privacidade)
+      * [Segunda resolucao do CNPD](#segunda-resolucao-do-cnpd)
+      * [APP Sumario - 17 Julho](#app-sumario---17-julho)
+      * [Como funciona a APP covid](#como-funciona-a-app-covid)
+      * [Quais sao as duas tecnologias para as Apps covid? qual 'e a que portugal vai ter?](#quais-sao-as-duas-tecnologias-para-as-apps-covid-qual-e-a-que-portugal-vai-ter)
+      * [Porque 'e que o GAEN no Android necessita de localização?](#porque-e-que-o-gaen-no-android-necessita-de-localização)
+      * [o GAEN liga a localização no iPhone?](#o-gaen-liga-a-localização-no-iphone)
+      * [Os codigos da app nao sao gerados automaticos](#os-codigos-da-app-nao-sao-gerados-automaticos)
+      * [Como configurar os servicos de localizacao em Android e Iphone?](#como-configurar-os-servicos-de-localizacao-em-android-e-iphone)
+      * [Quantas pessoas já' foram alertadas pela APP?](#quantas-pessoas-já-foram-alertadas-pela-app)
+      * [APP covid em espanha](#app-covid-em-espanha)
+      * [Carta aberta de 200 cientistas a favor do medelo de APP descentralizado baseado em BT](#carta-aberta-de-200-cientistas-a-favor-do-medelo-de-app-descentralizado-baseado-em-bt)
+      * [Sobre Tomas Pueyo](#sobre-tomas-pueyo)
+      * [Entrevista a um programador da App](#entrevista-a-um-programador-da-app)
+      * [Sobre a APP, no pplware](#sobre-a-app-no-pplware)
+      * [APP vs APPs maradas](#app-vs-apps-maradas)
+      * [APP tem que estar a funcionar ANTES do teste](#app-tem-que-estar-a-funcionar-antes-do-teste)
+      * [Suporte da analise tecnica da App](#suporte-da-analise-tecnica-da-app)
+      * [Quanto custou a app](#quanto-custou-a-app)
+      * [Como funciona a app por dentro](#como-funciona-a-app-por-dentro)
+      * [O que fazer quando a app enviar um alerta / enviar alertas demais](#o-que-fazer-quando-a-app-enviar-um-alerta--enviar-alertas-demais)
+      * [A APP 'e demasiado manual](#a-app-e-demasiado-manual)
+   * [Impacto na Economia](#impacto-na-economia)
+      * [Inqueritos da AHRESP](#inqueritos-da-ahresp)
+   * [Mascaras e EPIs](#mascaras-e-epis)
+      * [Quando 'e que a distancia dos 2m não 'e apropriada?](#quando-e-que-a-distancia-dos-2m-não-e-apropriada)
+      * [Mascaras da MO / Adalberto](#mascaras-da-mo--adalberto)
+      * [Mascaras da MO / Adalberto - detalhes](#mascaras-da-mo--adalberto---detalhes)
+      * [Entrevista ao CITEVE](#entrevista-ao-citeve)
+      * [Porque 'e que as Mascaras N95/FFP2 filtram particulas mais pequenas que os seus fios](#porque-e-que-as-mascaras-n95ffp2-filtram-particulas-mais-pequenas-que-os-seus-fios)
+   * [Espacos ao ar livre](#espacos-ao-ar-livre)
+      * [Aglomerações ao ar livre - datas](#aglomerações-ao-ar-livre---datas)
+   * [Relogios](#relogios)
+      * [Documentario](#documentario)
+   * [English](#english)
+      * [Summary](#summary)
+   * [Vários](#vários)
+      * [Humor](#humor)
+      * [Pictures](#pictures)
+      * [Impacto da sorte no sucesso das pessoas](#impacto-da-sorte-no-sucesso-das-pessoas)
+      * [Voluntarios Covid](#voluntarios-covid)
+      * [Links recomendados](#links-recomendados)
   
 # Negacionistas
 ## Reportagem e Debate TVI sobre negacionistas
@@ -301,6 +326,22 @@ Igualmente esta apresentacao foi das poucas com medidas claras
 ![ ](img/infarmed11_near_misses.png)  
 
 
+## 12 reuniao do infarmed
+
+<https://www.sns.gov.pt/noticias/2020/11/19/covid-19-evolucao-em-portugal/>
+
+Apresentacoes:
+* Situação epidemiológica atual
+* Situação epidemiológica na Administração Regional de Saúde do Norte
+* Projeções de curto prazo para a epidemia
+* Contextos de infeção
+* Perceções sociais sobre a Covid-19
+* Utilização de cuidados intensivos
+* Vacina contra a Covid-19
+
+os slides desta sessao nao foram disponibilizdos. 
+(na sessao anterior foram ([link](https://www.sns.gov.pt/noticias/2020/07/08/covid-19-10-a-reuniao-tecnica/))
+
 
 ## Comentario JMJ sobre reunioes
 comentario de Jose Miguel Judice sobre as reunioes do infarmed aos 18m40s:
@@ -538,45 +579,10 @@ tambem notar que N=1776, enquanto que na pagina 6 N=4358. Portanto ha 2500 pesso
 
 <https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Ines_Fronteira.pdf>
 
-
-## 11 reuniao do infarmed
-
-https://www.youtube.com/watch?v=WnhTjcoOgSo&t=8892s
  
-UPDATE1: as apresentacoes da décima, e ultima, reunião do infarmed sao agora publicas.
-
-Pdfs: <https://www.sns.gov.pt/noticias/2020/07/08/covid-19-10-a-reuniao-tecnica/>
-Video: <https://www.youtube.com/watch?v=WnhTjcoOgSo>
-
-* [Geografia: internacional e nacional -- Percepção social](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed-0807-Carla-Nunes-ef.pdf)
-* [Inquérito Serológico Nacional à Infeção pelo novo Coronavírus](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Ana_Paula_Rodrigues.pdf)
-* [Monitorização da situação epidemiológica em Portugal e noutros países da UE](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Baltazar_Nunes.pdf)
-* [Situação Epidemiológica da Covid-19 nacional e da ARS LVT](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Ines_Fronteira.pdf)
-* [Gabinete de Intervenção -- Principais Ações](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_Rui_Portugal.pdf)
-  * (analisada em detalhe na rubrica do paulo portas 12 julho)
-* [Tempos de estadia hospitalar dos doentes Covid e projeções para ocupação hospitalar Covid](https://www.sns.gov.pt/wp-content/uploads/2020/07/infarmed_0807_MCG.pdf)
-
-A apresentação do prof Henrique Barros, [por vídeo conferencia](https://www.publico.pt/2020/07/09/sociedade/noticia/covid19-proximidade-linhas-ferreas-nao-associado-aumento-risco-infeccao-1923684),
- nao esta' ainda disponível.
 
 
-## 12 reuniao do infarmed
 
-<https://www.sns.gov.pt/noticias/2020/11/19/covid-19-evolucao-em-portugal/>
-
-Apresentacoes:
-* Situação epidemiológica atual
-* Situação epidemiológica na Administração Regional de Saúde do Norte
-* Projeções de curto prazo para a epidemia
-* Contextos de infeção
-* Perceções sociais sobre a Covid-19
-* Utilização de cuidados intensivos
-* Vacina contra a Covid-19
-
-os slides desta sessao nao foram disponibilizdos. 
-Da sessao anterior foram ([link](https://www.sns.gov.pt/noticias/2020/07/08/covid-19-10-a-reuniao-tecnica/))
-
-Segundo, 
 
 
 ## Comentario paulo portas, 21 junho
