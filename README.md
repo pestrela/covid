@@ -84,7 +84,47 @@
   * [Voluntarios Covid](#voluntarios-covid)
   * [Links recomendados](#links-recomendados)
   
+# Decisoes e medidas
+
+## Mapa concelhos
+
+Cada concelho teem medidas diferentes um nivel diferente de risco e de medidas
+
+Este site mostra que medidas esao em vigor para o seu concelho:
+<https://covid19estamoson.gov.pt/>
+
+Nivel de Risco:
+* [Moderado](https://covid19estamoson.gov.pt/medidas-covid19-ambito-nacional-v2/)
+* [Elevado](https://covid19estamoson.gov.pt/medidas-covid19-concelhos-risco-elevado/)
+* [Muito Elevado](https://covid19estamoson.gov.pt/medidas-covid19-concelhos-risco-muito-elevado/)
+* [Extremamente Elevado](https://covid19estamoson.gov.pt/medidas-covid19-concelhos-risco-muito-elevado/)
+
+
+Este 'e o mapa diario dos concelhos. A cor pode mudar porque as medidas sao decididas a cada 15 dias:
+* Mapa dos concelhos: <https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/>
+
+  
 # Negacionistas
+
+## Cherry picking
+
+<https://pt.wikipedia.org/wiki/Evid%C3%AAncia_suprimida>
+
+Evidência suprimida, supressão de evidências ou evidência incompleta (em inglês: cherry picking) 
+é uma falácia que consiste em citar casos ou dados individuais que parecem confirmar uma determinada 
+posição, ao mesmo tempo em que se ignora uma porção significativa de casos ou dados relacionados 
+que possam contradizer aquela posição. É um tipo de falácia de atenção seletiva, sendo seu 
+exemplo mais comum o viés de confirmação. Ela pode ser feita de forma intencional e 
+também de forma não intencional. É um grande problema em debates públicos.
+
+Numa frase: se escolhermos os numeros que nos convem, e ignoramos a maioria esmagadora dos outros (que mostram o contrario), 
+entao podemos "provar" tudo o que quisermos e o seu contrario.
+
+
+Quando vemos "cherry picking" propositado, isso 'e ma'-fe';
+Noutras pessoas pode ser apenas ignorancia cientifica e desleixo, quando partilham mensagem erradas sem as verificarem em fontes crediveis ("poligrafo", "fact checking", etc).
+
+
 ## Reportagem e Debate TVI sobre negacionistas
 
 Excelente reportagem e debate da TVI sobre os "medicos pela verdade". 
@@ -236,6 +276,18 @@ nem com a alegacao que "usaram o virus errado".
 ![ ](img/dolores_cahill_2.png)
 
 
+# Distribuicao da vacina
+## Reportagem CBS 60 mnutos
+
+Excelente reportagem da CBS sobre a logistica de distribuicao da vacina, liderada pelo especialista militar do aprovisionamento nos EUA:\  
+<https://www.cbsnews.com/search/?q=warp+speed>
+
+Comparacao com portugal, ver aos 25m:\  
+<https://www.rtp.pt/play/p6690/o-ultimo-apaga-a-luz>
+"uma task force de 12 entidades 'e um dia bem passado" -> "task force da task force" -> "comissao de inquerito" -> "alto comissario"
+ 
+
+
 # Reunioes do infarmed
  
 ## Reunioes "secretas" do infarmed
@@ -350,7 +402,47 @@ comentario de Jose Miguel Judice sobre as reunioes do infarmed aos 18m40s:
 
 https://sicnoticias.pt/opiniao/analise/2020-09-08-O-estado-do-PCP-e-as-eleicoes-presidenciais.-As-Causas-de-Jose-Miguel-Judice
 
+## Comentario sobre negacionistas
 
+Hilariante.
+<https://www.youtube.com/watch?v=NhmmQUXGQvA>
+
+
+
+
+## 13 reuniao do infarmed
+
+
+Sumario: <https://www.sns.gov.pt/noticias/2020/12/03/covid-19-situacao-epidemiologica-4/>
+Programa: [link](https://www.sns.gov.pt/wp-content/uploads/2020/12/reuniao_infarmed_03122020_1.pdf)
+
+3 de Dezembro de 2020
+
+* Parte 1 - Situagao Epidemiologica
+  * Situacao Epidemiologica Atual (André Peralta Santos - Dgs)
+  * Situacao Epidemiologica Na Ars Norte (Oscar Felgueiras| Fcup )
+  * Evolucao Da Incidencia E Transmissibilidade (Baltazar Nunes | Dr. Ricardo Jorge)
+  * Projecoes De Curto Prazo Para A Epidemia (Manuel Do Carmo Gomes| Fcul)
+* Parte 2: Vacinas
+  * Como Funciona O Sistema Imunitario E Atuam As Vacinas (Joao Goncalves| Fful)
+  * Como Sao Produzidas As Vacinas (Antonio Rold@O| Ibet)
+  * Vacinas Covid-19 Em Desenvolvimento, Processo De Avaliacao E Autorizacao (Fatima Ventura | Infarmed)
+  * Lidar Com A Incerteza Na Gestao Da Infegao E Da Imunidade (Henrique De Barros| Ispup)
+  * Percepcoes Sociais Sobre As Vacinas Contraacovid-19 (Carla Nunes| Enspup)
+
+
+## Plano de vacinacao PT
+
+* plano vacinaco (19 paginas): <https://www.sns.gov.pt/wp-content/uploads/2019/06/PlanoVacinacaoCovid_19.pdf>
+* apresentacao task force (32 slides): <https://www.sns.gov.pt/wp-content/uploads/2019/06/ApresPlanoVacCovid19_FrancoscoRamos.pdf>
+* apresentacao infarmed (12 slides): <https://www.sns.gov.pt/wp-content/uploads/2019/06/ApresPlanoVacCovid19_RuiSantosIvo.pdf>
+  * VACINAS PARA A COVID-19: Desenvolvimento, aprovação e acesso
+ 
+ 
+sumario: <https://www.sns.gov.pt/noticias/2020/12/03/covid-19-plano-de-vacinacao/>
+ 
+ 
+ 
 
 # Fiabilidade de Testes
 
@@ -916,9 +1008,9 @@ Os autores sugerem todo o tipo de melhorias ao sinave, em vez de simplesmente pe
  
 ## Aprovacao da vacina pela FDA
 
- blog post: https://blogs.sciencemag.org/pipeline/archives/2020/11/09/vaccine-efficacy-data
- protocolo Cientifico: https://pfe-pfizercom-d8-prod.s3.amazonaws.com/2020-11/C4591001_Clinical_Protocol_Nov2020.pdf
- FAQ: https://www.pfizer.com/science/coronavirus
+* blog post: https://blogs.sciencemag.org/pipeline/archives/2020/11/09/vaccine-efficacy-data
+* protocolo Cientifico: https://pfe-pfizercom-d8-prod.s3.amazonaws.com/2020-11/C4591001_Clinical_Protocol_Nov2020.pdf
+* FAQ: https://www.pfizer.com/science/coronavirus
 
 Fase 3 tem ~40000 pessoas.
 metade com vacina, metade com placebo.
