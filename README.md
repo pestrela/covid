@@ -103,8 +103,43 @@ Nivel de Risco:
 Este 'e o mapa diario dos concelhos. A cor pode mudar porque as medidas sao decididas a cada 15 dias:
 * Mapa dos concelhos: <https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/>
 
+# Comparacoes europa
+
+## sites do ECDC e REOPEN
+
+o ECDC compara as infeccoes dos varios paises:
+https://www.ecdc.europa.eu/sites/default/files/styles/is_full/public/images/w52_53_COVID_subnational_Last_2week.png
+
+Este site compara as limitacoes dos governos. 
+Por exemplo a restauracao em ES e NL:
+
+https://reopen.europa.eu/en/map/ESP/6002
+https://reopen.europa.eu/en/map/NLD/6001
+
+
+
   
 # Negacionistas
+
+
+
+## Entrevista Fernando Nobre e Gustavo Carona 
+
+Ver em baixo duas entrevistas fundamentais para perceber que sobre o covid so' contam as opinioes:
+- dos especialistas (virulogistas) 
+- e dos intensivistas (UCIs) que ficam com a batata quente no fim.
+
+----
+A primeira entrevista 'e a Fernando Nobre, medico cirurgiao e fundador da AMI, que diz uma quantidade incrivel de asneiras seguidas.
+como qualquer pessoa normal, tinha uma percepcao muito boa sobre esta pessoa; esta entrevista mostrou-me a realidade.
+https://www.youtube.com/watch?v=F8PfJMIuLnk
+
+A seguinda entrevista foi na semana imediatmente a seguir a Gustavo Carona, médico intensivista que trabalha na UCI de matosinhos. 
+Este sim esta' na linha da frente onde a batata quente vai parar, e ao longo dos 90m desmonta completamente todas as asneiras da grossa da entervista anterior.
+https://www.youtube.com/watch?v=G1Lq7Z6xT2A
+https://rr.sapo.pt/2020/11/11/pais/m/especial/214351/
+
+
 
 ## Cherry picking
 
@@ -1048,6 +1083,19 @@ update: dia 18 de nov 2020 ja' chegaram aos 164 pessoas
 
 
 # APP covid
+
+
+## Covid vs Facebook etc
+
+"Ah e tal, o problema e' a App covid ter o bluetooth sempre ligado."
+
+A tal app que foi desenhada explicitamente para respeitar a privacidade.
+
+Exactamente como as companhias mais valiosas do mundo foram desenhadas explicitamente para abusar da vossa privacidade.
+
+O Vampiro so' entra em casa convidado. No FB e quejandos, e' um muro de texto em legales, e um botao convidativo a dizer "I agree".
+
+
 
 ## Privacidade actual, e perda de privacidade em democracias asiaticas
 
