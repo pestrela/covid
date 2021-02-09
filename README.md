@@ -84,9 +84,11 @@
   * [Voluntarios Covid](#voluntarios-covid)
   * [Links recomendados](#links-recomendados)
   
-# Decisoes e medidas
+  
+  
+# Medidas Confinamento
 
-## Mapa concelhos
+## Confinamento PT
 
 Cada concelho teem medidas diferentes um nivel diferente de risco e de medidas
 
@@ -103,9 +105,8 @@ Nivel de Risco:
 Este 'e o mapa diario dos concelhos. A cor pode mudar porque as medidas sao decididas a cada 15 dias:
 * Mapa dos concelhos: <https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/>
 
-# Comparacoes europa
 
-## sites do ECDC e REOPEN
+## Confinamento Europa
 
 o ECDC compara as infeccoes dos varios paises:
 https://www.ecdc.europa.eu/sites/default/files/styles/is_full/public/images/w52_53_COVID_subnational_Last_2week.png
@@ -117,11 +118,35 @@ https://reopen.europa.eu/en/map/ESP/6002
 https://reopen.europa.eu/en/map/NLD/6001
 
 
+# Vacinacao
+
+## Plano de vacinacao PT
+
+* plano vacinaco (19 paginas): <https://www.sns.gov.pt/wp-content/uploads/2019/06/PlanoVacinacaoCovid_19.pdf>
+* apresentacao task force (32 slides): <https://www.sns.gov.pt/wp-content/uploads/2019/06/ApresPlanoVacCovid19_FrancoscoRamos.pdf>
+* apresentacao infarmed (12 slides): <https://www.sns.gov.pt/wp-content/uploads/2019/06/ApresPlanoVacCovid19_RuiSantosIvo.pdf>
+  * VACINAS PARA A COVID-19: Desenvolvimento, aprovação e acesso
+ 
+ 
+sumario: <https://www.sns.gov.pt/noticias/2020/12/03/covid-19-plano-de-vacinacao/>
+ 
+
+## Reportagem CBS 60 mnutos
+
+Excelente reportagem da CBS sobre a logistica de distribuicao da vacina, liderada pelo especialista militar do aprovisionamento nos EUA:\  
+<https://www.cbsnews.com/search/?q=warp+speed>
+
+Comparacao com portugal, ver aos 25m:\  
+<https://www.rtp.pt/play/p6690/o-ultimo-apaga-a-luz>
+"uma task force de 12 entidades 'e um dia bem passado" -> "task force da task force" -> "comissao de inquerito" -> "alto comissario"
+ 
+
+ 
+ 
+
 
   
 # Negacionistas
-
-
 
 ## Entrevista Fernando Nobre e Gustavo Carona 
 
@@ -139,6 +164,8 @@ Este sim esta' na linha da frente onde a batata quente vai parar, e ao longo dos
 https://www.youtube.com/watch?v=G1Lq7Z6xT2A
 https://rr.sapo.pt/2020/11/11/pais/m/especial/214351/
 
+update: conversa com bruno nogueira:
+https://www.facebook.com/watch/?ref=saved&v=841195703394686
 
 
 ## Cherry picking
@@ -311,38 +338,12 @@ nem com a alegacao que "usaram o virus errado".
 ![ ](img/dolores_cahill_2.png)
 
 
-# Distribuicao da vacina
-## Reportagem CBS 60 mnutos
 
-Excelente reportagem da CBS sobre a logistica de distribuicao da vacina, liderada pelo especialista militar do aprovisionamento nos EUA:\  
-<https://www.cbsnews.com/search/?q=warp+speed>
 
-Comparacao com portugal, ver aos 25m:\  
-<https://www.rtp.pt/play/p6690/o-ultimo-apaga-a-luz>
-"uma task force de 12 entidades 'e um dia bem passado" -> "task force da task force" -> "comissao de inquerito" -> "alto comissario"
- 
 
 
 # Reunioes do infarmed
  
-## Reunioes "secretas" do infarmed
-
-<https://www.publico.pt/2020/06/28/opiniao/editorial/abram-portas-reuniao-infarmed-1922188>
-
-“As avaliações contraditórias sobre o que lá foi dito, os rumores desencontrados sobre irritações, 
-zangas ou puxões de orelhas e a suspeita de que o espírito de compromisso entre políticos e cientistas
- acabou exigem uma de duas respostas: ou as reuniões do Infarmed deixam de se fazer por se tornarem 
- um perturbante factor de ruído; ou abrem-se as suas portas para que todos os cidadãos possam saber
- com transparência o que lá se disse e passou.”
-
-
-UPDATE: as informacoes / apresentacoes teem que ser enviadas ao parlamento a cada 15 dias.
-Votos contra do PS.
-
-requerimento: [link](https://www.esquerda.net/sites/default/files/requerimento_entrega_de_dados_covid19_comissao_de_saaode.pdf)
-aprovacao com votos contra do PS: [link](https://www.esquerda.net/artigo/covid-19-governo-tera-de-entregar-informacao-quinzenalmente-ao-parlamento/69153)
-
-
 
 ## 11 reuniao do infarmed - sumario
 
@@ -395,25 +396,10 @@ Igualmente esta apresentacao foi das poucas com medidas claras
 [Sumario na imprensa 2](https://www.noticiasaominuto.com/pais/1579101/tudo-sobre-reuniao-do-infarmed-ainda-vamos-a-tempo-de-evitar-2-vaga)  
 
 
-![ ](img/infarmed11_manuel_carmo_gomes_-_recomendacoes_escolas.png)
-![ ](img/infarmed11_rbl1.jpg)
-![ ](img/infarmed11_rbl2.jpg)
-![ ](img/infarmed11_rbl3.jpg)
-
-![ ](img/infarmed11_ecdc.png)
-   
-
-![ ](img/infarmed11_rt_4_quadrante.png)
-![ ](img/infarmed11_tempo_notificacao.png)
-![ ](img/infarmed11_escolas_accoes.png)
-
-![ ](img/infarmed11_app_privacidade.png)
-![ ](img/infarmed11_evolucao_icu.png)
-
-![ ](img/infarmed11_near_misses.png)  
-
 
 ## 12 reuniao do infarmed
+
+19 Novembro 2019
 
 <https://www.sns.gov.pt/noticias/2020/11/19/covid-19-evolucao-em-portugal/>
 
@@ -426,22 +412,8 @@ Apresentacoes:
 * Utilização de cuidados intensivos
 * Vacina contra a Covid-19
 
-os slides desta sessao nao foram disponibilizdos. 
+os slides desta sessão nao foram disponibilizados. 
 (na sessao anterior foram ([link](https://www.sns.gov.pt/noticias/2020/07/08/covid-19-10-a-reuniao-tecnica/))
-
-
-## Comentario JMJ sobre reunioes
-comentario de Jose Miguel Judice sobre as reunioes do infarmed aos 18m40s:
-
-"podiam mandar os powerpoints em vez de dar aulas"
-
-https://sicnoticias.pt/opiniao/analise/2020-09-08-O-estado-do-PCP-e-as-eleicoes-presidenciais.-As-Causas-de-Jose-Miguel-Judice
-
-## Comentario sobre negacionistas
-
-Hilariante.
-<https://www.youtube.com/watch?v=NhmmQUXGQvA>
-
 
 
 
@@ -460,22 +432,112 @@ Programa: [link](https://www.sns.gov.pt/wp-content/uploads/2020/12/reuniao_infar
   * Projecoes De Curto Prazo Para A Epidemia (Manuel Do Carmo Gomes| Fcul)
 * Parte 2: Vacinas
   * Como Funciona O Sistema Imunitario E Atuam As Vacinas (Joao Goncalves| Fful)
-  * Como Sao Produzidas As Vacinas (Antonio Rold@O| Ibet)
+  * Como Sao Produzidas As Vacinas (Antonio Roldao| Ibet)
   * Vacinas Covid-19 Em Desenvolvimento, Processo De Avaliacao E Autorizacao (Fatima Ventura | Infarmed)
   * Lidar Com A Incerteza Na Gestao Da Infegao E Da Imunidade (Henrique De Barros| Ispup)
   * Percepcoes Sociais Sobre As Vacinas Contraacovid-19 (Carla Nunes| Enspup)
 
+## 14 reuniao do infarmed
 
-## Plano de vacinacao PT
+12 janeiro de 2021
 
-* plano vacinaco (19 paginas): <https://www.sns.gov.pt/wp-content/uploads/2019/06/PlanoVacinacaoCovid_19.pdf>
-* apresentacao task force (32 slides): <https://www.sns.gov.pt/wp-content/uploads/2019/06/ApresPlanoVacCovid19_FrancoscoRamos.pdf>
-* apresentacao infarmed (12 slides): <https://www.sns.gov.pt/wp-content/uploads/2019/06/ApresPlanoVacCovid19_RuiSantosIvo.pdf>
-  * VACINAS PARA A COVID-19: Desenvolvimento, aprovação e acesso
- 
- 
-sumario: <https://www.sns.gov.pt/noticias/2020/12/03/covid-19-plano-de-vacinacao/>
- 
+sumario: <https://www.sns.gov.pt/noticias/2021/01/12/covid-19-situacao-epidemiologica-5/>
+programa: <https://www.sns.gov.pt/wp-content/uploads/2021/01/20210112_COVID-19_Programa.pdf>
+
+Slides/transmissao TV: <https://www.youtube.com/watch?v=C_j2wzGboz8>  (2h05m)
+
+comentario PS: <https://www.youtube.com/watch?v=DfmjgdeikGU>
+comentario PSD: <https://www.youtube.com/watch?v=S6Y1L9OgG2g>
+
+
+* Situação epidemiológica no país (André Peralta Santos - Dgs)
+* Situação epidemiológica na Administração Regional de Saúde do Norte Oscar Felgueiras| Fcup )
+* Situação epidemiológica na Administração Regional de Saúde de Lisboa e Vale do Tejo (Duarte Tavares | ARSLVT)
+* Evolução da incidência e transmissibilidade (Baltazar Nunes | Dr. Ricardo Jorge)
+* Vigilância de variantes genéticas do novo coronavírus em Portugal (Joao Paulo Gomes | Dr. Ricardo Jorge)
+* Projeções de curto prazo para a epidemia (Manuel Do Carmo Gomes| Fcul)
+* Covid-19 | Risco, prognóstico a longo prazo e expetativas (Henrique De Barros| Ispup)
+* Perceções sociais sobre a Covid-19 (Carla Nunes| Enspup)
+* Ponto de situação do plano de vacinação contra a Covid-19 (Francisco Ramos | Task Force)
+
+  
+  
+
+## 15 reuniao do infarmed
+
+12 janeiro de 2021
+
+sumario: <https://www.sns.gov.pt/noticias/2021/02/09/situacao-epidemiologica-da-covid-19/>
+programa: <https://www.sns.gov.pt/wp-content/uploads/2019/06/2021.02.09_-ReunInfarmedPrograma.pdf>
+
+Slides/transmissao TV: <https://www.youtube.com/watch?v=ZR1cM9qrLRM>  (2h06m)
+
+
+* Situação epidemiológica no país (André Peralta Santos | DGS)
+* Evolução da incidência e transmissibilidade (Baltazar Nunes | Dr. Ricardo Jorge)
+* Vigilância de variantes genéticas do novo coronavírus em Portugal (Joao Paulo Gomes | Dr. Ricardo Jorge)
+*
+* Evolução epidemiológica e critérios de atuação (Manuel Do Carmo Gomes| FCUL)
+* Efeito da vacinação nos internamentos e na mortalidade  (Henrique De Barros| ISPUP)
+* Perceções sociais sobre a Covid-19 (Carla Nunes| ENSPUP)
+* Ponto de situação do plano de vacinação contra a Covid-19 (Henrique Gouveia e Melo | Task Force)
+
+
+
+
+# Reunioes do infarmed - Formato
+
+O formato actual das reunioes do infarmed 'e extremamente ineficiente:
+* **2h** de apresentacoes demasiado detalhadas 
+  * Esta parte extende-se facilmente muito alem das 2h
+* **30m** de perguntas dos decisores politicos
+
+A minha proposta:
+* dia 1: a actual reuniao SEM os decisores politicos, super detalhada, com perguntas dos especialistas entre cada apresentacao 
+* dia 2: um especialista de [comunicacao cientifica](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=18081) 
+(ex: [Carlos Fiolhais](https://pt.wikipedia.org/wiki/Carlos_Fiolhais) fazia um sumario de toda a sessao, tendo que coligir contributos mais relevantes de todas as apresentacoes
+* dia 3: Uma segunda reuniao COM os decisores politicos:
+  * **30m** de apresentacao 
+  * **2h** de perguntas/discussao dos decisores politicos, com os especialistas do dia 1
+  
+
+
+Ver tambem abaixo a opiniao de comentadores profissionais
+
+
+## Comentario JMJ sobre as reunioes
+comentario de Jose Miguel Judice sobre as reunioes do infarmed aos 18m40s:
+
+"podiam mandar os powerpoints em vez de dar aulas"
+
+<https://sicnoticias.pt/opiniao/analise/2020-09-08-O-estado-do-PCP-e-as-eleicoes-presidenciais.-As-Causas-de-Jose-Miguel-Judice>
+
+Ouvi comentários semelhantes de ricardo baptista leite na CMTV, referindo-se a estas sessoes como "jornadas de saude".
+link: TBD
+
+
+
+## Comentario Manuel Carvalho sobre reunioes infarmed
+
+<https://www.publico.pt/2020/06/28/opiniao/editorial/abram-portas-reuniao-infarmed-1922188>
+
+“As avaliações contraditórias sobre o que lá foi dito, os rumores desencontrados sobre irritações, 
+zangas ou puxões de orelhas e a suspeita de que o espírito de compromisso entre políticos e cientistas
+ acabou exigem uma de duas respostas: ou as reuniões do Infarmed deixam de se fazer por se tornarem 
+ um perturbante factor de ruído; ou abrem-se as suas portas para que todos os cidadãos possam saber
+ com transparência o que lá se disse e passou.”
+
+## Transparencia das reunioes publicas
+
+pedido que as informacoes / apresentacoes teem que ser enviadas ao parlamento a cada 15 dias.
+Votos contra do PS.
+
+requerimento: [link](https://www.esquerda.net/sites/default/files/requerimento_entrega_de_dados_covid19_comissao_de_saaode.pdf)
+aprovacao com votos contra do PS: [link](https://www.esquerda.net/artigo/covid-19-governo-tera-de-entregar-informacao-quinzenalmente-ao-parlamento/69153)
+
+
+
+
  
  
 
@@ -1138,7 +1200,8 @@ Permissoes da APP alema:
 Permissoes da APP espanhola:
 ![](img/app_espanha_permissoes.jpg)  
  
- 
+Artigo da PCMag sobre permissoes de apps:
+https://www.pcmag.com/news/what-does-big-tech-know-about-you-basically-everything
  
 UPDATE: novo parecer da CNPD de 21 julho [pdf](https://www.cnpd.pt/home/decisoes/Par/PAR_2020_82.pdf) 
 / [noticia](https://www.tsf.pt/portugal/sociedade/regulacao-da-app-do-governo-para-rastrear-doentes-com-covid-19-e-minimalista-12456785.html)
@@ -1735,6 +1798,21 @@ https://www.youtube.com/watch?v=cR6PwImlznI
   * ["Local de habitação "é o principal meio de transmissão" do vírus"](https://www.jn.pt/nacional/local-de-coabitacao-e-o-principal-contexto-de-transmissao-do-virus-12118723.html )
   * Comentário: Mas a DGS acho que andamos todos a almoçar morcego?
   
+## Humor sobre negacionistas
+
+Sessao Hilariante do "Extremamente Desagradável".
+<https://www.youtube.com/watch?v=NhmmQUXGQvA>
+
+
+  
+## Anormais
+
+[Joao Duarte](https://www.facebook.com/scimed.evidencia/posts/1049726375509195?comment_id=1049757465506086)
+
+Para mim o pior da pandemia não foram as mortes, foi perceber que vivo rodeado de atrasados mentais, obscurantistas, irracionais, falsificadores, egocêntricos, egoistas, abjectos e mentirosos. Mesmo em sítios ou pessoas que achariamos que seriam bastiões seguros de inteligência, racionalidade e humanidade.
+
+Vivemos rodeados de anormais em quem não podemos confiar.
+  
   
 ## Pictures
   
@@ -1751,7 +1829,8 @@ Mascaras:
 ![ ](img/covid_mascara_camelo.jpg)
 
 
-  
+# Varios
+
 ## Impacto da sorte no sucesso das pessoas
 
 Este video mostra resultados de simulacoes sobre o impacto da Sorte (acaso) no sucesso das pessoas:
