@@ -134,6 +134,22 @@ https://reopen.europa.eu/en/map/ESP/6002
 https://reopen.europa.eu/en/map/NLD/6001
 
 
+## Criterios de confinamento
+
+Manuel Carmo Gomes:
+"Proposta de 3 linhas vermelhas. BASTA UMA para actuacao muito forte"
+
+* Positividade tem que ser menor que 10%:
+  * [grafico](https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&time=2020-05-08..latest&country=PRT~ESP~FRA&region=World&positiveTestRate=true&interval=smoothed&perCapita=true&smoothing=7&pickerMetric=total_cases&pickerSort=desc)
+* Rt menor que 1.1:
+  * [grafico aos 1h02m](https://www.youtube.com/watch?v=C_j2wzGboz8)
+* Casos < 200/dia:
+  * [grafico](https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&time=2020-05-08..latest&country=PRT~ESP~FRA&region=World&casesMetric=true&interval=smoothed&perCapita=true&smoothing=7&pickerMetric=total_cases&pickerSort=desc)
+* Hospitais < 1500, UCI < 200:
+  * [grafico, clicar 5 vezes na seta da esquerda](https://esriportugal.maps.arcgis.com/apps/opsdashboard/index.html#/e9dd1dea8d1444b985d38e58076d197a)
+
+![ ](img/infarmed_15_mcg_3_criterios.jpg)
+
 # Vacinacao
 
 ## Plano de vacinacao PT
@@ -460,7 +476,7 @@ Programa: [link](https://www.sns.gov.pt/wp-content/uploads/2020/12/reuniao_infar
 sumario: <https://www.sns.gov.pt/noticias/2021/01/12/covid-19-situacao-epidemiologica-5/>
 programa: <https://www.sns.gov.pt/wp-content/uploads/2021/01/20210112_COVID-19_Programa.pdf>
 
-Slides/transmissao TV: <https://www.youtube.com/watch?v=C_j2wzGboz8>  (2h05m)
+Slides/transmissao TV: <https://www.youtube.com/watch?v=C_j2wzGboz8>  (duracao: 2h05m)
 
 comentario PS: <https://www.youtube.com/watch?v=DfmjgdeikGU>
 comentario PSD: <https://www.youtube.com/watch?v=S6Y1L9OgG2g>
@@ -486,7 +502,7 @@ comentario PSD: <https://www.youtube.com/watch?v=S6Y1L9OgG2g>
 sumario: <https://www.sns.gov.pt/noticias/2021/02/09/situacao-epidemiologica-da-covid-19/>
 programa: <https://www.sns.gov.pt/wp-content/uploads/2019/06/2021.02.09_-ReunInfarmedPrograma.pdf>
 
-Slides/transmissao TV: <https://www.youtube.com/watch?v=ZR1cM9qrLRM>  (2h06m)
+Slides/transmissao TV: <https://www.youtube.com/watch?v=ZR1cM9qrLRM>  (duracao: 2h06m)
 
 
 * Situação epidemiológica no país (André Peralta Santos | DGS)
@@ -511,7 +527,7 @@ O formato actual das reunioes do infarmed 'e extremamente ineficiente:
 A minha proposta:
 * dia 1: a actual reuniao SEM os decisores politicos, super detalhada, com perguntas dos especialistas entre cada apresentacao 
 * dia 2: um especialista de [comunicacao cientifica](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=18081) 
-(ex: [Carlos Fiolhais](https://pt.wikipedia.org/wiki/Carlos_Fiolhais) fazia um sumario de toda a sessao, tendo que coligir contributos mais relevantes de todas as apresentacoes
+(ex: [Carlos Fiolhais](https://pt.wikipedia.org/wiki/Carlos_Fiolhais)) fazia um sumario de toda a sessao, tendo que coligir contributos mais relevantes de todas as apresentacoes
 * dia 3: Uma segunda reuniao COM os decisores politicos:
   * **30m** de apresentacao 
   * **2h** de perguntas/discussao dos decisores politicos, com os especialistas do dia 1
