@@ -7,16 +7,6 @@
 * [Vacinacao](#vacinacao)
   * [Plano de vacinacao PT](#plano-de-vacinacao-pt)
   * [Reportagem CBS 60 mnutos](#reportagem-cbs-60-mnutos)
-* [Negacionistas](#negacionistas)
-  * [Entrevista Fernando Nobre e Gustavo Carona](#entrevista-fernando-nobre-e-gustavo-carona)
-  * [Cherry picking](#cherry-picking)
-  * [Reportagem e Debate TVI sobre negacionistas](#reportagem-e-debate-tvi-sobre-negacionistas)
-  * [Reportagem com Rastreadores](#reportagem-com-rastreadores)
-  * [Entrevistas ao chefe dos UCI do Porto](#entrevistas-ao-chefe-dos-uci-do-porto)
-  * [Acordao da Relacao fala em 97\x falsos positivos](#acordao-da-relacao-fala-em-97-falsos-positivos)
-  * [Acordao da Relacao - detalhes](#acordao-da-relacao---detalhes)
-  * [Artigo sobre negacionistas no noticias magazine](#artigo-sobre-negacionistas-no-noticias-magazine)
-  * [Analise de um video de negacionistas](#analise-de-um-video-de-negacionistas)
 * [Reunioes do infarmed](#reunioes-do-infarmed)
   * [11 reuniao do infarmed - sumario](#11-reuniao-do-infarmed---sumario)
   * [11 reuniao do infarmed - detalhes](#11-reuniao-do-infarmed---detalhes)
@@ -28,6 +18,16 @@
   * [Comentario JMJ sobre as reunioes](#comentario-jmj-sobre-as-reunioes)
   * [Comentario Manuel Carvalho sobre reunioes infarmed](#comentario-manuel-carvalho-sobre-reunioes-infarmed)
   * [Transparencia das reunioes publicas](#transparencia-das-reunioes-publicas)
+* [Negacionistas](#negacionistas)
+  * [Entrevista Fernando Nobre e Gustavo Carona](#entrevista-fernando-nobre-e-gustavo-carona)
+  * [Cherry picking](#cherry-picking)
+  * [Reportagem e Debate TVI sobre negacionistas](#reportagem-e-debate-tvi-sobre-negacionistas)
+  * [Reportagem com Rastreadores](#reportagem-com-rastreadores)
+  * [Entrevistas ao chefe dos UCI do Porto](#entrevistas-ao-chefe-dos-uci-do-porto)
+  * [Acordao da Relacao fala em 97\x falsos positivos](#acordao-da-relacao-fala-em-97-falsos-positivos)
+  * [Acordao da Relacao - detalhes](#acordao-da-relacao---detalhes)
+  * [Artigo sobre negacionistas no noticias magazine](#artigo-sobre-negacionistas-no-noticias-magazine)
+  * [Analise de um video de negacionistas](#analise-de-um-video-de-negacionistas)
 * [Fiabilidade de Testes](#fiabilidade-de-testes)
   * [O que 'e o Evidentia Medica](#o-que-e-o-evidentia-medica)
   * [Jargão estatístico: sensibilidade e especificidade](#jargão-estatístico-sensibilidade-e-especificidade)
@@ -459,15 +459,15 @@ Programa: [link](https://www.sns.gov.pt/wp-content/uploads/2020/12/reuniao_infar
 
 * Parte 1 - Situagao Epidemiologica
   * Situacao Epidemiologica Atual (André Peralta Santos - Dgs)
-  * Situacao Epidemiologica Na Ars Norte (Oscar Felgueiras| Fcup )
-  * Evolucao Da Incidencia E Transmissibilidade (Baltazar Nunes | Dr. Ricardo Jorge)
-  * Projecoes De Curto Prazo Para A Epidemia (Manuel Do Carmo Gomes| Fcul)
+  * Situacao Epidemiologica Na Ars Norte (Oscar Felgueiras - Fcup )
+  * Evolucao Da Incidencia E Transmissibilidade (Baltazar Nunes - Dr. Ricardo Jorge)
+  * Projecoes De Curto Prazo Para A Epidemia (Manuel Do Carmo Gome - Fcul)
 * Parte 2: Vacinas
-  * Como Funciona O Sistema Imunitario E Atuam As Vacinas (Joao Goncalves| Fful)
-  * Como Sao Produzidas As Vacinas (Antonio Roldao| Ibet)
-  * Vacinas Covid-19 Em Desenvolvimento, Processo De Avaliacao E Autorizacao (Fatima Ventura | Infarmed)
-  * Lidar Com A Incerteza Na Gestao Da Infegao E Da Imunidade (Henrique De Barros| Ispup)
-  * Percepcoes Sociais Sobre As Vacinas Contraacovid-19 (Carla Nunes| Enspup)
+  * Como Funciona O Sistema Imunitario E Atuam As Vacinas (Joao Goncalves - Fful)
+  * Como Sao Produzidas As Vacinas (Antonio Roldao -  Ibet)
+  * Vacinas Covid-19 Em Desenvolvimento, Processo De Avaliacao E Autorizacao (Fatima Ventura - Infarmed)
+  * Lidar Com A Incerteza Na Gestao Da Infegao E Da Imunidade (Henrique De Barros - Ispup)
+  * Percepcoes Sociais Sobre As Vacinas Contraacovid-19 (Carla Nunes - Enspup)
 
 ## 14 reuniao do infarmed
 
@@ -483,14 +483,14 @@ comentario PSD: <https://www.youtube.com/watch?v=S6Y1L9OgG2g>
 
 
 * Situação epidemiológica no país (André Peralta Santos - Dgs)
-* Situação epidemiológica na Administração Regional de Saúde do Norte Oscar Felgueiras| Fcup )
-* Situação epidemiológica na Administração Regional de Saúde de Lisboa e Vale do Tejo (Duarte Tavares | ARSLVT)
-* Evolução da incidência e transmissibilidade (Baltazar Nunes | Dr. Ricardo Jorge)
-* Vigilância de variantes genéticas do novo coronavírus em Portugal (Joao Paulo Gomes | Dr. Ricardo Jorge)
-* Projeções de curto prazo para a epidemia (Manuel Do Carmo Gomes| Fcul)
-* Covid-19 | Risco, prognóstico a longo prazo e expetativas (Henrique De Barros| Ispup)
-* Perceções sociais sobre a Covid-19 (Carla Nunes| Enspup)
-* Ponto de situação do plano de vacinação contra a Covid-19 (Francisco Ramos | Task Force)
+* Situação epidemiológica na Administração Regional de Saúde do Norte Oscar Felgueiras - Fcup )
+* Situação epidemiológica na Administração Regional de Saúde de Lisboa e Vale do Tejo (Duarte Tavares - ARSLVT)
+* Evolução da incidência e transmissibilidade (Baltazar Nunes - Dr. Ricardo Jorge)
+* Vigilância de variantes genéticas do novo coronavírus em Portugal (Joao Paulo Gomes - Dr. Ricardo Jorge)
+* Projeções de curto prazo para a epidemia (Manuel Do Carmo Gomes - Fcul)
+* Covid-19 | Risco, prognóstico a longo prazo e expetativas (Henrique De Barros - Ispup)
+* Perceções sociais sobre a Covid-19 (Carla Nunes - Enspup)
+* Ponto de situação do plano de vacinação contra a Covid-19 (Francisco Ramos - Task Force)
 
   
   
@@ -505,14 +505,14 @@ programa: <https://www.sns.gov.pt/wp-content/uploads/2019/06/2021.02.09_-ReunInf
 Slides/transmissao TV: <https://www.youtube.com/watch?v=ZR1cM9qrLRM>  (duracao: 2h06m)
 
 
-* Situação epidemiológica no país (André Peralta Santos | DGS)
-* Evolução da incidência e transmissibilidade (Baltazar Nunes | Dr. Ricardo Jorge)
-* Vigilância de variantes genéticas do novo coronavírus em Portugal (Joao Paulo Gomes | Dr. Ricardo Jorge)
+* Situação epidemiológica no país (André Peralta Santos - DGS)
+* Evolução da incidência e transmissibilidade (Baltazar Nunes - Dr. Ricardo Jorge)
+* Vigilância de variantes genéticas do novo coronavírus em Portugal (Joao Paulo Gomes - Dr. Ricardo Jorge)
 *
-* Evolução epidemiológica e critérios de atuação (Manuel Do Carmo Gomes| FCUL)
-* Efeito da vacinação nos internamentos e na mortalidade  (Henrique De Barros| ISPUP)
-* Perceções sociais sobre a Covid-19 (Carla Nunes| ENSPUP)
-* Ponto de situação do plano de vacinação contra a Covid-19 (Henrique Gouveia e Melo | Task Force)
+* Evolução epidemiológica e critérios de atuação (Manuel Do Carmo Gomes - FCUL)
+* Efeito da vacinação nos internamentos e na mortalidade  (Henrique De Barros - ISPUP)
+* Perceções sociais sobre a Covid-19 (Carla Nunes - ENSPUP)
+* Ponto de situação do plano de vacinação contra a Covid-19 (Henrique Gouveia e Melo - Task Force)
 
 
 
