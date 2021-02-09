@@ -138,7 +138,7 @@ https://reopen.europa.eu/en/map/NLD/6001
 ## Criterios de confinamento
 
 Manuel Carmo Gomes:
-"Proposta de 3 linhas vermelhas. BASTA UMA para actuacao muito forte"
+**"Proposta de 3 linhas vermelhas. BASTA UMA para actuacao muito forte"**
 
 * Positividade tem que ser menor que 10% (idealmente 5%):
   * [grafico](https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&time=2020-05-08..latest&country=PRT~ESP~FRA&region=World&positiveTestRate=true&interval=smoothed&perCapita=true&smoothing=7&pickerMetric=total_cases&pickerSort=desc)
@@ -244,6 +244,12 @@ O debate comeca aos 1h18m deste video:
 <https://tviplayer.iol.pt/video/5fadcf1b0cf2c785555011b9>
 
 ![ ](img/medicos_pela_verdade_-_ma_fe.png)
+
+## Fim dos medicos pela verdade
+
+Uma excelente noticia!
+<https://observador.pt/2021/02/09/movimento-medicos-pela-verdade-suspende-redes-sociais-e-anuncia-interregno/>
+
 
 ## Reportagem com Rastreadores
 
@@ -378,6 +384,18 @@ nem com a alegacao que "usaram o virus errado".
 ![ ](img/dolores_cahill_1.png)
 ![ ](img/dolores_cahill_2.png)
 
+## Comentarios Raquel Varela e Carlos Antunes
+
+Raquel varela:
+"só olhando para o valor avançado por Carlos Antunes é um erro de 340%."
+https://www.facebook.com/raquelvarelahistoriadora/posts/264864001671243
+
+Carlos antunes:
+"Sobre uma suposta publicação de uma Raquel Varela... que visou o meu nome:"
+https://www.facebook.com/carlos.antunes.908/posts/10158862801999014
+
+Entrevista a carlos antunes no poligrafo:
+https://sicnoticias.pt/programas/poligrafo/2021-02-09-Covid-19.-Fecho-das-escolas-foi-determinante-para-queda-abrupta-de-casos
 
 
 
@@ -1253,14 +1271,27 @@ https://www.facebook.com/sicnoticias/posts/10158993076321388
 FB expresso:
 https://www.facebook.com/jornalexpresso/posts/10158171854462949
 
-## Segunda resolucao do CNPD
+## Resolucoes do CNPD
 
-A CNPD fez um primeiro parecer da APP em 29 de junho.  
-Agora fez um segundo em 21 de julho, mas nao esta' [no site](https://www.cnpd.pt/).
+Parecer 129/2020: 27 outubro\
+(orbigatoriadde da APP):
+<https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121816>
+  
+  
+Parecer 82/2020: 21 julho\
+tratamento dos dados da APP:
+<https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121776>
+  
+
+deliberacao 277/2020: 29 junho\
+(consulta previa da APP)
+<https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121773>
+
+
 
 Noticia TSF: [https://www.tsf.pt/portugal/sociedade/regulacao-da-app-do-governo-para-rastrear-doentes-com-covid-19-e-minimalista-12456785.html](aqui)
 
-Relacio nado, artigo cientifico:
+Relacionado, artigo cientifico sobre transparencia de apps:
 <https://down.dsg.cs.tcd.ie/tact/transp.pdf>
 
 
@@ -1843,6 +1874,8 @@ https://www.youtube.com/watch?v=cR6PwImlznI
 
 Sessao Hilariante do "Extremamente Desagradável".
 <https://www.youtube.com/watch?v=NhmmQUXGQvA>
+
+
 
 
   
