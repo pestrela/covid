@@ -4,6 +4,7 @@
 * [Medidas Confinamento](#medidas-confinamento)
   * [Confinamento PT](#confinamento-pt)
   * [Confinamento Europa](#confinamento-europa)
+  * [Criterios de confinamento](#criterios-de-confinamento)
 * [Vacinacao](#vacinacao)
   * [Plano de vacinacao PT](#plano-de-vacinacao-pt)
   * [Reportagem CBS 60 mnutos](#reportagem-cbs-60-mnutos)
@@ -139,7 +140,7 @@ https://reopen.europa.eu/en/map/NLD/6001
 Manuel Carmo Gomes:
 "Proposta de 3 linhas vermelhas. BASTA UMA para actuacao muito forte"
 
-* Positividade tem que ser menor que 10%:
+* Positividade tem que ser menor que 10% (idealmente 5%):
   * [grafico](https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&time=2020-05-08..latest&country=PRT~ESP~FRA&region=World&positiveTestRate=true&interval=smoothed&perCapita=true&smoothing=7&pickerMetric=total_cases&pickerSort=desc)
 * Rt menor que 1.1:
   * [grafico aos 1h02m](https://www.youtube.com/watch?v=C_j2wzGboz8)
@@ -149,6 +150,14 @@ Manuel Carmo Gomes:
   * [grafico, clicar 5 vezes na seta da esquerda](https://esriportugal.maps.arcgis.com/apps/opsdashboard/index.html#/e9dd1dea8d1444b985d38e58076d197a)
 
 ![ ](img/infarmed_15_mcg_3_criterios.jpg)
+
+
+Sumario Expresso:
+<https://expresso.pt/coronavirus/2021-02-09-Carmo-Gomes-deu-uma-aula-a-Costa-medidas-graduais-nao-servem-precisamos-de-testagem-forte-e-criterios-claros-para-fechar-e-desconfinar>
+
+Sumario Observador:
+<https://observador.pt/programas/emissao-especial/a-testagem-e-nao-o-confinamento-e-a-arma-principal-que-devemos-usar>
+
 
 # Vacinacao
 
@@ -1072,24 +1081,24 @@ reunioes familiares sem mascara.
 3 videos curtos do Tomas Pueyo, famoso pelo artgo do "martelo", com 60 milhoes de leituras.
  
 O primeiro mostra o que as pessoas individuais podem fazer para diminiur as infeccoes
-https://www.youtube.com/watch?v=3Y4UjT-Tge0
+<https://www.youtube.com/watch?v=3Y4UjT-Tge0>
 
 O segundo mostra o modelo do queijo suico. So' a combinacao de varias medidas das pessoas e do governo 'e que diminiu sifnificativamente o problema
-https://www.youtube.com/watch?v=QzGb65UB5LQ
+<https://www.youtube.com/watch?v=QzGb65UB5LQ>
 
 O terceiro mostra as regioes todas da europa desde marco
-https://www.youtube.com/watch?v=MLNjUknJhms
+<https://www.youtube.com/watch?v=MLNjUknJhms>
 
 Este 'e o ultimo artigo dele, para quem prefrir ler detalhadamente em vez de ver videos
-https://tomaspueyo.medium.com/coronavirus-the-swiss-cheese-strategy-d6332b5939de
+<https://tomaspueyo.medium.com/coronavirus-the-swiss-cheese-strategy-d6332b5939de>
 
 
-Este 'e os grficos da europa, estados unidos e Asia. 
+Este sao os graficos da europa, estados unidos e Asia. 
 Os paises asiatios (nao 'e so' a china!) estao a lidar bem melhor com o problema
-https://miro.medium.com/max/1000/0*DFP2EXBAyZaX9uMc
+<https://miro.medium.com/max/1000/0*DFP2EXBAyZaX9uMc>
+
 
 ## 2020-11-09 - novo artigo de Tomas Pueyo
-
 
 Nivel 1: barreiras
 - testes na chegada + quarentena + teste 4 dias depois
@@ -1118,7 +1127,7 @@ Layer 4: Rastreamento
 ## artigo cientifico sobre dados da DGS
 
 sumario do artigo:
-https://www.medrxiv.org/content/10.1101/2020.11.03.20225565v1.full.pdf
+<https://www.medrxiv.org/content/10.1101/2020.11.03.20225565v1.full.pdf>
 
 O artigo 'e serio de investigadores de faculdades de medicina respeitdos.
 
@@ -1137,9 +1146,9 @@ Os autores sugerem todo o tipo de melhorias ao sinave, em vez de simplesmente pe
  
 ## Aprovacao da vacina pela FDA
 
-* blog post: https://blogs.sciencemag.org/pipeline/archives/2020/11/09/vaccine-efficacy-data
-* protocolo Cientifico: https://pfe-pfizercom-d8-prod.s3.amazonaws.com/2020-11/C4591001_Clinical_Protocol_Nov2020.pdf
-* FAQ: https://www.pfizer.com/science/coronavirus
+* blog post: <https://blogs.sciencemag.org/pipeline/archives/2020/11/09/vaccine-efficacy-data>
+* protocolo Cientifico: https://pfe-pfizercom-d8-prod.s3.amazonaws.com/2020-11/C4591001_Clinical_Protocol_Nov2020.pdf>
+* FAQ: <https://www.pfizer.com/science/coronavirus>
 
 Fase 3 tem ~40000 pessoas.
 metade com vacina, metade com placebo.
