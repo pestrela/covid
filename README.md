@@ -22,7 +22,7 @@
 * [Negacionistas](#negacionistas)
   * [Entrevista Fernando Nobre e Gustavo Carona](#entrevista-fernando-nobre-e-gustavo-carona)
   * [Cherry picking](#cherry-picking)
-  * [Meta analises de ivermectina e hidroxicloroquina](#Meta-analises-de-ivermectina-e-hidroxicloroquina)
+  * [Meta analises de ivermectina e hidroxicloroquina](#meta-analises-de-ivermectina-e-hidroxicloroquina)
   * [Reportagem e Debate TVI sobre negacionistas](#reportagem-e-debate-tvi-sobre-negacionistas)
   * [Reportagem com Rastreadores](#reportagem-com-rastreadores)
   * [Entrevistas ao chefe dos UCI do Porto](#entrevistas-ao-chefe-dos-uci-do-porto)
