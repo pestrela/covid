@@ -7,7 +7,7 @@
   * [Criterios de confinamento](#criterios-de-confinamento)
 * [Vacinacao](#vacinacao)
   * [Plano de vacinacao PT](#plano-de-vacinacao-pt)
-  * [Reportagem CBS 60 mnutos](#reportagem-cbs-60-mnutos)
+  * [Reportagem CBS 60 minutos](#reportagem-cbs-60-minutos)
 * [Reunioes do infarmed](#reunioes-do-infarmed)
   * [11 reuniao do infarmed - sumario](#11-reuniao-do-infarmed---sumario)
   * [11 reuniao do infarmed - detalhes](#11-reuniao-do-infarmed---detalhes)
@@ -22,6 +22,7 @@
 * [Negacionistas](#negacionistas)
   * [Entrevista Fernando Nobre e Gustavo Carona](#entrevista-fernando-nobre-e-gustavo-carona)
   * [Cherry picking](#cherry-picking)
+  * [Meta analises de ivermectina e hidroxicloroquina](#Meta-analises-de-ivermectina-e-hidroxicloroquina)
   * [Reportagem e Debate TVI sobre negacionistas](#reportagem-e-debate-tvi-sobre-negacionistas)
   * [Reportagem com Rastreadores](#reportagem-com-rastreadores)
   * [Entrevistas ao chefe dos UCI do Porto](#entrevistas-ao-chefe-dos-uci-do-porto)
@@ -57,7 +58,7 @@
   * [Privacidade actual, e perda de privacidade em democracias asiaticas](#privacidade-actual-e-perda-de-privacidade-em-democracias-asiaticas)
   * [App e privacidade](#app-e-privacidade)
   * [Segunda resolucao do CNPD](#segunda-resolucao-do-cnpd)
-  * [APP Sumario - 17 Julho](#app-sumario---17-julho)
+\  * [APP Sumario - 17 Julho](#app-sumario---17-julho)
   * [Como funciona a APP covid](#como-funciona-a-app-covid)
   * [Quais sao as duas tecnologias para as Apps covid? qual 'e a que portugal vai ter?](#quais-sao-as-duas-tecnologias-para-as-apps-covid-qual-e-a-que-portugal-vai-ter)
   * [Porque 'e que o GAEN no Android necessita de localização?](#porque-e-que-o-gaen-no-android-necessita-de-localização)
@@ -158,6 +159,8 @@ Sumario Expresso:
 Sumario Observador:
 <https://observador.pt/programas/emissao-especial/a-testagem-e-nao-o-confinamento-e-a-arma-principal-que-devemos-usar>
 
+Saida de MCG das reunioes:
+<https://sicnoticias.pt/especiais/coronavirus/2021-02-09-Manuel-Carmo-Gomes-explica-por-que-razao-decidiu-deixar-de-integrar-as-reunioes-do-Infarmed>
 
 # Vacinacao
 
@@ -172,7 +175,7 @@ Sumario Observador:
 sumario: <https://www.sns.gov.pt/noticias/2020/12/03/covid-19-plano-de-vacinacao/>
  
 
-## Reportagem CBS 60 mnutos
+## Reportagem CBS 60 minutos
 
 Excelente reportagem da CBS sobre a logistica de distribuicao da vacina, liderada pelo especialista militar do aprovisionamento nos EUA:\  
 <https://www.cbsnews.com/search/?q=warp+speed>
@@ -180,9 +183,6 @@ Excelente reportagem da CBS sobre a logistica de distribuicao da vacina, liderad
 Comparacao com portugal, ver aos 25m:\  
 <https://www.rtp.pt/play/p6690/o-ultimo-apaga-a-luz>
 "uma task force de 12 entidades 'e um dia bem passado" -> "task force da task force" -> "comissao de inquerito" -> "alto comissario"
- 
-
- 
  
 
 
@@ -228,6 +228,30 @@ Quando vemos "cherry picking" propositado, isso 'e ma'-fe';
 Noutras pessoas pode ser apenas ignorancia cientifica e desleixo, quando partilham mensagem erradas sem as verificarem em fontes crediveis ("poligrafo", "fact checking", etc).
 
 
+## Meta analises de ivermectina e hidroxicloroquina
+
+Analise do poligrafo brazil: <https://piaui.folha.uol.com.br/lupa/2021/02/23/anuncio-medicos-pela-vida-covid-19/> sobre as meta analises do site <https://c19study.com/>, <https://c19ivermectin.com/> e similares:
+
+"o suposto estudo é uma meta-análise, ou seja, uma análise feita com base em outros trabalhos existentes. 
+(...) O problema é que, nesse caso, a análise é feita sem metodologia e rigor científico."
+
+"A eficácia de um tratamento só pode ser realmente comprovada com estudos científicos que 
+usam uma metodologia rigorosa:
+* randomização 
+* duplo-cego 
+* publicados em uma revista científica + peer-review"
+
+
+Problemas:
+* Os p-valor sao simplemente multiplicados entre si = LIXO ESTATISCO
+* Misturam pre-prints com erros graves e que nunca vao ser publicados, com estudos "a serio" publicados. 
+  * So' o estudo publicados em revistas cientificas e' que contam, por terem sido verificados pelos pares (=especialistas).
+* Todos os estudos teem todos pesos iguais. Estudos com qualidade zero, ou negativa teem o mesmo peso 1. 
+
+manifesto falso: <https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/02/manifesto-medicos-pela-vida.pdf>
+
+
+
 ## Reportagem e Debate TVI sobre negacionistas
 
 Excelente reportagem e debate da TVI sobre os "medicos pela verdade". 
@@ -243,13 +267,22 @@ Reportagem:
 O debate comeca aos 1h18m deste video:
 <https://tviplayer.iol.pt/video/5fadcf1b0cf2c785555011b9>
 
+Update 2021-02-11:\ 
+mais quatro médicos pela verdade condenados:
+<https://tviplayer.iol.pt/video/60258c5d0cf245b9a97a76b6>
+
+
 ![ ](img/medicos_pela_verdade_-_ma_fe.png)
 
 ## Fim dos medicos pela verdade
 
 Uma excelente noticia!
+
+Observador:
 <https://observador.pt/2021/02/09/movimento-medicos-pela-verdade-suspende-redes-sociais-e-anuncia-interregno/>
 
+Visao:
+<https://visao.sapo.pt/atualidade/sociedade/2021-02-09-fim-dos-medicos-pela-verdade-o-chega-e-as-afinidades-que-a-visao-destapou/>
 
 ## Reportagem com Rastreadores
 
@@ -524,7 +557,7 @@ comentario PSD: <https://www.youtube.com/watch?v=S6Y1L9OgG2g>
 
 ## 15 reuniao do infarmed
 
-12 janeiro de 2021
+9 fevereiro de 2021
 
 sumario: <https://www.sns.gov.pt/noticias/2021/02/09/situacao-epidemiologica-da-covid-19/>
 programa: <https://www.sns.gov.pt/wp-content/uploads/2019/06/2021.02.09_-ReunInfarmedPrograma.pdf>
@@ -542,6 +575,28 @@ Slides/transmissao TV: <https://www.youtube.com/watch?v=ZR1cM9qrLRM>  (duracao: 
 * Ponto de situação do plano de vacinação contra a Covid-19 (Henrique Gouveia e Melo - Task Force)
 
 
+## 16 reuniao do infarmed
+
+8 marco de 2021
+
+sumario: <https://www.sns.gov.pt/noticias/2021/03/08/situacao-epidemiologica-da-covid-19-4/>
+programa: <https://www.sns.gov.pt/wp-content/uploads/2021/03/20210308_COVID-19_Programa.pdf>
+
+Slides/transmissao TV: <https://www.youtube.com/watch?v=rx9g2PEpVbs>  (duracao: 1h44m)
+
+descricao: "Descida de novos casos de Covid-19" <https://www.sns.gov.pt/noticias/2021/03/08/descida-de-novos-casos-de-covid-19/>
+descricao: "Índice de transmissibilidade" <https://www.sns.gov.pt/noticias/2021/03/08/covid-19-indice-de-transmissibilidade/>
+
+* 3m: Situação epidemiológica no país (André Peralta Santos - DGS)
+* 10m: Evolução da incidência e transmissibilidade (Baltazar Nunes - Dr. Ricardo Jorge)
+* 20m: Vigilância de variantes genéticas (Joao Paulo Gomes - Dr. Ricardo Jorge)
+*
+* 34m: Resposta À Pandemia Percursos Para A Decisão (Henrique Barros - ISPUP)
+* 52m: Critérios Para Uma Pandemia Controlada: Fases 2 E 3 (Baltazar Nunes - Grupo De Peritos)
+* 1h12m: Plano Para Redução Das Medidas Restritivas (Óscar Felgueiras - ARSN / Raquel Duarte )
+
+ 
+imprensa: linhas vermelhas <https://observador.pt/especiais/as-linhas-vermelhas-para-recuar-no-desconfinamento-se-a-epidemia-se-descontrolar-outra-vez/>
 
 
 # Reunioes do infarmed - Formato
@@ -1339,6 +1394,35 @@ Fontes:
 * FAQ: https://static.googleusercontent.com/media/www.google.com/en//covid19/exposurenotifications/pdfs/Exposure-Notification-FAQ-v1.2.pdf
 * https://www.macrumors.com/guide/exposure-notification/
 * https://expresso.pt/coronavirus/2020-07-24-Testamos-a-app-Stayaway-Covid-e-contamos-tudo-em-sete-passos
+
+
+## A App não é mágica
+
+<https://stayawaycovid.pt/2020/09/23/a-app-nao-e-magica/>
+
+A STAYAWAY COVID permite informar as pessoas que nos últimos 14 dias tenham estado perigosamente em contacto com alguém infetado.
+
+Apenas após a confirmação da infeção pelo Serviço Nacional de Saúde é que o utilizador da aplicação que contraiu a COVID-19 obterá um código numérico que, introduzindo na aplicação, permitirá que os seus contactos dos 14 dias anteriores sejam alertados para uma potencial ocasião de contágio.
+
+Nem a STAYAWAY COVID, nem nenhuma tecnologia hoje em dia conhecida, permite detetar quem está infetado ao nosso redor! Para isso são necessários os testes à COVID-19 que, atualmente, envolvem uma colheita de amostra por zaragatoa na nasofaringe e na orofaringe e não apresentam resultados instantaneamente.
+
+
+## Why Google and Apple Failed at COVID-19 Digital Response
+
+Artigo de opiniao:
+<https://www.ictworks.org/google-apple-failure-covid-19-digital-response>
+
+* Failure Wasn’t Due to Lack of Resources
+* Three Reasons Why Apple and Google Failed
+  1. Launching in an Emergency
+  2. Putting Technology First
+  3. Assuming Government Adoption
+  
+"Many governments opted to build their own contact tracing software, with mixed results. 
+Singapore, Ireland, and Germany were very successful. 
+The UK’s effort was an object lesson in mismanagement. 
+Others took their time investigating the Apple/Google solution. 
+Switzerland became the first country to adopt the exposure notification system in May."
 
 
 ## Quais sao as duas tecnologias para as Apps covid? qual 'e a que portugal vai ter?
