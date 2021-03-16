@@ -5,6 +5,7 @@
   * [Confinamento PT](#confinamento-pt)
   * [Confinamento Europa](#confinamento-europa)
   * [Criterios de confinamento](#criterios-de-confinamento)
+  * [Positividade vs Testes por caso Positivo](#positividade-vs-testes-por-caso-positivo)
 * [Vacinacao](#vacinacao)
   * [Plano de vacinacao PT](#plano-de-vacinacao-pt)
   * [Reportagem CBS 60 minutos](#reportagem-cbs-60-minutos)
@@ -58,7 +59,7 @@
   * [Privacidade actual, e perda de privacidade em democracias asiaticas](#privacidade-actual-e-perda-de-privacidade-em-democracias-asiaticas)
   * [App e privacidade](#app-e-privacidade)
   * [Segunda resolucao do CNPD](#segunda-resolucao-do-cnpd)
-\  * [APP Sumario - 17 Julho](#app-sumario---17-julho)
+  * [APP Sumario - 17 Julho](#app-sumario---17-julho)
   * [Como funciona a APP covid](#como-funciona-a-app-covid)
   * [Quais sao as duas tecnologias para as Apps covid? qual 'e a que portugal vai ter?](#quais-sao-as-duas-tecnologias-para-as-apps-covid-qual-e-a-que-portugal-vai-ter)
   * [Porque 'e que o GAEN no Android necessita de localização?](#porque-e-que-o-gaen-no-android-necessita-de-localização)
@@ -161,6 +162,24 @@ Sumario Observador:
 
 Saida de MCG das reunioes:
 <https://sicnoticias.pt/especiais/coronavirus/2021-02-09-Manuel-Carmo-Gomes-explica-por-que-razao-decidiu-deixar-de-integrar-as-reunioes-do-Infarmed>
+
+## Positividade vs Testes por caso Positivo
+
+Testamos muito? Testamos pouco?
+
+Os dois graficos abaixo mostram EXACTAMENTE a mesma informacao.
+
+Mas no da esquerda parece que estamos a meio caminho, mas na direita estamos muito longe da Dinamarca.
+
+Mais uma vez: sao o mesmo grafico. Sao os mesmos dados. A unica diferenca 'e quem 'e que divide o que.
+
+O da direita mostra que fazemos o dobro dos testes de Franca, mas oito vezes menos testes que a Dinamarca.
+
+[Fonte 1](https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=390..408&pickerSort=asc&pickerMetric=location&Metric=Share+of+positive+tests&Interval=7-day+rolling+average&Relative+to+Population=true&Align+outbreaks=false&country=PRT~DNK~FRA)  
+[Fonte 2](https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=390..408&pickerSort=asc&pickerMetric=location&Metric=Tests+per+confirmed+case&Interval=7-day+rolling+average&Relative+to+Population=true&Align+outbreaks=false&country=PRT~DNK~FRA)  
+
+![ ](img/positividade_vs_testes_por_positivo.jpg)
+
 
 # Vacinacao
 
