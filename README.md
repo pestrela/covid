@@ -1,5 +1,5 @@
 
 # covid blog
 
-os posst estao aqui: [blog](docs)
+os posts estao aqui: [blog](docs)
 

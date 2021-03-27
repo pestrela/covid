@@ -2,6 +2,42 @@
 # Estatistica
 
 
+
+
+
+## Cherry picking
+
+<https://pt.wikipedia.org/wiki/Evid%C3%AAncia_suprimida>
+
+Evidência suprimida, supressão de evidências ou evidência incompleta (em inglês: cherry picking) 
+é uma falácia que consiste em citar casos ou dados individuais que parecem confirmar uma determinada 
+posição, ao mesmo tempo em que se ignora uma porção significativa de casos ou dados relacionados 
+que possam contradizer aquela posição. É um tipo de falácia de atenção seletiva, sendo seu 
+exemplo mais comum o viés de confirmação. Ela pode ser feita de forma intencional e 
+também de forma não intencional. É um grande problema em debates públicos.
+
+Numa frase: se escolhermos os numeros que nos convem, e ignoramos a maioria esmagadora dos outros (que mostram o contrario), 
+entao podemos "provar" tudo o que quisermos e o seu contrario.
+
+
+Quando vemos "cherry picking" propositado, isso 'e ma'-fe';
+Noutras pessoas pode ser apenas ignorancia cientifica e desleixo, quando partilham mensagem erradas sem as verificarem em fontes crediveis ("poligrafo", "fact checking", etc).
+
+## Correlacao vs Causalidade - Variaveis ocultas
+
+Esta estatisticamente provado que quando se vendem mais gelados, ha mais afogamentos.  
+Sera' que as criancas caem na piscina a correr com o gelado na mao?
+
+Nao. Uma nao causa a outra.  
+Em vez disso, ambas sao causadas por uma terceira variavel oculta: a tempertura.
+
+Temperaturas altas levam a mais gelados e a mais afogamentos.
+<https://www.thoughtco.com/correlation-and-causation-in-statistics-3126340>
+
+Em baixo muiot mais exemplos:
+![ ](img/correlation_examples.jpg)
+
+
 ## Positividade vs Testes por caso Positivo
 
 Testamos muito? Testamos pouco?
@@ -69,6 +105,17 @@ Fonte:
 <https://en.wikipedia.org/wiki/Sensitivity_and_specificity>
 
 
+## Milhoes vs Bilioes de segundos
+
+
+Todos os dias ouvimos falar de "Milhoes de euros", mas tambem de "Mil milhoes de euros".  
+Essa 'e a diferenca basica entre um Milionario e um Bilionario nos EUA.
+
+Para ter uma idea, um milhao de segundos sao 11 Dias.  
+Mil milhoes de segundos sao 31 Anos.
+
+
+![](img/millions_vs_billions.jpg)
 
 
 

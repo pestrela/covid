@@ -30,13 +30,13 @@ Este 'e o mapa diario dos concelhos. A cor pode mudar porque as medidas sao deci
 ## Confinamento na Europa
 
 o ECDC compara as infeccoes dos varios paises:
-https://www.ecdc.europa.eu/sites/default/files/styles/is_full/public/images/w52_53_COVID_subnational_Last_2week.png
+<https://www.ecdc.europa.eu/sites/default/files/styles/is_full/public/images/w52_53_COVID_subnational_Last_2week.png>
 
 Este site compara as limitacoes dos governos. 
 Por exemplo a restauracao em ES e NL:
 
-https://reopen.europa.eu/en/map/ESP/6002
-https://reopen.europa.eu/en/map/NLD/6001
+<https://reopen.europa.eu/en/map/ESP/6002>
+<https://reopen.europa.eu/en/map/NLD/6001>
 
 
 ## Criterios de confinamento

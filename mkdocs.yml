@@ -1,5 +1,9 @@
 site_name: Covid posts
 
+plugins:
+    #- search
+    #- mkpdfs
+
 theme:
     name: readthedocs
     #name: mkdocs
@@ -28,11 +32,11 @@ nav:
     - Confinamento : confinamento.md
     - Vacinacao : vacinacao.md
     - Negacionistas : negacionistas.md
+    - Estatistica: estatistica.md
     - Infarmed : infarmed.md
     - Testes : testes.md
     - APP  : app.md
     - Mascaras  : mascaras.md
-    - Estatistica: estatistica.md
     - Humor  : humor.md
     - Varios : varios.md
   

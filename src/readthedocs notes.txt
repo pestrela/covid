@@ -1,0 +1,64 @@
+
+
+tutorial of several alternatives:
+  https://dev.to/michaelcurrin/sidebars-and-nested-menus-g92
+
+mkdocs demo:
+  https://michaelcurrin.github.io/mkdocs-quickstart/
+    -> https://raw.githubusercontent.com/MichaelCurrin/mkdocs-quickstart/master/docs/docs/tutorial/tldr.md
+    
+  https://michaelcurrin.github.io/mkdocs-quickstart/tutorial/installation/#requirements 
+    -> https://raw.githubusercontent.com/MichaelCurrin/mkdocs-quickstart/master/docs/docs/tutorial/installation.md
+
+    
+rtd-dropdown:
+  (worked in a single webpage)
+  https://github.com/cjsheets/mkdocs-rtd-dropdown
+ 
+    
+material:
+  https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
+  https://squidfunk.github.io/mkdocs-material/getting-started/#with-docker
+  
+  guthub actions:
+    https://squidfunk.github.io/mkdocs-material/publishing-your-site/
+    
+    
+    
+    
+    
+------------
+    
+sphix steps:
+  git clone --no-single-branch --depth 50 https://github.com/pestrela/covid.git .
+  git checkout --force origin/master
+  git clean -d -f -f
+
+  python3.7 -mvirtualenv /home/docs/checkouts/readthedocs.org/user_builds/covid-pestrela/envs/latest
+  /home/docs/checkouts/readthedocs.org/user_builds/covid-pestrela/envs/latest/bin/python -m pip install --upgrade --no-cache-dir pip setuptools
+
+  /home/docs/checkouts/readthedocs.org/user_builds/covid-pestrela/envs/latest/bin/python -m pip install --upgrade --no-cache-dir mock==1.0.1 pillow==5.4.1 alabaster>=0.7,<0.8,!=0.7.5 commonmark==0.8.1 recommonmark==0.5.0 sphinx sphinx-rtd-theme readthedocs-sphinx-ext<2.2
+
+  cat conf.py
+
+  /home/docs/checkouts/readthedocs.org/user_builds/covid-pestrela/envs/latest/bin/python -m sphinx -T -b html -d _build/doctrees -D language=en . _build/html
+
+  /home/docs/checkouts/readthedocs.org/user_builds/covid-pestrela/envs/latest/bin/python -m sphinx -T -b readthedocssinglehtmllocalmedia -d _build/doctrees -D language=en . _build/localmedia
+
+  /home/docs/checkouts/readthedocs.org/user_builds/covid-pestrela/envs/latest/bin/python -m sphinx -b latex 
+  -D language=en -d _build/doctrees . _build/latex
+
+  cat latexmkrc
+
+  latexmk -r latexmkrc -pdf -f -dvi- -ps- -jobname=covid-pestrela -interaction=nonstopmode
+  mv -f /home/docs/checkouts/readthedocs.org/user_builds/covid-pestrela/checkouts/latest/_build/latex/covid-pestrela.pdf /home/docs/checkouts/readthedocs.org/user_builds/covid-pestrela/artifacts/latest/sphinx_pdf/covid-pestrela.pdf
+
+  /home/docs/checkouts/readthedocs.org/user_builds/covid-pestrela/envs/latest/bin/python -m sphinx -T -b epub -d _build/doctrees -D language=en . _build/epub
+
+  mv -f /home/docs/checkouts/readthedocs.org/user_builds/covid-pestrela/checkouts/latest/_build/epub/covid-pestrela.epub /home/docs/checkouts/readthedocs.org/user_builds/covid-pestrela/artifacts/latest/sphinx_epub/covid-pestrela.epub
+
+
+using mkdocs:
+
+
+

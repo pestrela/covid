@@ -6,3 +6,7 @@
 /.eggs
 /_site
 
+site/
+venv
+
+
