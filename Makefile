@@ -1,7 +1,7 @@
 
 
 all:
-	cho "all"
+	echo "all"
 
 serve:
 	mkdocs serve

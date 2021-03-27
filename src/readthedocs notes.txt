@@ -1,29 +1,44 @@
 
+2021-03-27:
+-----------
+  tutorial of several alternatives:
+    https://dev.to/michaelcurrin/sidebars-and-nested-menus-g92
 
-tutorial of several alternatives:
-  https://dev.to/michaelcurrin/sidebars-and-nested-menus-g92
+  mkdocs demo:
+    https://michaelcurrin.github.io/mkdocs-quickstart/
+      -> https://raw.githubusercontent.com/MichaelCurrin/mkdocs-quickstart/master/docs/docs/tutorial/tldr.md
+      
+    https://michaelcurrin.github.io/mkdocs-quickstart/tutorial/installation/#requirements 
+      -> https://raw.githubusercontent.com/MichaelCurrin/mkdocs-quickstart/master/docs/docs/tutorial/installation.md
 
-mkdocs demo:
-  https://michaelcurrin.github.io/mkdocs-quickstart/
-    -> https://raw.githubusercontent.com/MichaelCurrin/mkdocs-quickstart/master/docs/docs/tutorial/tldr.md
+      
+  rtd-dropdown:
+    (worked in a single webpage)
+    https://github.com/cjsheets/mkdocs-rtd-dropdown
+   
+      
+  material:
+    https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
+    https://squidfunk.github.io/mkdocs-material/getting-started/#with-docker
     
-  https://michaelcurrin.github.io/mkdocs-quickstart/tutorial/installation/#requirements 
-    -> https://raw.githubusercontent.com/MichaelCurrin/mkdocs-quickstart/master/docs/docs/tutorial/installation.md
+    github actions:
+      https://squidfunk.github.io/mkdocs-material/publishing-your-site/
+      
+      
 
+  remove old ghpages:
+    settings:
+      https://github.com/pestrela/covid/settings
+      
+    need to remove gh-pages branch: 
+      https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository#deleting-a-branch
+      https://docs.github.com/github/working-with-github-pages/unpublishing-a-github-pages-site#unpublishing-a-project-site
     
-rtd-dropdown:
-  (worked in a single webpage)
-  https://github.com/cjsheets/mkdocs-rtd-dropdown
- 
-    
-material:
-  https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
-  https://squidfunk.github.io/mkdocs-material/getting-started/#with-docker
+publishing on gitub pages:
+  https://squidfunk.github.io/mkdocs-material/publishing-your-site/
   
-  guthub actions:
-    https://squidfunk.github.io/mkdocs-material/publishing-your-site/
-    
-    
+  
+  
     
     
     
