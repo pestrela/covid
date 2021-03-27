@@ -712,6 +712,31 @@ descricao: "Índice de transmissibilidade" <https://www.sns.gov.pt/noticias/2021
 imprensa: linhas vermelhas <https://observador.pt/especiais/as-linhas-vermelhas-para-recuar-no-desconfinamento-se-a-epidemia-se-descontrolar-outra-vez/>
 
 
+## 17 reuniao do infarmed
+
+8 marco de 2021
+
+sumario: <https://www.sns.gov.pt/noticias/2021/03/08/situacao-epidemiologica-da-covid-19-4/>  
+programa: <https://www.sns.gov.pt/wp-content/uploads/2021/03/20210308_COVID-19_Programa.pdf>
+
+Slides/transmissao TV: <https://www.youtube.com/watch?v=rx9g2PEpVbs>  (duracao: 1h44m)
+
+descricao: "Descida de novos casos de Covid-19" <https://www.sns.gov.pt/noticias/2021/03/08/descida-de-novos-casos-de-covid-19/>
+descricao: "Índice de transmissibilidade" <https://www.sns.gov.pt/noticias/2021/03/08/covid-19-indice-de-transmissibilidade/>
+
+* 3m: Situação epidemiológica no país (André Peralta Santos - DGS)
+* 10m: Evolução da incidência e transmissibilidade (Baltazar Nunes - Dr. Ricardo Jorge)
+* 20m: Vigilância de variantes genéticas (Joao Paulo Gomes - Dr. Ricardo Jorge)
+*
+* 34m: Resposta À Pandemia Percursos Para A Decisão (Henrique Barros - ISPUP)
+* 52m: Critérios Para Uma Pandemia Controlada: Fases 2 E 3 (Baltazar Nunes - Grupo De Peritos)
+* 1h12m: Plano Para Redução Das Medidas Restritivas (Óscar Felgueiras - ARSN / Raquel Duarte )
+
+ 
+imprensa: linhas vermelhas <https://observador.pt/especiais/as-linhas-vermelhas-para-recuar-no-desconfinamento-se-a-epidemia-se-descontrolar-outra-vez/>
+
+
+
 # Reunioes do infarmed - Formato
 
 O formato actual das reunioes do infarmed 'e extremamente ineficiente:
