@@ -1,0 +1,42 @@
+site_name: Covid posts
+
+theme:
+    name: readthedocs
+    #name: mkdocs
+
+   #name: rtd-dropdown
+    #name: material
+    features:
+      # - navigation.instant
+      - navigation.sections
+      - navigation.tabs
+
+markdown_extensions:
+    # this makes anchors at the headings
+    - toc:
+        permalink: yes
+    - admonition
+    - def_list
+    #- mdx_gh_links:
+    #    user: mkdocs
+    #    repo: mkdocs
+        
+    
+#  cat index.md  | grep -- "^# "  | awk -F, '{print "-",$1,":",$1".md" }'    
+#for file in `grep_onoff.sh ../mkdocs.yml nav | grep md | columnx.sh -1` ; do  touch $file ; done
+nav:
+    - Confinamento : confinamento.md
+    - Vacinacao : vacinacao.md
+    - Negacionistas : negacionistas.md
+    - Infarmed : infarmed.md
+    - Testes : testes.md
+    - APP  : app.md
+    - Mascaras  : mascaras.md
+    - Estatistica: estatistica.md
+    - Humor  : humor.md
+    - Varios : varios.md
+  
+  
+# Target for Edit in GitHub button.
+#repo_url: https://github.com/MichaelCurrin/mkdocs-quickstart/  
+    
