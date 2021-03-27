@@ -714,27 +714,23 @@ imprensa: linhas vermelhas <https://observador.pt/especiais/as-linhas-vermelhas-
 
 ## 17 reuniao do infarmed
 
-8 marco de 2021
+23 marco de 2021:
+* sumario: <https://www.sns.gov.pt/noticias/2021/03/23/covid-19-reuniao-de-peritos/>  
+* comentario 'a saida: <https://www.sns.gov.pt/noticias/2021/03/23/covid-19-reuniao-com-peritos-3/>
+* transmissao TV: <https://www.youtube.com/watch?v=NhILHa9ORjg>  (duracao: 1h44m)
 
-sumario: <https://www.sns.gov.pt/noticias/2021/03/08/situacao-epidemiologica-da-covid-19-4/>  
-programa: <https://www.sns.gov.pt/wp-content/uploads/2021/03/20210308_COVID-19_Programa.pdf>
 
-Slides/transmissao TV: <https://www.youtube.com/watch?v=rx9g2PEpVbs>  (duracao: 1h44m)
+Apresentacoes:
+* Andre Peralta: [Situação epidemiológica no país](https://www.sns.gov.pt/wp-content/uploads/2021/03/ANDR%C3%89-PERALTA.pdf)
+* Baltazar Nunes e Ricardo Mexia [Evolução da incidência e transmissibilidade](https://www.sns.gov.pt/wp-content/uploads/2021/03/BALTAZAR-NUNES_RICARDO-MEXIA.pdf)
+* Paulo Gomes:  [Atualização da vigilância de variantes genéticas do novo coronavírus em Portugal](https://www.sns.gov.pt/wp-content/uploads/2021/03/JO%C3%83O-PAULO-GOMES.pdf)
+* Henrique Barros: [Covid-19 em Portugal | Um ano de aprendizagem](https://www.sns.gov.pt/wp-content/uploads/2021/03/HENRIQUE-BARROS.pdf)
+* Carla Nunes: [Perceções sociais sobre a Covid-19](https://www.sns.gov.pt/wp-content/uploads/2021/03/CARLA-NUNES.pdf)
+* Henrique Melo: [Ponto de situação do Plano de Vacinação contra a Covid-19](https://www.sns.gov.pt/wp-content/uploads/2021/03/HENRIQUE-MELO.pdf)
 
-descricao: "Descida de novos casos de Covid-19" <https://www.sns.gov.pt/noticias/2021/03/08/descida-de-novos-casos-de-covid-19/>
-descricao: "Índice de transmissibilidade" <https://www.sns.gov.pt/noticias/2021/03/08/covid-19-indice-de-transmissibilidade/>
-
-* 3m: Situação epidemiológica no país (André Peralta Santos - DGS)
-* 10m: Evolução da incidência e transmissibilidade (Baltazar Nunes - Dr. Ricardo Jorge)
-* 20m: Vigilância de variantes genéticas (Joao Paulo Gomes - Dr. Ricardo Jorge)
-*
-* 34m: Resposta À Pandemia Percursos Para A Decisão (Henrique Barros - ISPUP)
-* 52m: Critérios Para Uma Pandemia Controlada: Fases 2 E 3 (Baltazar Nunes - Grupo De Peritos)
-* 1h12m: Plano Para Redução Das Medidas Restritivas (Óscar Felgueiras - ARSN / Raquel Duarte )
-
- 
-imprensa: linhas vermelhas <https://observador.pt/especiais/as-linhas-vermelhas-para-recuar-no-desconfinamento-se-a-epidemia-se-descontrolar-outra-vez/>
-
+imprensa:
+* [Infarmed. Reunião com poucos dados deixou Governo otimista e partidos desconfiados](https://observador.pt/especiais/infarmed-ferro-preocupado-com-reinfecoes-marcelo-agradeceu-aos-especialistas-costa-calado/)
+* [Avançar com cautela. As reações à reunião do Infarmed](https://www.dn.pt/politica/avancar-com-cautela-a-reacao-dos-partidos-a-reuniao-do-infarmed--13490568.html)
 
 
 # Reunioes do infarmed - Formato
@@ -2121,7 +2117,7 @@ https://www.youtube.com/watch?v=cR6PwImlznI
 Sessao Hilariante do "Extremamente Desagradável" sobre os jornalistas pela verdade:
 <https://www.youtube.com/watch?v=NhmmQUXGQvA>
 
-## Antonio Costa vs PAcheco Pereira
+## Antonio Costa vs Pacheco Pereira
 
 O ponto alto do debate ontem na TVI24 aos 38m40s:
 
