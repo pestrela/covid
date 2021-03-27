@@ -107,6 +107,12 @@
   
 # Medidas Confinamento
 
+## Mensagem clara em horario nobre
+ 
+Finalmente informacao clara em horario nobre.
+![](img/mensagem_clara_em_horario_nobre.jpg)
+
+
 ## Confinamento PT
 
 Cada concelho teem medidas diferentes um nivel diferente de risco e de medidas
@@ -125,7 +131,7 @@ Este 'e o mapa diario dos concelhos. A cor pode mudar porque as medidas sao deci
 * Mapa dos concelhos: <https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/>
 
 
-## Confinamento Europa
+## Confinamento na Europa
 
 o ECDC compara as infeccoes dos varios paises:
 https://www.ecdc.europa.eu/sites/default/files/styles/is_full/public/images/w52_53_COVID_subnational_Last_2week.png
@@ -180,6 +186,31 @@ O da direita mostra que fazemos o dobro dos testes de Franca, mas oito vezes men
 
 ![ ](img/positividade_vs_testes_por_positivo.jpg)
 
+## Portugal no topo do mundo
+
+Janeiro 2021:
+
+Primeiro grafico: Portugal no topo do mundo em casos/1 Milhao.  
+Segundo grafico: Cada vez fazemos MENOS testes. Os casos positivos por Teste devia ser 4%.  
+
+![](img/portugal_pior_do_mundo_1.jpg)
+
+![](img/portugal_pior_do_mundo_2.jpg)
+
+## Janeiro 2021 - Hospitais em ruptura
+
+Hospital da Guarda em rutura.
+<https://sicnoticias.pt/especiais/coronavirus/2021-01-06-Hospital-da-Guarda-em-rutura.-Imagens-mostram-camas-amontoadas-nos-corredores>
+
+Sera' fake news? sera' em portugal? sera' de ontem? etc etc
+
+A forma mais simples de confirmar isso 'e ver a noticia seguinte:
+
+"O Hospital da Guarda confirma que o momento é muito difícil e anunciou já que vai redimensionar o espaço na urgência geral para diluir os doentes no espaço.
+As imagens divulgadas esta quarta-feira pela SIC mostram uma urgência não covid quase sem espaço, com doentes acamados nos corredores."
+
+<https://sicnoticias.pt/especiais/coronavirus/2021-01-06-Hospital-da-Guarda-anuncia-novo-plano-de-acomodacao-de-doentes-nas-urgencias-1>
+
 
 # Vacinacao
 
@@ -203,6 +234,44 @@ Comparacao com portugal, ver aos 25m:\
 <https://www.rtp.pt/play/p6690/o-ultimo-apaga-a-luz>
 "uma task force de 12 entidades 'e um dia bem passado" -> "task force da task force" -> "comissao de inquerito" -> "alto comissario"
  
+
+## Passaporte Covid
+
+Sobre o "passaporte" covid, vejo comentadores na TV que não dizem o mais importante: o certificado FACILITA a viagem ao DISPENSAR o teste. E' tudo. 
+
+Informação da fonte:  
+"Os cidadãos ainda não vacinados poderão viajar para outro país da UE?  
+Sim. O Certificado Verde Digital deverá facilitar a livre circulação na UE, mas não será uma condição prévia para a mesma"
+
+<https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/covid-19-digital-green-certificates_pt#os-cidados-ainda-no-vacinados-podero-viajar-para-outro-pas-da-ue>
+
+## Seguranca das vacinas
+
+O assunto do dia e' a segurança das vacinas.
+
+Da astrazeneca houve 37 casos de trombose/embolia em 17 milhões. 
+
+Isto e' a prevalência normal de tromboses na população. Não e' causado pela vacina.
+
+E' mais provável serem atingidos por um raio no próximo ano:
+<https://www.cdc.gov/disasters/lightning/victimdata.html>
+
+Se todos os 10M portugueses tomassem esta vacina (2 doses) iamos ter 43 casos no TOTAL. 
+Em Janeiro morreram 300 __POR DIA__.
+
+
+A explicação é que as pessoas teem imensa dificuldade em comparar percentagens derivadas de numeros muito grandes.
+Pelo que ficam agarradas aos números absolutos pequenos, que compreendem melhor.
+Se não querem tomar a vossa vacina, em particular da astra zeneca, sff dêem o meu nome!
+
+## Comparacao das 5 vacinas
+
+"your local epidemiologist" 'e uma pagina no FB que recomendo. Informacao directa de Ciencia explicada de forma simples.
+
+<https://yourlocalepidemiologist.substack.com/about>
+
+Em particular manteem actualizado esta tabela comparando as vacinas das diferentes marcas:
+![ ](img/comparacao_5_vacinas.jpg)
 
 
   
@@ -247,6 +316,20 @@ Quando vemos "cherry picking" propositado, isso 'e ma'-fe';
 Noutras pessoas pode ser apenas ignorancia cientifica e desleixo, quando partilham mensagem erradas sem as verificarem em fontes crediveis ("poligrafo", "fact checking", etc).
 
 
+## Correlacao vs Causalidade - Variaveis ocultas
+
+Esta estatisticamente provado que quando se vendem mais gelados, ha mais afogamentos.  
+Sera' que as criancas caem na piscina a correr com o gelado na mao?
+
+Nao. Uma nao causa a outra.  
+Em vez disso, ambas sao causadas por uma terceira variavel oculta: a tempertura.
+
+Temperaturas altas levam a mais gelados e a mais afogamentos.
+<https://www.thoughtco.com/correlation-and-causation-in-statistics-3126340>
+
+Em baixo muiot mais exemplos:
+![ ](img/correlation_examples.jpg)
+
 ## Meta analises de ivermectina e hidroxicloroquina
 
 Analise do poligrafo brazil: <https://piaui.folha.uol.com.br/lupa/2021/02/23/anuncio-medicos-pela-vida-covid-19/> sobre as meta analises do site <https://c19study.com/>, <https://c19ivermectin.com/> e similares:
@@ -269,6 +352,17 @@ Problemas:
 
 manifesto falso: <https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/02/manifesto-medicos-pela-vida.pdf>
 
+## Milhoes vs Bilioes de segundos
+
+
+Todos os dias ouvimos falar de "Milhoes de euros", mas tambem de "Mil milhoes de euros".  
+Essa 'e a diferenca basica entre um Milionario e um Bilionario nos EUA.
+
+Para ter uma idea, um milhao de segundos sao 11 Dias.  
+Mil milhoes de segundos sao 31 Anos.
+
+
+![](img/millions_vs_billions.jpg)
 
 
 ## Reportagem e Debate TVI sobre negacionistas
@@ -1328,10 +1422,11 @@ Ver também a mesma opinião os 2:10 de um dos poucos jornalistas especialistas 
 Permissoes da APP alema:
 ![ ](img/app_whatsapp_vs_covid_app.jpg)
 
-
-
 Permissoes da APP espanhola:
 ![](img/app_espanha_permissoes.jpg)  
+ 
+Permissoes de APPs populares:
+![](img/permissoes_apps_populares.jpg)
  
 Artigo da PCMag sobre permissoes de apps:
 https://www.pcmag.com/news/what-does-big-tech-know-about-you-basically-everything
@@ -1788,7 +1883,32 @@ Entrevista ao INESC:
 <https://www.youtube.com/watch?v=_hEV8bbTNBo>
 <https://zap.aeiou.pt/stayaway-obrigatoria-eficacia-reduzida-360904>
 
+## A App falhou por razoes politicas
 
+Esta declaracao de 60 segundos e 'e um exemplo clarissimo que o sucesso de um projecto de adopcao global 'e 5% de razoes tecnicas, e 95% de razoes politicas.
+
+A maior parte dessas razoes politicas acontecem porque os politicos nao sao tecnicos, nem percebem de tecnologia.
+
+<https://www.youtube.com/watch?v=Txyp5rKNc7s>
+
+## Marco 2021: governo quer agilizar App
+
+Finalmente o governo percebeu que a app falhou por razoes politicas:
+* geracao por outros profissionais de saúde, que não apenas médicos
+* geracao totalmente automatica de codigos 
+<https://www.dinheirovivo.pt/geral/governo-quer-alterar-aplicacao-stayaway-covid-13500631.html>
+
+Sem surpresa a CNPD levanta problemas:
+"nada permite, por isso, afirmar a capacidade dessa comunicacao em manter a preotecao de dados dos titulares"
+"a entrada de uma nova entidde no circuita da informacao, entidde asministrtiv que opera fora dos servicos de saude..."
+<https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121866>
+
+Ja' passou um ano. Continua a nao haver urgencia nenhuma.
+
+## Resolucoes da CNPD sobre a APP
+
+A CNPD comentou diversas vezes a APP stayaway covid. Aqui esta' a lista:
+<https://www.cnpd.pt/covid-19/>
 
 
 # Impacto na Economia
@@ -1799,9 +1919,7 @@ e dificuldades do sector da restaurcao, bebidas e hotelaria.
 
 <https://ahresp.com/app/uploads/2020/07/Especial-COVID-19-n%C2%BA3-20200715_V2.pdf>
 
-TODO: fazer sumario
-  
-  
+ 
 # Mascaras e EPIs  
 
 ## Quando 'e que a distancia dos 2m não 'e apropriada?
@@ -1975,13 +2093,43 @@ https://www.youtube.com/watch?v=cR6PwImlznI
   
 ## Humor sobre negacionistas
 
-Sessao Hilariante do "Extremamente Desagradável".
+Sessao Hilariante do "Extremamente Desagradável" sobre os jornalistas pela verdade:
 <https://www.youtube.com/watch?v=NhmmQUXGQvA>
 
+## Antonio Costa vs PAcheco Pereira
+
+O ponto alto do debate ontem na TVI24 aos 38m40s:
+
+"'O Pacheco Pereira
+eu garanto lhe uma coisa
+voce nao gosta de esponja
+voce por característica gosta dessa coisa confrontacional
+tivesse eu a sua personalidade, e ao fim de 15 dias da pandemia tinha caido para o lado
+ou nao tinha resistido"
+
+<https://tvi24.iol.pt/videos/circulatura-do-quadrado/circulatura-do-quadrado-com-antonio-costa/6011faad0cf2951d9a0789dc>
 
 
+## Premio Unicórnio Voador 2020
 
-  
+Quem foi o mais negacionista em 2020? quem causou mais dano 'a sociedade?
+Uma escolha muito dificil
+
+------
+Prémio Unicórnio Voador 2020 - Battle Royale
+- Médicos pela Verdade
+- Jornalistas pela Verdade
+- Advogados pela Verdade
+- César Augusto Moniz
+- João Beles
+- André Dias
+- Raquel Varela
+
+<https://tinyurl.com/unicorniovoador2020>
+
+![ ](https://comcept.org/wp-content/uploads/2021/03/unicornio_voador_2020_final_jpeg-768x431.jpg)
+
+
 ## Anormais
 
 [Joao Duarte](https://www.facebook.com/scimed.evidencia/posts/1049726375509195?comment_id=1049757465506086)
@@ -1989,6 +2137,45 @@ Sessao Hilariante do "Extremamente Desagradável".
 Para mim o pior da pandemia não foram as mortes, foi perceber que vivo rodeado de atrasados mentais, obscurantistas, irracionais, falsificadores, egocêntricos, egoistas, abjectos e mentirosos. Mesmo em sítios ou pessoas que achariamos que seriam bastiões seguros de inteligência, racionalidade e humanidade.
 
 Vivemos rodeados de anormais em quem não podemos confiar.
+  
+  
+## 9x Internados no Supermercado
+
+"A senhora da caixa (do supermercado) dirige-se ao microfone e diz: 
+'A pessoa que está identificada com covid que se dirija em segurança à caixa'. 
+Apareceram nove. Isto não é uma anedota, apareceram nove pessoas”,
+
+<https://sol.sapo.pt/artigo/722402/diogo-clemente-denuncia-situacao-vivida-em-supermercado-apareceram-nove-pessoas-com-covid-19>
+
+## Entrevista a maria jose morgado
+
+Respostas lamentaveis, a todos os niveis.
+
+Em particular ao 30s:
+"mas havia alternativa?" -> "nao me faca essa pergunta, nao vou responder"
+<https://www.youtube.com/watch?v=71lJsZVCgKE>
+
+sem surpresas, tambem recorre 'a reducao "ad Hitlerum"
+<https://pt.wikipedia.org/wiki/Reductio_ad_Hitlerum>
+
+video: <https://www.youtube.com/watch?v=71lJsZVCgKE>
+  
+## NEIN
+  
+Nos nao falamos Alemao... 
+mas nem e' preciso usar o google translate para perceber o que este medico nos esta' a dizer:
+"
+...
+8. Aber da wird ein Chip.... NEIN!
+9. Und Bill Gates.... NEIN!
+...
+"
+
+In Portugal we do get our fair share of idiots that have a special pleasure of both promoting 
+and spreading extremly obvious fake news.
+
+
+![](img/german_fake_news.jpg)
   
   
 ## Pictures
@@ -1999,11 +2186,41 @@ Grunho do facebook:
 Fernando Rocha:
 ![pic](img/fernando_rocha_1.jpg)
   
-Baby Yoda teches masks:
+Baby Yoda teaches masks:
 ![pic](img/yoda_teaches_masks.jpg)
 
 Mascaras:
 ![ ](img/covid_mascara_camelo.jpg)
+
+Patudos:
+![ ](img/patudos_mascara.jpg)
+
+Bill Gates e a Coca Cola:
+![ ](img/bill_gates_coca_cola.png)
+
+Especialistas do Facebook:
+![ ](img/facebook_expert.jpg)
+
+Seguranca das Vacinas:
+![ ](img/seguranca_das_vacinas.jpg)
+
+Clientes fogem para nao serem apanhados:
+![ ](img/clientes_fogem_de_ser_apanhados.jpg)
+
+Bula da vacina covid:
+![](img/vacina_covid_vs_paracetamol.jpg)
+
+Rapidez da vacina:
+![](img/rapidez_da_vacina.jpg)
+
+O Chip da vacina: 
+![](img/google_e_facebook_vs_vacina_chip.jpg)
+
+Somos todos especialistas em avioes:
+![](img/especialistas_em_avioes.jpg)
+
+
+
 
 
 # Varios
