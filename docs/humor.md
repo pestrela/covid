@@ -47,28 +47,26 @@ Somos todos especialistas em avioes:
 
 
 
-## Titulos de Jornal
+## Entrevista surreal
 
-* Papiro
-    * ["Loures põe funcionários a contar autocarros para garantir que passam todos"](https://www.publico.pt/2020/07/10/local/noticia/loures-poe-funcionarios-contar-autocarros-garantir-passam-1924027)
-    * Comentário: Sera’ que vao usar papiro e escrever com penas e tinta dos monges copistas?
-* Entrevista surreal
-    * ["entrevista a Correia de Campos e Diogo Cabrita"](https://www.facebook.com/pedro.vale.estrela/posts/3284345564951293)
-    * Comentário: Uma entrevista/debate completamente surreal, a todos os niveis. A jornalista tao cedo nao vai esquecer estes 30m.
-* Atraso na APP
-    * ["O que falta fazer para a app que ajudará no rastreio da Covid-19 estar pronta"](https://visao.sapo.pt/visaosaude/2020-07-09-stayaway-covid-o-que-falta-fazer-para-a-app-que-ajudara-no-rastreio-da-covid-19-estar-pronto/)
-    * Comentário: estamos na fase da APP estar pronta "no fim do mês, em cada mês". Na fase do "eu digo o mês, mas não digo o ano".
-* Almoçar morcego
-    * ["Local de habitação "é o principal meio de transmissão" do vírus"](https://www.jn.pt/nacional/local-de-coabitacao-e-o-principal-contexto-de-transmissao-do-virus-12118723.html )
-    * Comentário: Mas a DGS acho que andamos todos a almoçar morcego?
+Uma entrevista/debate completamente surreal, a todos os niveis. A jornalista tao cedo nao vai esquecer estes 30m.
+
+Intervenientes: Correia de Campos e Diogo Cabrita
+
+
+<https://www.facebook.com/pedro.maia.5201/posts/10160031936148135>
+
+
+![ ](img/enrevista_ministro_saude.png)
+
   
-## Vampiros
+## Sobre Vampiros
 
 "Ah e tal, o problema e' a App covid ter o bluetooth sempre ligado."
 
 A tal app que foi desenhada explicitamente para respeitar a privacidade.
 
-Exactamente como as companhias mais valiosas do mundo foram desenhadas explicitamente para abusar da vossa privacidade.
+Exatamente como as companhias mais valiosas do mundo foram desenhadas explicitamente para abusar da vossa privacidade.
 
 O Vampiro so' entra em casa convidado. No FB e quejandos, e' um muro de texto em legales, e um botao convidativo a dizer "I agree".
 
@@ -77,8 +75,11 @@ O Vampiro so' entra em casa convidado. No FB e quejandos, e' um muro de texto em
   
 ## Humor sobre negacionistas
 
-Sessao Hilariante do "Extremamente Desagradável" sobre os jornalistas pela verdade:
+Sessão Hilariante do "Extremamente Desagradável" sobre os jornalistas pela verdade:
 <https://www.youtube.com/watch?v=NhmmQUXGQvA>
+
+![](img/extremamente_desagradavel_negacionistas.png)
+
 
 ## Antonio Costa vs Pacheco Pereira
 
@@ -93,6 +94,7 @@ ou nao tinha resistido"
 
 <https://tvi24.iol.pt/videos/circulatura-do-quadrado/circulatura-do-quadrado-com-antonio-costa/6011faad0cf2951d9a0789dc>
 
+![ ](img/antonio_costa_quadrado.png)
 
 ## Premio Unicórnio Voador 2020
 
@@ -122,6 +124,7 @@ Para mim o pior da pandemia não foram as mortes, foi perceber que vivo rodeado 
 
 Vivemos rodeados de anormais em quem não podemos confiar.
   
+![](img/scimed_logo.png)
   
 ## 9x Internados no Supermercado
 
@@ -131,18 +134,22 @@ Apareceram nove. Isto não é uma anedota, apareceram nove pessoas”,
 
 <https://sol.sapo.pt/artigo/722402/diogo-clemente-denuncia-situacao-vivida-em-supermercado-apareceram-nove-pessoas-com-covid-19>
 
+![](img/diogo_clemente_supermercado.png)
+
 ## Entrevista a maria jose morgado
 
-Respostas lamentaveis, a todos os niveis.
+Respostas lamentáveis, a todos os níveis.
 
 Em particular ao 30s:
 "mas havia alternativa?" -> "nao me faca essa pergunta, nao vou responder"
 <https://www.youtube.com/watch?v=71lJsZVCgKE>
 
-sem surpresas, tambem recorre 'a reducao "ad Hitlerum"
+sem surpresas, também recorre 'a reducao "ad Hitlerum"
 <https://pt.wikipedia.org/wiki/Reductio_ad_Hitlerum>
 
 video: <https://www.youtube.com/watch?v=71lJsZVCgKE>
+  
+![](img/maria_jose_morgado_sic.png)
   
 ## NEIN...
   
