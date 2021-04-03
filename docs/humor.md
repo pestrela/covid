@@ -14,8 +14,6 @@ Grunho do facebook:
 ![pic](img/grunho_do_facebook.png)
 
 
-Fernando Rocha:
-![pic](img/fernando_rocha_1.jpg)
   
 Baby Yoda teaches masks:
 ![pic](img/yoda_teaches_masks.jpg)
@@ -31,7 +29,7 @@ Bill Gates e a Coca Cola:
 ![ ](img/bill_gates_coca_cola.png)
 
 Especialistas do Facebook:
-![ ](img/facebook_expert.jpg)
+![ ](img/facebook_expert.png)
 
 Seguranca das Vacinas:
 ![ ](img/seguranca_das_vacinas.jpg)
@@ -45,6 +43,8 @@ Bula da vacina covid:
 Somos todos especialistas em avioes:
 ![](img/especialistas_em_avioes.jpg)
 
+Fernando Rocha:
+![pic](img/fernando_rocha_1.jpg)
 
 
 ## Entrevista surreal
@@ -142,12 +142,13 @@ Respostas lamentáveis, a todos os níveis.
 
 Em particular ao 30s:
 "mas havia alternativa?" -> "nao me faca essa pergunta, nao vou responder"
-<https://www.youtube.com/watch?v=71lJsZVCgKE>
+<https://www.tsf.pt/programa/governo-sombra.html>
+[link para mp3](https://d2al3n45gr0h51.cloudfront.net/ngx-audio/2021/01/02_janeiro_2021_governo_sombra_online_20210102012109/mp3/02_janeiro_2021_governo_sombra_online_20210102012109.mp3)
+
 
 sem surpresas, também recorre 'a reducao "ad Hitlerum"
 <https://pt.wikipedia.org/wiki/Reductio_ad_Hitlerum>
 
-video: <https://www.youtube.com/watch?v=71lJsZVCgKE>
   
 ![](img/maria_jose_morgado_sic.png)
   
