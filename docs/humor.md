@@ -1,8 +1,53 @@
 
 # Humor 
 
-## Humor
 
+## Pictures
+
+Rapidez da vacina:
+![](img/rapidez_da_vacina.jpg)
+
+O Chip da vacina: 
+![](img/google_e_facebook_vs_vacina_chip.jpg)
+  
+Grunho do facebook:
+![pic](img/grunho_do_facebook.png)
+
+
+Fernando Rocha:
+![pic](img/fernando_rocha_1.jpg)
+  
+Baby Yoda teaches masks:
+![pic](img/yoda_teaches_masks.jpg)
+
+Patudos:
+![ ](img/patudos_mascara.jpg)
+
+Mascaras:
+![ ](img/covid_mascara_camelo.jpg)
+
+
+Bill Gates e a Coca Cola:
+![ ](img/bill_gates_coca_cola.png)
+
+Especialistas do Facebook:
+![ ](img/facebook_expert.jpg)
+
+Seguranca das Vacinas:
+![ ](img/seguranca_das_vacinas.jpg)
+
+Clientes fogem para nao serem apanhados:
+![ ](img/clientes_fogem_de_ser_apanhados.jpg)
+
+Bula da vacina covid:
+![](img/vacina_covid_vs_paracetamol.jpg)
+
+Somos todos especialistas em avioes:
+![](img/especialistas_em_avioes.jpg)
+
+
+
+## Titulos de Jornal
 
 * Papiro
     * ["Loures põe funcionários a contar autocarros para garantir que passam todos"](https://www.publico.pt/2020/07/10/local/noticia/loures-poe-funcionarios-contar-autocarros-garantir-passam-1924027)
@@ -118,45 +163,5 @@ and spreading extremly obvious fake news.
 ![](img/german_fake_news.jpg)
   
   
-## Pictures
-  
-Grunho do facebook:
-![pic](img/grunho_do_facebook.png)
-
-Fernando Rocha:
-![pic](img/fernando_rocha_1.jpg)
-  
-Baby Yoda teaches masks:
-![pic](img/yoda_teaches_masks.jpg)
-
-Mascaras:
-![ ](img/covid_mascara_camelo.jpg)
-
-Patudos:
-![ ](img/patudos_mascara.jpg)
-
-Bill Gates e a Coca Cola:
-![ ](img/bill_gates_coca_cola.png)
-
-Especialistas do Facebook:
-![ ](img/facebook_expert.jpg)
-
-Seguranca das Vacinas:
-![ ](img/seguranca_das_vacinas.jpg)
-
-Clientes fogem para nao serem apanhados:
-![ ](img/clientes_fogem_de_ser_apanhados.jpg)
-
-Bula da vacina covid:
-![](img/vacina_covid_vs_paracetamol.jpg)
-
-Rapidez da vacina:
-![](img/rapidez_da_vacina.jpg)
-
-O Chip da vacina: 
-![](img/google_e_facebook_vs_vacina_chip.jpg)
-
-Somos todos especialistas em avioes:
-![](img/especialistas_em_avioes.jpg)
 
 
