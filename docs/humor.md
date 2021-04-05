@@ -81,6 +81,16 @@ Sessão Hilariante do "Extremamente Desagradável" sobre os jornalistas pela ver
 ![](img/extremamente_desagradavel_negacionistas.png)
 
 
+## Humor sobre negacionistas2
+
+Sessão Hilariante do "ÓDIO DE ESTIMAÇÃO" sobre os negacionistas da covid:
+<https://www.youtube.com/watch?v=NhmmQUXGQvA>
+
+![](img/odio_de_estimacao_negacionistas_da_covid.png)
+
+
+
+
 ## Antonio Costa vs Pacheco Pereira
 
 O ponto alto do debate ontem na TVI24 aos 38m40s:
@@ -171,5 +181,13 @@ and spreading extremly obvious fake news.
 ![](img/german_fake_news.jpg)
   
   
+## mRNA muda o DNA?
+Cesar Preto:\  
+"A malta que acha que a vacina mRNA lhe pode alterar o património genético devia encarar a situação como uma oportunidade."
+
+[source](https://www.facebook.com/scimed.evidencia/posts/1100146840467148?comment_id=1100158220466010&notif_id=1617537668045248&notif_t=feed_comment_reply&ref=notif)
+
+
+
 
 
