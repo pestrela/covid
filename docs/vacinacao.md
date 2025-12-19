@@ -1,6 +1,41 @@
 
 # Vacinacao
 
+## A vacina diminui a transmissao
+
+A questão do momento e' se as vacinas reduzem a transmissão silenciosa de covid por assintomaticos sem sintomas.
+
+A resposta é um claro sim, para vacinas completas de duas doses + 15 dias.
+
+A melhor fonte e' este estudo de Israel feito 'a população inteira com a vacina da Pfizer. Neste exemplo a vacina reduziu 10 vezes o contágio sem sintomas.
+
+"The estimated vaccine effectiveness for the asymptomatic infection proxy was ... 90% (95% CI, 83 to 94) 7 or more days after the second dose (Table S3 and Fig. S5)."
+
+Artigo:
+<https://www.nejm.org/doi/full/10.1056/nejmoa2101765>
+
+Sumario:
+<https://www.gavi.org/vaccineswork/mounting-evidence-suggests-covid-vaccines-do-reduce-transmission-how-does-work>
+
+## Sobre os Penduras
+
+Sobre os parasitas, magnifico editorial da VISAO:
+"Estamos perante uma invasão de penduras. Gente que não se quer vacinar, mas que quer lucrar com a imunização alheia. 
+Quais parasitas, não alinham na mais importante campanha internacional das últimas décadas, mas querem continuar a beneficiar de todos os direitos e benesses da vida em sociedade."
+
+Sobre os 4 tipos de penduras:
+"Há pelo menos quatro tipos de penduras: negacionistas, cobardes, alternativos e inconsequentes"
+
+Sobre negacionistas:
+"que se dividem em alucinados, libertários, chico-espertos e ignorantes."
+
+Sobre as probabilidades:
+"Muitos temem também os raríssimos coágulos e as complicações graves, sendo certo que o risco de terem problemas com medicamentos de uso comum ou um acidente de viação é incomparavelmente maior. 
+Mas não temem ir parar a uma UCI, onde são picados diariamente e podem ter de ser ventilados e entubados, e, se tiverem sorte de sobreviver, ter de reaprender coisas básicas como engolir ou andar."
+
+<https://visao.sapo.pt/opiniao/ponto-de-vista/em-sincronizacao/2021-07-07-os-penduras/>
+
+
 ## Plano de vacinacao PT
 
 * plano vacinaco (19 paginas): <https://www.sns.gov.pt/wp-content/uploads/2019/06/PlanoVacinacaoCovid_19.pdf>

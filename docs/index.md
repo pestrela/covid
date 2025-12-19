@@ -5,6 +5,7 @@
 Este site agrupa os meus comentarios sobre o COVID que faco no facebook.
 
 Use o indice do lado direito para navegar nas seccoes:
+
 * [Confinamento](confinamento.md)
 * [Vacinacao](vacinacao.md)
 * [Negacionistas](negacionistas.md)
